@@ -1,0 +1,3976 @@
+01/29 01:40:29 PM | 
+01/29 01:40:29 PM | Parameters:
+01/29 01:40:29 PM | BATCH_SIZE=64
+01/29 01:40:29 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:40:29 PM | DATASET=iemocap_kfold
+01/29 01:40:29 PM | EPOCHS=50
+01/29 01:40:29 PM | FEATURES=tonnetz
+01/29 01:40:29 PM | FOLD=1
+01/29 01:40:29 PM | GPUS=[0]
+01/29 01:40:29 PM | LEARNING_RATE=0.001
+01/29 01:40:29 PM | MODEL=cnnlstm
+01/29 01:40:29 PM | NAME=new
+01/29 01:40:29 PM | PATH=train\new
+01/29 01:40:29 PM | PLOT_PATH=train\new\plots
+01/29 01:40:29 PM | PRINT_FREQ=50
+01/29 01:40:29 PM | SEED=2
+01/29 01:40:29 PM | WORKERS=2
+01/29 01:40:29 PM | 
+01/29 01:40:29 PM | Logger is set - training start
+01/29 01:40:41 PM | 
+01/29 01:40:41 PM | Parameters:
+01/29 01:40:41 PM | BATCH_SIZE=64
+01/29 01:40:41 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:40:41 PM | DATASET=iemocap_kfold
+01/29 01:40:41 PM | EPOCHS=50
+01/29 01:40:41 PM | FEATURES=tonnetz
+01/29 01:40:41 PM | FOLD=1
+01/29 01:40:41 PM | GPUS=[0]
+01/29 01:40:41 PM | LEARNING_RATE=0.001
+01/29 01:40:41 PM | MODEL=cnnlstm
+01/29 01:40:41 PM | NAME=new
+01/29 01:40:41 PM | PATH=train\new
+01/29 01:40:41 PM | PLOT_PATH=train\new\plots
+01/29 01:40:41 PM | PRINT_FREQ=50
+01/29 01:40:41 PM | SEED=2
+01/29 01:40:41 PM | WORKERS=2
+01/29 01:40:41 PM | 
+01/29 01:40:45 PM | 
+01/29 01:40:45 PM | Parameters:
+01/29 01:40:45 PM | BATCH_SIZE=64
+01/29 01:40:45 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:40:45 PM | DATASET=iemocap_kfold
+01/29 01:40:45 PM | EPOCHS=50
+01/29 01:40:45 PM | FEATURES=tonnetz
+01/29 01:40:45 PM | FOLD=1
+01/29 01:40:45 PM | GPUS=[0]
+01/29 01:40:45 PM | LEARNING_RATE=0.001
+01/29 01:40:45 PM | MODEL=cnnlstm
+01/29 01:40:45 PM | NAME=new
+01/29 01:40:45 PM | PATH=train\new
+01/29 01:40:45 PM | PLOT_PATH=train\new\plots
+01/29 01:40:45 PM | PRINT_FREQ=50
+01/29 01:40:45 PM | SEED=2
+01/29 01:40:45 PM | WORKERS=2
+01/29 01:40:45 PM | 
+01/29 01:41:18 PM | 
+01/29 01:41:18 PM | Parameters:
+01/29 01:41:18 PM | BATCH_SIZE=64
+01/29 01:41:18 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:41:18 PM | DATASET=iemocap_kfold
+01/29 01:41:18 PM | EPOCHS=50
+01/29 01:41:18 PM | FEATURES=tonnetz
+01/29 01:41:18 PM | FOLD=1
+01/29 01:41:18 PM | GPUS=[0]
+01/29 01:41:18 PM | LEARNING_RATE=0.001
+01/29 01:41:18 PM | MODEL=cnnlstm
+01/29 01:41:18 PM | NAME=new
+01/29 01:41:18 PM | PATH=train\new
+01/29 01:41:18 PM | PLOT_PATH=train\new\plots
+01/29 01:41:18 PM | PRINT_FREQ=50
+01/29 01:41:18 PM | SEED=2
+01/29 01:41:18 PM | WORKERS=2
+01/29 01:41:18 PM | 
+01/29 01:41:18 PM | Logger is set - training start
+01/29 01:41:23 PM | 
+01/29 01:41:23 PM | Parameters:
+01/29 01:41:23 PM | BATCH_SIZE=64
+01/29 01:41:23 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:41:23 PM | DATASET=iemocap_kfold
+01/29 01:41:23 PM | EPOCHS=50
+01/29 01:41:23 PM | FEATURES=tonnetz
+01/29 01:41:23 PM | FOLD=1
+01/29 01:41:23 PM | GPUS=[0]
+01/29 01:41:23 PM | LEARNING_RATE=0.001
+01/29 01:41:23 PM | MODEL=cnnlstm
+01/29 01:41:23 PM | NAME=new
+01/29 01:41:23 PM | PATH=train\new
+01/29 01:41:23 PM | PLOT_PATH=train\new\plots
+01/29 01:41:23 PM | PRINT_FREQ=50
+01/29 01:41:23 PM | SEED=2
+01/29 01:41:23 PM | WORKERS=2
+01/29 01:41:23 PM | 
+01/29 01:41:27 PM | 
+01/29 01:41:27 PM | Parameters:
+01/29 01:41:27 PM | BATCH_SIZE=64
+01/29 01:41:27 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:41:27 PM | DATASET=iemocap_kfold
+01/29 01:41:27 PM | EPOCHS=50
+01/29 01:41:27 PM | FEATURES=tonnetz
+01/29 01:41:27 PM | FOLD=1
+01/29 01:41:27 PM | GPUS=[0]
+01/29 01:41:27 PM | LEARNING_RATE=0.001
+01/29 01:41:27 PM | MODEL=cnnlstm
+01/29 01:41:27 PM | NAME=new
+01/29 01:41:27 PM | PATH=train\new
+01/29 01:41:27 PM | PLOT_PATH=train\new\plots
+01/29 01:41:27 PM | PRINT_FREQ=50
+01/29 01:41:27 PM | SEED=2
+01/29 01:41:27 PM | WORKERS=2
+01/29 01:41:27 PM | 
+01/29 01:41:27 PM | Train: [ 1/50] Step 000/013 Loss 0.242 Acc 28.12%
+01/29 01:41:28 PM | Train: [ 1/50] Step 013/013 Loss 0.242 Acc 27.68%
+01/29 01:41:28 PM | Train: [ 1/50] Final Acc 27.6786% Train WA 27.4122%
+01/29 01:41:32 PM | 
+01/29 01:41:32 PM | Parameters:
+01/29 01:41:32 PM | BATCH_SIZE=64
+01/29 01:41:32 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:41:32 PM | DATASET=iemocap_kfold
+01/29 01:41:32 PM | EPOCHS=50
+01/29 01:41:32 PM | FEATURES=tonnetz
+01/29 01:41:32 PM | FOLD=1
+01/29 01:41:32 PM | GPUS=[0]
+01/29 01:41:32 PM | LEARNING_RATE=0.001
+01/29 01:41:32 PM | MODEL=cnnlstm
+01/29 01:41:32 PM | NAME=new
+01/29 01:41:32 PM | PATH=train\new
+01/29 01:41:32 PM | PLOT_PATH=train\new\plots
+01/29 01:41:32 PM | PRINT_FREQ=50
+01/29 01:41:32 PM | SEED=2
+01/29 01:41:32 PM | WORKERS=2
+01/29 01:41:32 PM | 
+01/29 01:41:36 PM | 
+01/29 01:41:36 PM | Parameters:
+01/29 01:41:36 PM | BATCH_SIZE=64
+01/29 01:41:36 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:41:36 PM | DATASET=iemocap_kfold
+01/29 01:41:36 PM | EPOCHS=50
+01/29 01:41:36 PM | FEATURES=tonnetz
+01/29 01:41:36 PM | FOLD=1
+01/29 01:41:36 PM | GPUS=[0]
+01/29 01:41:36 PM | LEARNING_RATE=0.001
+01/29 01:41:36 PM | MODEL=cnnlstm
+01/29 01:41:36 PM | NAME=new
+01/29 01:41:36 PM | PATH=train\new
+01/29 01:41:36 PM | PLOT_PATH=train\new\plots
+01/29 01:41:36 PM | PRINT_FREQ=50
+01/29 01:41:36 PM | SEED=2
+01/29 01:41:36 PM | WORKERS=2
+01/29 01:41:36 PM | 
+01/29 01:41:36 PM | Valid: [ 1/50] Step 000/001 Loss 0.242 Acc 10.94%
+01/29 01:41:36 PM | Valid: [ 1/50] Step 001/001 Loss 0.242 Acc 14.06%
+01/29 01:41:37 PM | Valid: [ 1/50] Final Acc 14.0625% Final W. Acc 27.9831%
+01/29 01:41:41 PM | 
+01/29 01:41:41 PM | Parameters:
+01/29 01:41:41 PM | BATCH_SIZE=64
+01/29 01:41:41 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:41:41 PM | DATASET=iemocap_kfold
+01/29 01:41:41 PM | EPOCHS=50
+01/29 01:41:41 PM | FEATURES=tonnetz
+01/29 01:41:41 PM | FOLD=1
+01/29 01:41:41 PM | GPUS=[0]
+01/29 01:41:41 PM | LEARNING_RATE=0.001
+01/29 01:41:41 PM | MODEL=cnnlstm
+01/29 01:41:41 PM | NAME=new
+01/29 01:41:41 PM | PATH=train\new
+01/29 01:41:41 PM | PLOT_PATH=train\new\plots
+01/29 01:41:41 PM | PRINT_FREQ=50
+01/29 01:41:41 PM | SEED=2
+01/29 01:41:41 PM | WORKERS=2
+01/29 01:41:41 PM | 
+01/29 01:41:45 PM | 
+01/29 01:41:45 PM | Parameters:
+01/29 01:41:45 PM | BATCH_SIZE=64
+01/29 01:41:45 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:41:45 PM | DATASET=iemocap_kfold
+01/29 01:41:45 PM | EPOCHS=50
+01/29 01:41:45 PM | FEATURES=tonnetz
+01/29 01:41:45 PM | FOLD=1
+01/29 01:41:45 PM | GPUS=[0]
+01/29 01:41:45 PM | LEARNING_RATE=0.001
+01/29 01:41:45 PM | MODEL=cnnlstm
+01/29 01:41:45 PM | NAME=new
+01/29 01:41:45 PM | PATH=train\new
+01/29 01:41:45 PM | PLOT_PATH=train\new\plots
+01/29 01:41:45 PM | PRINT_FREQ=50
+01/29 01:41:45 PM | SEED=2
+01/29 01:41:45 PM | WORKERS=2
+01/29 01:41:45 PM | 
+01/29 01:41:45 PM | Train: [ 2/50] Step 000/013 Loss 0.242 Acc 28.12%
+01/29 01:41:45 PM | Train: [ 2/50] Step 013/013 Loss 0.242 Acc 28.68%
+01/29 01:41:45 PM | Train: [ 2/50] Final Acc 28.6830% Train WA 25.6565%
+01/29 01:41:49 PM | 
+01/29 01:41:49 PM | Parameters:
+01/29 01:41:49 PM | BATCH_SIZE=64
+01/29 01:41:49 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:41:49 PM | DATASET=iemocap_kfold
+01/29 01:41:49 PM | EPOCHS=50
+01/29 01:41:49 PM | FEATURES=tonnetz
+01/29 01:41:49 PM | FOLD=1
+01/29 01:41:49 PM | GPUS=[0]
+01/29 01:41:49 PM | LEARNING_RATE=0.001
+01/29 01:41:49 PM | MODEL=cnnlstm
+01/29 01:41:49 PM | NAME=new
+01/29 01:41:49 PM | PATH=train\new
+01/29 01:41:49 PM | PLOT_PATH=train\new\plots
+01/29 01:41:49 PM | PRINT_FREQ=50
+01/29 01:41:49 PM | SEED=2
+01/29 01:41:49 PM | WORKERS=2
+01/29 01:41:49 PM | 
+01/29 01:41:53 PM | 
+01/29 01:41:53 PM | Parameters:
+01/29 01:41:53 PM | BATCH_SIZE=64
+01/29 01:41:53 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:41:53 PM | DATASET=iemocap_kfold
+01/29 01:41:53 PM | EPOCHS=50
+01/29 01:41:53 PM | FEATURES=tonnetz
+01/29 01:41:53 PM | FOLD=1
+01/29 01:41:53 PM | GPUS=[0]
+01/29 01:41:53 PM | LEARNING_RATE=0.001
+01/29 01:41:53 PM | MODEL=cnnlstm
+01/29 01:41:53 PM | NAME=new
+01/29 01:41:53 PM | PATH=train\new
+01/29 01:41:53 PM | PLOT_PATH=train\new\plots
+01/29 01:41:53 PM | PRINT_FREQ=50
+01/29 01:41:53 PM | SEED=2
+01/29 01:41:53 PM | WORKERS=2
+01/29 01:41:53 PM | 
+01/29 01:41:53 PM | Valid: [ 2/50] Step 000/001 Loss 0.242 Acc 14.06%
+01/29 01:41:53 PM | Valid: [ 2/50] Step 001/001 Loss 0.242 Acc 16.41%
+01/29 01:41:54 PM | Valid: [ 2/50] Final Acc 16.4062% Final W. Acc 28.9430%
+01/29 01:41:58 PM | 
+01/29 01:41:58 PM | Parameters:
+01/29 01:41:58 PM | BATCH_SIZE=64
+01/29 01:41:58 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:41:58 PM | DATASET=iemocap_kfold
+01/29 01:41:58 PM | EPOCHS=50
+01/29 01:41:58 PM | FEATURES=tonnetz
+01/29 01:41:58 PM | FOLD=1
+01/29 01:41:58 PM | GPUS=[0]
+01/29 01:41:58 PM | LEARNING_RATE=0.001
+01/29 01:41:58 PM | MODEL=cnnlstm
+01/29 01:41:58 PM | NAME=new
+01/29 01:41:58 PM | PATH=train\new
+01/29 01:41:58 PM | PLOT_PATH=train\new\plots
+01/29 01:41:58 PM | PRINT_FREQ=50
+01/29 01:41:58 PM | SEED=2
+01/29 01:41:58 PM | WORKERS=2
+01/29 01:41:58 PM | 
+01/29 01:42:02 PM | 
+01/29 01:42:02 PM | Parameters:
+01/29 01:42:02 PM | BATCH_SIZE=64
+01/29 01:42:02 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:42:02 PM | DATASET=iemocap_kfold
+01/29 01:42:02 PM | EPOCHS=50
+01/29 01:42:02 PM | FEATURES=tonnetz
+01/29 01:42:02 PM | FOLD=1
+01/29 01:42:02 PM | GPUS=[0]
+01/29 01:42:02 PM | LEARNING_RATE=0.001
+01/29 01:42:02 PM | MODEL=cnnlstm
+01/29 01:42:02 PM | NAME=new
+01/29 01:42:02 PM | PATH=train\new
+01/29 01:42:02 PM | PLOT_PATH=train\new\plots
+01/29 01:42:02 PM | PRINT_FREQ=50
+01/29 01:42:02 PM | SEED=2
+01/29 01:42:02 PM | WORKERS=2
+01/29 01:42:02 PM | 
+01/29 01:42:02 PM | Train: [ 3/50] Step 000/013 Loss 0.242 Acc 28.12%
+01/29 01:42:02 PM | Train: [ 3/50] Step 013/013 Loss 0.242 Acc 27.34%
+01/29 01:42:03 PM | Train: [ 3/50] Final Acc 27.3438% Train WA 25.8314%
+01/29 01:42:07 PM | 
+01/29 01:42:07 PM | Parameters:
+01/29 01:42:07 PM | BATCH_SIZE=64
+01/29 01:42:07 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:42:07 PM | DATASET=iemocap_kfold
+01/29 01:42:07 PM | EPOCHS=50
+01/29 01:42:07 PM | FEATURES=tonnetz
+01/29 01:42:07 PM | FOLD=1
+01/29 01:42:07 PM | GPUS=[0]
+01/29 01:42:07 PM | LEARNING_RATE=0.001
+01/29 01:42:07 PM | MODEL=cnnlstm
+01/29 01:42:07 PM | NAME=new
+01/29 01:42:07 PM | PATH=train\new
+01/29 01:42:07 PM | PLOT_PATH=train\new\plots
+01/29 01:42:07 PM | PRINT_FREQ=50
+01/29 01:42:07 PM | SEED=2
+01/29 01:42:07 PM | WORKERS=2
+01/29 01:42:07 PM | 
+01/29 01:42:11 PM | 
+01/29 01:42:11 PM | Parameters:
+01/29 01:42:11 PM | BATCH_SIZE=64
+01/29 01:42:11 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:42:11 PM | DATASET=iemocap_kfold
+01/29 01:42:11 PM | EPOCHS=50
+01/29 01:42:11 PM | FEATURES=tonnetz
+01/29 01:42:11 PM | FOLD=1
+01/29 01:42:11 PM | GPUS=[0]
+01/29 01:42:11 PM | LEARNING_RATE=0.001
+01/29 01:42:11 PM | MODEL=cnnlstm
+01/29 01:42:11 PM | NAME=new
+01/29 01:42:11 PM | PATH=train\new
+01/29 01:42:11 PM | PLOT_PATH=train\new\plots
+01/29 01:42:11 PM | PRINT_FREQ=50
+01/29 01:42:11 PM | SEED=2
+01/29 01:42:11 PM | WORKERS=2
+01/29 01:42:11 PM | 
+01/29 01:42:11 PM | Valid: [ 3/50] Step 000/001 Loss 0.243 Acc 14.06%
+01/29 01:42:11 PM | Valid: [ 3/50] Step 001/001 Loss 0.242 Acc 15.62%
+01/29 01:42:12 PM | Valid: [ 3/50] Final Acc 15.6250% Final W. Acc 25.7894%
+01/29 01:42:16 PM | 
+01/29 01:42:16 PM | Parameters:
+01/29 01:42:16 PM | BATCH_SIZE=64
+01/29 01:42:16 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:42:16 PM | DATASET=iemocap_kfold
+01/29 01:42:16 PM | EPOCHS=50
+01/29 01:42:16 PM | FEATURES=tonnetz
+01/29 01:42:16 PM | FOLD=1
+01/29 01:42:16 PM | GPUS=[0]
+01/29 01:42:16 PM | LEARNING_RATE=0.001
+01/29 01:42:16 PM | MODEL=cnnlstm
+01/29 01:42:16 PM | NAME=new
+01/29 01:42:16 PM | PATH=train\new
+01/29 01:42:16 PM | PLOT_PATH=train\new\plots
+01/29 01:42:16 PM | PRINT_FREQ=50
+01/29 01:42:16 PM | SEED=2
+01/29 01:42:16 PM | WORKERS=2
+01/29 01:42:16 PM | 
+01/29 01:42:19 PM | 
+01/29 01:42:19 PM | Parameters:
+01/29 01:42:19 PM | BATCH_SIZE=64
+01/29 01:42:19 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:42:19 PM | DATASET=iemocap_kfold
+01/29 01:42:19 PM | EPOCHS=50
+01/29 01:42:19 PM | FEATURES=tonnetz
+01/29 01:42:19 PM | FOLD=1
+01/29 01:42:19 PM | GPUS=[0]
+01/29 01:42:19 PM | LEARNING_RATE=0.001
+01/29 01:42:19 PM | MODEL=cnnlstm
+01/29 01:42:19 PM | NAME=new
+01/29 01:42:19 PM | PATH=train\new
+01/29 01:42:19 PM | PLOT_PATH=train\new\plots
+01/29 01:42:19 PM | PRINT_FREQ=50
+01/29 01:42:19 PM | SEED=2
+01/29 01:42:19 PM | WORKERS=2
+01/29 01:42:19 PM | 
+01/29 01:42:20 PM | Train: [ 4/50] Step 000/013 Loss 0.243 Acc 29.69%
+01/29 01:42:20 PM | Train: [ 4/50] Step 013/013 Loss 0.242 Acc 28.79%
+01/29 01:42:20 PM | Train: [ 4/50] Final Acc 28.7946% Train WA 26.7718%
+01/29 01:42:24 PM | 
+01/29 01:42:24 PM | Parameters:
+01/29 01:42:24 PM | BATCH_SIZE=64
+01/29 01:42:24 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:42:24 PM | DATASET=iemocap_kfold
+01/29 01:42:24 PM | EPOCHS=50
+01/29 01:42:24 PM | FEATURES=tonnetz
+01/29 01:42:24 PM | FOLD=1
+01/29 01:42:24 PM | GPUS=[0]
+01/29 01:42:24 PM | LEARNING_RATE=0.001
+01/29 01:42:24 PM | MODEL=cnnlstm
+01/29 01:42:24 PM | NAME=new
+01/29 01:42:24 PM | PATH=train\new
+01/29 01:42:24 PM | PLOT_PATH=train\new\plots
+01/29 01:42:24 PM | PRINT_FREQ=50
+01/29 01:42:24 PM | SEED=2
+01/29 01:42:24 PM | WORKERS=2
+01/29 01:42:24 PM | 
+01/29 01:42:28 PM | 
+01/29 01:42:28 PM | Parameters:
+01/29 01:42:28 PM | BATCH_SIZE=64
+01/29 01:42:28 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:42:28 PM | DATASET=iemocap_kfold
+01/29 01:42:28 PM | EPOCHS=50
+01/29 01:42:28 PM | FEATURES=tonnetz
+01/29 01:42:28 PM | FOLD=1
+01/29 01:42:28 PM | GPUS=[0]
+01/29 01:42:28 PM | LEARNING_RATE=0.001
+01/29 01:42:28 PM | MODEL=cnnlstm
+01/29 01:42:28 PM | NAME=new
+01/29 01:42:28 PM | PATH=train\new
+01/29 01:42:28 PM | PLOT_PATH=train\new\plots
+01/29 01:42:28 PM | PRINT_FREQ=50
+01/29 01:42:28 PM | SEED=2
+01/29 01:42:28 PM | WORKERS=2
+01/29 01:42:28 PM | 
+01/29 01:42:28 PM | Valid: [ 4/50] Step 000/001 Loss 0.243 Acc 9.38%
+01/29 01:42:28 PM | Valid: [ 4/50] Step 001/001 Loss 0.242 Acc 11.72%
+01/29 01:42:29 PM | Valid: [ 4/50] Final Acc 11.7188% Final W. Acc 21.0189%
+01/29 01:42:33 PM | 
+01/29 01:42:33 PM | Parameters:
+01/29 01:42:33 PM | BATCH_SIZE=64
+01/29 01:42:33 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:42:33 PM | DATASET=iemocap_kfold
+01/29 01:42:33 PM | EPOCHS=50
+01/29 01:42:33 PM | FEATURES=tonnetz
+01/29 01:42:33 PM | FOLD=1
+01/29 01:42:33 PM | GPUS=[0]
+01/29 01:42:33 PM | LEARNING_RATE=0.001
+01/29 01:42:33 PM | MODEL=cnnlstm
+01/29 01:42:33 PM | NAME=new
+01/29 01:42:33 PM | PATH=train\new
+01/29 01:42:33 PM | PLOT_PATH=train\new\plots
+01/29 01:42:33 PM | PRINT_FREQ=50
+01/29 01:42:33 PM | SEED=2
+01/29 01:42:33 PM | WORKERS=2
+01/29 01:42:33 PM | 
+01/29 01:42:37 PM | 
+01/29 01:42:37 PM | Parameters:
+01/29 01:42:37 PM | BATCH_SIZE=64
+01/29 01:42:37 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:42:37 PM | DATASET=iemocap_kfold
+01/29 01:42:37 PM | EPOCHS=50
+01/29 01:42:37 PM | FEATURES=tonnetz
+01/29 01:42:37 PM | FOLD=1
+01/29 01:42:37 PM | GPUS=[0]
+01/29 01:42:37 PM | LEARNING_RATE=0.001
+01/29 01:42:37 PM | MODEL=cnnlstm
+01/29 01:42:37 PM | NAME=new
+01/29 01:42:37 PM | PATH=train\new
+01/29 01:42:37 PM | PLOT_PATH=train\new\plots
+01/29 01:42:37 PM | PRINT_FREQ=50
+01/29 01:42:37 PM | SEED=2
+01/29 01:42:37 PM | WORKERS=2
+01/29 01:42:37 PM | 
+01/29 01:42:37 PM | Train: [ 5/50] Step 000/013 Loss 0.242 Acc 26.56%
+01/29 01:42:37 PM | Train: [ 5/50] Step 013/013 Loss 0.242 Acc 27.34%
+01/29 01:42:38 PM | Train: [ 5/50] Final Acc 27.3438% Train WA 25.0326%
+01/29 01:42:42 PM | 
+01/29 01:42:42 PM | Parameters:
+01/29 01:42:42 PM | BATCH_SIZE=64
+01/29 01:42:42 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:42:42 PM | DATASET=iemocap_kfold
+01/29 01:42:42 PM | EPOCHS=50
+01/29 01:42:42 PM | FEATURES=tonnetz
+01/29 01:42:42 PM | FOLD=1
+01/29 01:42:42 PM | GPUS=[0]
+01/29 01:42:42 PM | LEARNING_RATE=0.001
+01/29 01:42:42 PM | MODEL=cnnlstm
+01/29 01:42:42 PM | NAME=new
+01/29 01:42:42 PM | PATH=train\new
+01/29 01:42:42 PM | PLOT_PATH=train\new\plots
+01/29 01:42:42 PM | PRINT_FREQ=50
+01/29 01:42:42 PM | SEED=2
+01/29 01:42:42 PM | WORKERS=2
+01/29 01:42:42 PM | 
+01/29 01:42:46 PM | 
+01/29 01:42:46 PM | Parameters:
+01/29 01:42:46 PM | BATCH_SIZE=64
+01/29 01:42:46 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:42:46 PM | DATASET=iemocap_kfold
+01/29 01:42:46 PM | EPOCHS=50
+01/29 01:42:46 PM | FEATURES=tonnetz
+01/29 01:42:46 PM | FOLD=1
+01/29 01:42:46 PM | GPUS=[0]
+01/29 01:42:46 PM | LEARNING_RATE=0.001
+01/29 01:42:46 PM | MODEL=cnnlstm
+01/29 01:42:46 PM | NAME=new
+01/29 01:42:46 PM | PATH=train\new
+01/29 01:42:46 PM | PLOT_PATH=train\new\plots
+01/29 01:42:46 PM | PRINT_FREQ=50
+01/29 01:42:46 PM | SEED=2
+01/29 01:42:46 PM | WORKERS=2
+01/29 01:42:46 PM | 
+01/29 01:42:46 PM | Valid: [ 5/50] Step 000/001 Loss 0.243 Acc 12.50%
+01/29 01:42:46 PM | Valid: [ 5/50] Step 001/001 Loss 0.242 Acc 17.97%
+01/29 01:42:46 PM | Valid: [ 5/50] Final Acc 17.9688% Final W. Acc 29.3725%
+01/29 01:42:50 PM | 
+01/29 01:42:50 PM | Parameters:
+01/29 01:42:50 PM | BATCH_SIZE=64
+01/29 01:42:50 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:42:50 PM | DATASET=iemocap_kfold
+01/29 01:42:50 PM | EPOCHS=50
+01/29 01:42:50 PM | FEATURES=tonnetz
+01/29 01:42:50 PM | FOLD=1
+01/29 01:42:50 PM | GPUS=[0]
+01/29 01:42:50 PM | LEARNING_RATE=0.001
+01/29 01:42:50 PM | MODEL=cnnlstm
+01/29 01:42:50 PM | NAME=new
+01/29 01:42:50 PM | PATH=train\new
+01/29 01:42:50 PM | PLOT_PATH=train\new\plots
+01/29 01:42:50 PM | PRINT_FREQ=50
+01/29 01:42:50 PM | SEED=2
+01/29 01:42:50 PM | WORKERS=2
+01/29 01:42:50 PM | 
+01/29 01:42:54 PM | 
+01/29 01:42:54 PM | Parameters:
+01/29 01:42:54 PM | BATCH_SIZE=64
+01/29 01:42:54 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:42:54 PM | DATASET=iemocap_kfold
+01/29 01:42:54 PM | EPOCHS=50
+01/29 01:42:54 PM | FEATURES=tonnetz
+01/29 01:42:54 PM | FOLD=1
+01/29 01:42:54 PM | GPUS=[0]
+01/29 01:42:54 PM | LEARNING_RATE=0.001
+01/29 01:42:54 PM | MODEL=cnnlstm
+01/29 01:42:54 PM | NAME=new
+01/29 01:42:54 PM | PATH=train\new
+01/29 01:42:54 PM | PLOT_PATH=train\new\plots
+01/29 01:42:54 PM | PRINT_FREQ=50
+01/29 01:42:54 PM | SEED=2
+01/29 01:42:54 PM | WORKERS=2
+01/29 01:42:54 PM | 
+01/29 01:42:54 PM | Train: [ 6/50] Step 000/013 Loss 0.242 Acc 23.44%
+01/29 01:42:54 PM | Train: [ 6/50] Step 013/013 Loss 0.242 Acc 26.67%
+01/29 01:42:55 PM | Train: [ 6/50] Final Acc 26.6741% Train WA 24.4002%
+01/29 01:42:59 PM | 
+01/29 01:42:59 PM | Parameters:
+01/29 01:42:59 PM | BATCH_SIZE=64
+01/29 01:42:59 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:42:59 PM | DATASET=iemocap_kfold
+01/29 01:42:59 PM | EPOCHS=50
+01/29 01:42:59 PM | FEATURES=tonnetz
+01/29 01:42:59 PM | FOLD=1
+01/29 01:42:59 PM | GPUS=[0]
+01/29 01:42:59 PM | LEARNING_RATE=0.001
+01/29 01:42:59 PM | MODEL=cnnlstm
+01/29 01:42:59 PM | NAME=new
+01/29 01:42:59 PM | PATH=train\new
+01/29 01:42:59 PM | PLOT_PATH=train\new\plots
+01/29 01:42:59 PM | PRINT_FREQ=50
+01/29 01:42:59 PM | SEED=2
+01/29 01:42:59 PM | WORKERS=2
+01/29 01:42:59 PM | 
+01/29 01:43:03 PM | 
+01/29 01:43:03 PM | Parameters:
+01/29 01:43:03 PM | BATCH_SIZE=64
+01/29 01:43:03 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:43:03 PM | DATASET=iemocap_kfold
+01/29 01:43:03 PM | EPOCHS=50
+01/29 01:43:03 PM | FEATURES=tonnetz
+01/29 01:43:03 PM | FOLD=1
+01/29 01:43:03 PM | GPUS=[0]
+01/29 01:43:03 PM | LEARNING_RATE=0.001
+01/29 01:43:03 PM | MODEL=cnnlstm
+01/29 01:43:03 PM | NAME=new
+01/29 01:43:03 PM | PATH=train\new
+01/29 01:43:03 PM | PLOT_PATH=train\new\plots
+01/29 01:43:03 PM | PRINT_FREQ=50
+01/29 01:43:03 PM | SEED=2
+01/29 01:43:03 PM | WORKERS=2
+01/29 01:43:03 PM | 
+01/29 01:43:03 PM | Valid: [ 6/50] Step 000/001 Loss 0.243 Acc 17.19%
+01/29 01:43:03 PM | Valid: [ 6/50] Step 001/001 Loss 0.243 Acc 22.66%
+01/29 01:43:04 PM | Valid: [ 6/50] Final Acc 22.6562% Final W. Acc 25.4147%
+01/29 01:43:07 PM | 
+01/29 01:43:07 PM | Parameters:
+01/29 01:43:07 PM | BATCH_SIZE=64
+01/29 01:43:07 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:43:07 PM | DATASET=iemocap_kfold
+01/29 01:43:07 PM | EPOCHS=50
+01/29 01:43:07 PM | FEATURES=tonnetz
+01/29 01:43:07 PM | FOLD=1
+01/29 01:43:07 PM | GPUS=[0]
+01/29 01:43:07 PM | LEARNING_RATE=0.001
+01/29 01:43:07 PM | MODEL=cnnlstm
+01/29 01:43:07 PM | NAME=new
+01/29 01:43:07 PM | PATH=train\new
+01/29 01:43:07 PM | PLOT_PATH=train\new\plots
+01/29 01:43:07 PM | PRINT_FREQ=50
+01/29 01:43:07 PM | SEED=2
+01/29 01:43:07 PM | WORKERS=2
+01/29 01:43:07 PM | 
+01/29 01:43:11 PM | 
+01/29 01:43:11 PM | Parameters:
+01/29 01:43:11 PM | BATCH_SIZE=64
+01/29 01:43:11 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:43:11 PM | DATASET=iemocap_kfold
+01/29 01:43:11 PM | EPOCHS=50
+01/29 01:43:11 PM | FEATURES=tonnetz
+01/29 01:43:11 PM | FOLD=1
+01/29 01:43:11 PM | GPUS=[0]
+01/29 01:43:11 PM | LEARNING_RATE=0.001
+01/29 01:43:11 PM | MODEL=cnnlstm
+01/29 01:43:11 PM | NAME=new
+01/29 01:43:11 PM | PATH=train\new
+01/29 01:43:11 PM | PLOT_PATH=train\new\plots
+01/29 01:43:11 PM | PRINT_FREQ=50
+01/29 01:43:11 PM | SEED=2
+01/29 01:43:11 PM | WORKERS=2
+01/29 01:43:11 PM | 
+01/29 01:43:12 PM | Train: [ 7/50] Step 000/013 Loss 0.242 Acc 28.12%
+01/29 01:43:12 PM | Train: [ 7/50] Step 013/013 Loss 0.242 Acc 27.01%
+01/29 01:43:12 PM | Train: [ 7/50] Final Acc 27.0089% Train WA 24.8706%
+01/29 01:43:16 PM | 
+01/29 01:43:16 PM | Parameters:
+01/29 01:43:16 PM | BATCH_SIZE=64
+01/29 01:43:16 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:43:16 PM | DATASET=iemocap_kfold
+01/29 01:43:16 PM | EPOCHS=50
+01/29 01:43:16 PM | FEATURES=tonnetz
+01/29 01:43:16 PM | FOLD=1
+01/29 01:43:16 PM | GPUS=[0]
+01/29 01:43:16 PM | LEARNING_RATE=0.001
+01/29 01:43:16 PM | MODEL=cnnlstm
+01/29 01:43:16 PM | NAME=new
+01/29 01:43:16 PM | PATH=train\new
+01/29 01:43:16 PM | PLOT_PATH=train\new\plots
+01/29 01:43:16 PM | PRINT_FREQ=50
+01/29 01:43:16 PM | SEED=2
+01/29 01:43:16 PM | WORKERS=2
+01/29 01:43:16 PM | 
+01/29 01:43:20 PM | 
+01/29 01:43:20 PM | Parameters:
+01/29 01:43:20 PM | BATCH_SIZE=64
+01/29 01:43:20 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:43:20 PM | DATASET=iemocap_kfold
+01/29 01:43:20 PM | EPOCHS=50
+01/29 01:43:20 PM | FEATURES=tonnetz
+01/29 01:43:20 PM | FOLD=1
+01/29 01:43:20 PM | GPUS=[0]
+01/29 01:43:20 PM | LEARNING_RATE=0.001
+01/29 01:43:20 PM | MODEL=cnnlstm
+01/29 01:43:20 PM | NAME=new
+01/29 01:43:20 PM | PATH=train\new
+01/29 01:43:20 PM | PLOT_PATH=train\new\plots
+01/29 01:43:20 PM | PRINT_FREQ=50
+01/29 01:43:20 PM | SEED=2
+01/29 01:43:20 PM | WORKERS=2
+01/29 01:43:20 PM | 
+01/29 01:43:20 PM | Valid: [ 7/50] Step 000/001 Loss 0.243 Acc 15.62%
+01/29 01:43:20 PM | Valid: [ 7/50] Step 001/001 Loss 0.243 Acc 22.66%
+01/29 01:43:21 PM | Valid: [ 7/50] Final Acc 22.6562% Final W. Acc 23.4721%
+01/29 01:43:25 PM | 
+01/29 01:43:25 PM | Parameters:
+01/29 01:43:25 PM | BATCH_SIZE=64
+01/29 01:43:25 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:43:25 PM | DATASET=iemocap_kfold
+01/29 01:43:25 PM | EPOCHS=50
+01/29 01:43:25 PM | FEATURES=tonnetz
+01/29 01:43:25 PM | FOLD=1
+01/29 01:43:25 PM | GPUS=[0]
+01/29 01:43:25 PM | LEARNING_RATE=0.001
+01/29 01:43:25 PM | MODEL=cnnlstm
+01/29 01:43:25 PM | NAME=new
+01/29 01:43:25 PM | PATH=train\new
+01/29 01:43:25 PM | PLOT_PATH=train\new\plots
+01/29 01:43:25 PM | PRINT_FREQ=50
+01/29 01:43:25 PM | SEED=2
+01/29 01:43:25 PM | WORKERS=2
+01/29 01:43:25 PM | 
+01/29 01:43:29 PM | 
+01/29 01:43:29 PM | Parameters:
+01/29 01:43:29 PM | BATCH_SIZE=64
+01/29 01:43:29 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:43:29 PM | DATASET=iemocap_kfold
+01/29 01:43:29 PM | EPOCHS=50
+01/29 01:43:29 PM | FEATURES=tonnetz
+01/29 01:43:29 PM | FOLD=1
+01/29 01:43:29 PM | GPUS=[0]
+01/29 01:43:29 PM | LEARNING_RATE=0.001
+01/29 01:43:29 PM | MODEL=cnnlstm
+01/29 01:43:29 PM | NAME=new
+01/29 01:43:29 PM | PATH=train\new
+01/29 01:43:29 PM | PLOT_PATH=train\new\plots
+01/29 01:43:29 PM | PRINT_FREQ=50
+01/29 01:43:29 PM | SEED=2
+01/29 01:43:29 PM | WORKERS=2
+01/29 01:43:29 PM | 
+01/29 01:43:29 PM | Train: [ 8/50] Step 000/013 Loss 0.242 Acc 29.69%
+01/29 01:43:29 PM | Train: [ 8/50] Step 013/013 Loss 0.242 Acc 25.89%
+01/29 01:43:30 PM | Train: [ 8/50] Final Acc 25.8929% Train WA 23.8255%
+01/29 01:43:33 PM | 
+01/29 01:43:33 PM | Parameters:
+01/29 01:43:33 PM | BATCH_SIZE=64
+01/29 01:43:33 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:43:33 PM | DATASET=iemocap_kfold
+01/29 01:43:33 PM | EPOCHS=50
+01/29 01:43:33 PM | FEATURES=tonnetz
+01/29 01:43:33 PM | FOLD=1
+01/29 01:43:33 PM | GPUS=[0]
+01/29 01:43:33 PM | LEARNING_RATE=0.001
+01/29 01:43:33 PM | MODEL=cnnlstm
+01/29 01:43:33 PM | NAME=new
+01/29 01:43:34 PM | PATH=train\new
+01/29 01:43:34 PM | PLOT_PATH=train\new\plots
+01/29 01:43:34 PM | PRINT_FREQ=50
+01/29 01:43:34 PM | SEED=2
+01/29 01:43:34 PM | WORKERS=2
+01/29 01:43:34 PM | 
+01/29 01:43:37 PM | 
+01/29 01:43:37 PM | Parameters:
+01/29 01:43:37 PM | BATCH_SIZE=64
+01/29 01:43:37 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:43:37 PM | DATASET=iemocap_kfold
+01/29 01:43:37 PM | EPOCHS=50
+01/29 01:43:37 PM | FEATURES=tonnetz
+01/29 01:43:37 PM | FOLD=1
+01/29 01:43:37 PM | GPUS=[0]
+01/29 01:43:37 PM | LEARNING_RATE=0.001
+01/29 01:43:37 PM | MODEL=cnnlstm
+01/29 01:43:37 PM | NAME=new
+01/29 01:43:37 PM | PATH=train\new
+01/29 01:43:37 PM | PLOT_PATH=train\new\plots
+01/29 01:43:37 PM | PRINT_FREQ=50
+01/29 01:43:37 PM | SEED=2
+01/29 01:43:37 PM | WORKERS=2
+01/29 01:43:37 PM | 
+01/29 01:43:37 PM | Valid: [ 8/50] Step 000/001 Loss 0.243 Acc 18.75%
+01/29 01:43:37 PM | Valid: [ 8/50] Step 001/001 Loss 0.243 Acc 23.44%
+01/29 01:43:38 PM | Valid: [ 8/50] Final Acc 23.4375% Final W. Acc 23.1714%
+01/29 01:43:42 PM | 
+01/29 01:43:42 PM | Parameters:
+01/29 01:43:42 PM | BATCH_SIZE=64
+01/29 01:43:42 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:43:42 PM | DATASET=iemocap_kfold
+01/29 01:43:42 PM | EPOCHS=50
+01/29 01:43:42 PM | FEATURES=tonnetz
+01/29 01:43:42 PM | FOLD=1
+01/29 01:43:42 PM | GPUS=[0]
+01/29 01:43:42 PM | LEARNING_RATE=0.001
+01/29 01:43:42 PM | MODEL=cnnlstm
+01/29 01:43:42 PM | NAME=new
+01/29 01:43:42 PM | PATH=train\new
+01/29 01:43:42 PM | PLOT_PATH=train\new\plots
+01/29 01:43:42 PM | PRINT_FREQ=50
+01/29 01:43:42 PM | SEED=2
+01/29 01:43:42 PM | WORKERS=2
+01/29 01:43:42 PM | 
+01/29 01:43:46 PM | 
+01/29 01:43:46 PM | Parameters:
+01/29 01:43:46 PM | BATCH_SIZE=64
+01/29 01:43:46 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:43:46 PM | DATASET=iemocap_kfold
+01/29 01:43:46 PM | EPOCHS=50
+01/29 01:43:46 PM | FEATURES=tonnetz
+01/29 01:43:46 PM | FOLD=1
+01/29 01:43:46 PM | GPUS=[0]
+01/29 01:43:46 PM | LEARNING_RATE=0.001
+01/29 01:43:46 PM | MODEL=cnnlstm
+01/29 01:43:46 PM | NAME=new
+01/29 01:43:46 PM | PATH=train\new
+01/29 01:43:46 PM | PLOT_PATH=train\new\plots
+01/29 01:43:46 PM | PRINT_FREQ=50
+01/29 01:43:46 PM | SEED=2
+01/29 01:43:46 PM | WORKERS=2
+01/29 01:43:46 PM | 
+01/29 01:43:46 PM | Train: [ 9/50] Step 000/013 Loss 0.242 Acc 25.00%
+01/29 01:43:46 PM | Train: [ 9/50] Step 013/013 Loss 0.242 Acc 27.46%
+01/29 01:43:47 PM | Train: [ 9/50] Final Acc 27.4554% Train WA 27.5800%
+01/29 01:43:51 PM | 
+01/29 01:43:51 PM | Parameters:
+01/29 01:43:51 PM | BATCH_SIZE=64
+01/29 01:43:51 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:43:51 PM | DATASET=iemocap_kfold
+01/29 01:43:51 PM | EPOCHS=50
+01/29 01:43:51 PM | FEATURES=tonnetz
+01/29 01:43:51 PM | FOLD=1
+01/29 01:43:51 PM | GPUS=[0]
+01/29 01:43:51 PM | LEARNING_RATE=0.001
+01/29 01:43:51 PM | MODEL=cnnlstm
+01/29 01:43:51 PM | NAME=new
+01/29 01:43:51 PM | PATH=train\new
+01/29 01:43:51 PM | PLOT_PATH=train\new\plots
+01/29 01:43:51 PM | PRINT_FREQ=50
+01/29 01:43:51 PM | SEED=2
+01/29 01:43:51 PM | WORKERS=2
+01/29 01:43:51 PM | 
+01/29 01:43:55 PM | 
+01/29 01:43:55 PM | Parameters:
+01/29 01:43:55 PM | BATCH_SIZE=64
+01/29 01:43:55 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:43:55 PM | DATASET=iemocap_kfold
+01/29 01:43:55 PM | EPOCHS=50
+01/29 01:43:55 PM | FEATURES=tonnetz
+01/29 01:43:55 PM | FOLD=1
+01/29 01:43:55 PM | GPUS=[0]
+01/29 01:43:55 PM | LEARNING_RATE=0.001
+01/29 01:43:55 PM | MODEL=cnnlstm
+01/29 01:43:55 PM | NAME=new
+01/29 01:43:55 PM | PATH=train\new
+01/29 01:43:55 PM | PLOT_PATH=train\new\plots
+01/29 01:43:55 PM | PRINT_FREQ=50
+01/29 01:43:55 PM | SEED=2
+01/29 01:43:55 PM | WORKERS=2
+01/29 01:43:55 PM | 
+01/29 01:43:55 PM | Valid: [ 9/50] Step 000/001 Loss 0.244 Acc 14.06%
+01/29 01:43:55 PM | Valid: [ 9/50] Step 001/001 Loss 0.243 Acc 21.09%
+01/29 01:43:55 PM | Valid: [ 9/50] Final Acc 21.0938% Final W. Acc 24.8072%
+01/29 01:43:59 PM | 
+01/29 01:43:59 PM | Parameters:
+01/29 01:43:59 PM | BATCH_SIZE=64
+01/29 01:43:59 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:43:59 PM | DATASET=iemocap_kfold
+01/29 01:43:59 PM | EPOCHS=50
+01/29 01:43:59 PM | FEATURES=tonnetz
+01/29 01:43:59 PM | FOLD=1
+01/29 01:43:59 PM | GPUS=[0]
+01/29 01:43:59 PM | LEARNING_RATE=0.001
+01/29 01:43:59 PM | MODEL=cnnlstm
+01/29 01:43:59 PM | NAME=new
+01/29 01:43:59 PM | PATH=train\new
+01/29 01:43:59 PM | PLOT_PATH=train\new\plots
+01/29 01:43:59 PM | PRINT_FREQ=50
+01/29 01:43:59 PM | SEED=2
+01/29 01:43:59 PM | WORKERS=2
+01/29 01:43:59 PM | 
+01/29 01:44:04 PM | 
+01/29 01:44:04 PM | Parameters:
+01/29 01:44:04 PM | BATCH_SIZE=64
+01/29 01:44:04 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:44:04 PM | DATASET=iemocap_kfold
+01/29 01:44:04 PM | EPOCHS=50
+01/29 01:44:04 PM | FEATURES=tonnetz
+01/29 01:44:04 PM | FOLD=1
+01/29 01:44:04 PM | GPUS=[0]
+01/29 01:44:04 PM | LEARNING_RATE=0.001
+01/29 01:44:04 PM | MODEL=cnnlstm
+01/29 01:44:04 PM | NAME=new
+01/29 01:44:04 PM | PATH=train\new
+01/29 01:44:04 PM | PLOT_PATH=train\new\plots
+01/29 01:44:04 PM | PRINT_FREQ=50
+01/29 01:44:04 PM | SEED=2
+01/29 01:44:04 PM | WORKERS=2
+01/29 01:44:04 PM | 
+01/29 01:44:04 PM | Train: [10/50] Step 000/013 Loss 0.242 Acc 31.25%
+01/29 01:44:04 PM | Train: [10/50] Step 013/013 Loss 0.242 Acc 25.00%
+01/29 01:44:04 PM | Train: [10/50] Final Acc 25.0000% Train WA 25.8329%
+01/29 01:44:08 PM | 
+01/29 01:44:08 PM | Parameters:
+01/29 01:44:08 PM | BATCH_SIZE=64
+01/29 01:44:08 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:44:08 PM | DATASET=iemocap_kfold
+01/29 01:44:08 PM | EPOCHS=50
+01/29 01:44:08 PM | FEATURES=tonnetz
+01/29 01:44:08 PM | FOLD=1
+01/29 01:44:08 PM | GPUS=[0]
+01/29 01:44:08 PM | LEARNING_RATE=0.001
+01/29 01:44:08 PM | MODEL=cnnlstm
+01/29 01:44:08 PM | NAME=new
+01/29 01:44:08 PM | PATH=train\new
+01/29 01:44:08 PM | PLOT_PATH=train\new\plots
+01/29 01:44:08 PM | PRINT_FREQ=50
+01/29 01:44:08 PM | SEED=2
+01/29 01:44:08 PM | WORKERS=2
+01/29 01:44:08 PM | 
+01/29 01:44:12 PM | 
+01/29 01:44:12 PM | Parameters:
+01/29 01:44:12 PM | BATCH_SIZE=64
+01/29 01:44:12 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:44:12 PM | DATASET=iemocap_kfold
+01/29 01:44:12 PM | EPOCHS=50
+01/29 01:44:12 PM | FEATURES=tonnetz
+01/29 01:44:12 PM | FOLD=1
+01/29 01:44:12 PM | GPUS=[0]
+01/29 01:44:12 PM | LEARNING_RATE=0.001
+01/29 01:44:12 PM | MODEL=cnnlstm
+01/29 01:44:12 PM | NAME=new
+01/29 01:44:12 PM | PATH=train\new
+01/29 01:44:12 PM | PLOT_PATH=train\new\plots
+01/29 01:44:12 PM | PRINT_FREQ=50
+01/29 01:44:12 PM | SEED=2
+01/29 01:44:12 PM | WORKERS=2
+01/29 01:44:12 PM | 
+01/29 01:44:12 PM | Valid: [10/50] Step 000/001 Loss 0.244 Acc 20.31%
+01/29 01:44:12 PM | Valid: [10/50] Step 001/001 Loss 0.243 Acc 23.44%
+01/29 01:44:13 PM | Valid: [10/50] Final Acc 23.4375% Final W. Acc 24.5086%
+01/29 01:44:17 PM | 
+01/29 01:44:17 PM | Parameters:
+01/29 01:44:17 PM | BATCH_SIZE=64
+01/29 01:44:17 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:44:17 PM | DATASET=iemocap_kfold
+01/29 01:44:17 PM | EPOCHS=50
+01/29 01:44:17 PM | FEATURES=tonnetz
+01/29 01:44:17 PM | FOLD=1
+01/29 01:44:17 PM | GPUS=[0]
+01/29 01:44:17 PM | LEARNING_RATE=0.001
+01/29 01:44:17 PM | MODEL=cnnlstm
+01/29 01:44:17 PM | NAME=new
+01/29 01:44:17 PM | PATH=train\new
+01/29 01:44:17 PM | PLOT_PATH=train\new\plots
+01/29 01:44:17 PM | PRINT_FREQ=50
+01/29 01:44:17 PM | SEED=2
+01/29 01:44:17 PM | WORKERS=2
+01/29 01:44:17 PM | 
+01/29 01:44:21 PM | 
+01/29 01:44:21 PM | Parameters:
+01/29 01:44:21 PM | BATCH_SIZE=64
+01/29 01:44:21 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:44:21 PM | DATASET=iemocap_kfold
+01/29 01:44:21 PM | EPOCHS=50
+01/29 01:44:21 PM | FEATURES=tonnetz
+01/29 01:44:21 PM | FOLD=1
+01/29 01:44:21 PM | GPUS=[0]
+01/29 01:44:21 PM | LEARNING_RATE=0.001
+01/29 01:44:21 PM | MODEL=cnnlstm
+01/29 01:44:21 PM | NAME=new
+01/29 01:44:21 PM | PATH=train\new
+01/29 01:44:21 PM | PLOT_PATH=train\new\plots
+01/29 01:44:21 PM | PRINT_FREQ=50
+01/29 01:44:21 PM | SEED=2
+01/29 01:44:21 PM | WORKERS=2
+01/29 01:44:21 PM | 
+01/29 01:44:21 PM | Train: [11/50] Step 000/013 Loss 0.241 Acc 31.25%
+01/29 01:44:21 PM | Train: [11/50] Step 013/013 Loss 0.242 Acc 26.56%
+01/29 01:44:22 PM | Train: [11/50] Final Acc 26.5625% Train WA 27.0806%
+01/29 01:44:26 PM | 
+01/29 01:44:26 PM | Parameters:
+01/29 01:44:26 PM | BATCH_SIZE=64
+01/29 01:44:26 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:44:26 PM | DATASET=iemocap_kfold
+01/29 01:44:26 PM | EPOCHS=50
+01/29 01:44:26 PM | FEATURES=tonnetz
+01/29 01:44:26 PM | FOLD=1
+01/29 01:44:26 PM | GPUS=[0]
+01/29 01:44:26 PM | LEARNING_RATE=0.001
+01/29 01:44:26 PM | MODEL=cnnlstm
+01/29 01:44:26 PM | NAME=new
+01/29 01:44:26 PM | PATH=train\new
+01/29 01:44:26 PM | PLOT_PATH=train\new\plots
+01/29 01:44:26 PM | PRINT_FREQ=50
+01/29 01:44:26 PM | SEED=2
+01/29 01:44:26 PM | WORKERS=2
+01/29 01:44:26 PM | 
+01/29 01:44:30 PM | 
+01/29 01:44:30 PM | Parameters:
+01/29 01:44:30 PM | BATCH_SIZE=64
+01/29 01:44:30 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:44:30 PM | DATASET=iemocap_kfold
+01/29 01:44:30 PM | EPOCHS=50
+01/29 01:44:30 PM | FEATURES=tonnetz
+01/29 01:44:30 PM | FOLD=1
+01/29 01:44:30 PM | GPUS=[0]
+01/29 01:44:30 PM | LEARNING_RATE=0.001
+01/29 01:44:30 PM | MODEL=cnnlstm
+01/29 01:44:30 PM | NAME=new
+01/29 01:44:30 PM | PATH=train\new
+01/29 01:44:30 PM | PLOT_PATH=train\new\plots
+01/29 01:44:30 PM | PRINT_FREQ=50
+01/29 01:44:30 PM | SEED=2
+01/29 01:44:30 PM | WORKERS=2
+01/29 01:44:30 PM | 
+01/29 01:44:30 PM | Valid: [11/50] Step 000/001 Loss 0.244 Acc 20.31%
+01/29 01:44:30 PM | Valid: [11/50] Step 001/001 Loss 0.243 Acc 25.00%
+01/29 01:44:31 PM | Valid: [11/50] Final Acc 25.0000% Final W. Acc 26.3249%
+01/29 01:44:35 PM | 
+01/29 01:44:35 PM | Parameters:
+01/29 01:44:35 PM | BATCH_SIZE=64
+01/29 01:44:35 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:44:35 PM | DATASET=iemocap_kfold
+01/29 01:44:35 PM | EPOCHS=50
+01/29 01:44:35 PM | FEATURES=tonnetz
+01/29 01:44:35 PM | FOLD=1
+01/29 01:44:35 PM | GPUS=[0]
+01/29 01:44:35 PM | LEARNING_RATE=0.001
+01/29 01:44:35 PM | MODEL=cnnlstm
+01/29 01:44:35 PM | NAME=new
+01/29 01:44:35 PM | PATH=train\new
+01/29 01:44:35 PM | PLOT_PATH=train\new\plots
+01/29 01:44:35 PM | PRINT_FREQ=50
+01/29 01:44:35 PM | SEED=2
+01/29 01:44:35 PM | WORKERS=2
+01/29 01:44:35 PM | 
+01/29 01:44:39 PM | 
+01/29 01:44:39 PM | Parameters:
+01/29 01:44:39 PM | BATCH_SIZE=64
+01/29 01:44:39 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:44:39 PM | DATASET=iemocap_kfold
+01/29 01:44:39 PM | EPOCHS=50
+01/29 01:44:39 PM | FEATURES=tonnetz
+01/29 01:44:39 PM | FOLD=1
+01/29 01:44:39 PM | GPUS=[0]
+01/29 01:44:39 PM | LEARNING_RATE=0.001
+01/29 01:44:39 PM | MODEL=cnnlstm
+01/29 01:44:39 PM | NAME=new
+01/29 01:44:39 PM | PATH=train\new
+01/29 01:44:39 PM | PLOT_PATH=train\new\plots
+01/29 01:44:39 PM | PRINT_FREQ=50
+01/29 01:44:39 PM | SEED=2
+01/29 01:44:39 PM | WORKERS=2
+01/29 01:44:39 PM | 
+01/29 01:44:39 PM | Train: [12/50] Step 000/013 Loss 0.242 Acc 21.88%
+01/29 01:44:39 PM | Train: [12/50] Step 013/013 Loss 0.242 Acc 24.89%
+01/29 01:44:40 PM | Train: [12/50] Final Acc 24.8884% Train WA 24.7444%
+01/29 01:44:44 PM | 
+01/29 01:44:44 PM | Parameters:
+01/29 01:44:44 PM | BATCH_SIZE=64
+01/29 01:44:44 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:44:44 PM | DATASET=iemocap_kfold
+01/29 01:44:44 PM | EPOCHS=50
+01/29 01:44:44 PM | FEATURES=tonnetz
+01/29 01:44:44 PM | FOLD=1
+01/29 01:44:44 PM | GPUS=[0]
+01/29 01:44:44 PM | LEARNING_RATE=0.001
+01/29 01:44:44 PM | MODEL=cnnlstm
+01/29 01:44:44 PM | NAME=new
+01/29 01:44:44 PM | PATH=train\new
+01/29 01:44:44 PM | PLOT_PATH=train\new\plots
+01/29 01:44:44 PM | PRINT_FREQ=50
+01/29 01:44:44 PM | SEED=2
+01/29 01:44:44 PM | WORKERS=2
+01/29 01:44:44 PM | 
+01/29 01:44:48 PM | 
+01/29 01:44:48 PM | Parameters:
+01/29 01:44:48 PM | BATCH_SIZE=64
+01/29 01:44:48 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:44:48 PM | DATASET=iemocap_kfold
+01/29 01:44:48 PM | EPOCHS=50
+01/29 01:44:48 PM | FEATURES=tonnetz
+01/29 01:44:48 PM | FOLD=1
+01/29 01:44:48 PM | GPUS=[0]
+01/29 01:44:48 PM | LEARNING_RATE=0.001
+01/29 01:44:48 PM | MODEL=cnnlstm
+01/29 01:44:48 PM | NAME=new
+01/29 01:44:48 PM | PATH=train\new
+01/29 01:44:48 PM | PLOT_PATH=train\new\plots
+01/29 01:44:48 PM | PRINT_FREQ=50
+01/29 01:44:48 PM | SEED=2
+01/29 01:44:48 PM | WORKERS=2
+01/29 01:44:48 PM | 
+01/29 01:44:48 PM | Valid: [12/50] Step 000/001 Loss 0.244 Acc 15.62%
+01/29 01:44:48 PM | Valid: [12/50] Step 001/001 Loss 0.243 Acc 23.44%
+01/29 01:44:48 PM | Valid: [12/50] Final Acc 23.4375% Final W. Acc 19.1840%
+01/29 01:44:53 PM | 
+01/29 01:44:53 PM | Parameters:
+01/29 01:44:53 PM | BATCH_SIZE=64
+01/29 01:44:53 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:44:53 PM | DATASET=iemocap_kfold
+01/29 01:44:53 PM | EPOCHS=50
+01/29 01:44:53 PM | FEATURES=tonnetz
+01/29 01:44:53 PM | FOLD=1
+01/29 01:44:53 PM | GPUS=[0]
+01/29 01:44:53 PM | LEARNING_RATE=0.001
+01/29 01:44:53 PM | MODEL=cnnlstm
+01/29 01:44:53 PM | NAME=new
+01/29 01:44:53 PM | PATH=train\new
+01/29 01:44:53 PM | PLOT_PATH=train\new\plots
+01/29 01:44:53 PM | PRINT_FREQ=50
+01/29 01:44:53 PM | SEED=2
+01/29 01:44:53 PM | WORKERS=2
+01/29 01:44:53 PM | 
+01/29 01:44:56 PM | 
+01/29 01:44:56 PM | Parameters:
+01/29 01:44:56 PM | BATCH_SIZE=64
+01/29 01:44:56 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:44:56 PM | DATASET=iemocap_kfold
+01/29 01:44:56 PM | EPOCHS=50
+01/29 01:44:56 PM | FEATURES=tonnetz
+01/29 01:44:56 PM | FOLD=1
+01/29 01:44:56 PM | GPUS=[0]
+01/29 01:44:56 PM | LEARNING_RATE=0.001
+01/29 01:44:56 PM | MODEL=cnnlstm
+01/29 01:44:56 PM | NAME=new
+01/29 01:44:56 PM | PATH=train\new
+01/29 01:44:56 PM | PLOT_PATH=train\new\plots
+01/29 01:44:56 PM | PRINT_FREQ=50
+01/29 01:44:56 PM | SEED=2
+01/29 01:44:56 PM | WORKERS=2
+01/29 01:44:56 PM | 
+01/29 01:44:57 PM | Train: [13/50] Step 000/013 Loss 0.242 Acc 21.88%
+01/29 01:44:57 PM | Train: [13/50] Step 013/013 Loss 0.242 Acc 28.35%
+01/29 01:44:57 PM | Train: [13/50] Final Acc 28.3482% Train WA 28.3723%
+01/29 01:45:01 PM | 
+01/29 01:45:01 PM | Parameters:
+01/29 01:45:01 PM | BATCH_SIZE=64
+01/29 01:45:01 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:45:01 PM | DATASET=iemocap_kfold
+01/29 01:45:01 PM | EPOCHS=50
+01/29 01:45:01 PM | FEATURES=tonnetz
+01/29 01:45:01 PM | FOLD=1
+01/29 01:45:01 PM | GPUS=[0]
+01/29 01:45:01 PM | LEARNING_RATE=0.001
+01/29 01:45:01 PM | MODEL=cnnlstm
+01/29 01:45:01 PM | NAME=new
+01/29 01:45:01 PM | PATH=train\new
+01/29 01:45:01 PM | PLOT_PATH=train\new\plots
+01/29 01:45:01 PM | PRINT_FREQ=50
+01/29 01:45:01 PM | SEED=2
+01/29 01:45:01 PM | WORKERS=2
+01/29 01:45:01 PM | 
+01/29 01:45:05 PM | 
+01/29 01:45:05 PM | Parameters:
+01/29 01:45:05 PM | BATCH_SIZE=64
+01/29 01:45:05 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:45:05 PM | DATASET=iemocap_kfold
+01/29 01:45:05 PM | EPOCHS=50
+01/29 01:45:05 PM | FEATURES=tonnetz
+01/29 01:45:05 PM | FOLD=1
+01/29 01:45:05 PM | GPUS=[0]
+01/29 01:45:05 PM | LEARNING_RATE=0.001
+01/29 01:45:05 PM | MODEL=cnnlstm
+01/29 01:45:05 PM | NAME=new
+01/29 01:45:05 PM | PATH=train\new
+01/29 01:45:05 PM | PLOT_PATH=train\new\plots
+01/29 01:45:05 PM | PRINT_FREQ=50
+01/29 01:45:05 PM | SEED=2
+01/29 01:45:05 PM | WORKERS=2
+01/29 01:45:05 PM | 
+01/29 01:45:05 PM | Valid: [13/50] Step 000/001 Loss 0.244 Acc 18.75%
+01/29 01:45:05 PM | Valid: [13/50] Step 001/001 Loss 0.243 Acc 21.88%
+01/29 01:45:06 PM | Valid: [13/50] Final Acc 21.8750% Final W. Acc 21.3551%
+01/29 01:45:10 PM | 
+01/29 01:45:10 PM | Parameters:
+01/29 01:45:10 PM | BATCH_SIZE=64
+01/29 01:45:10 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:45:10 PM | DATASET=iemocap_kfold
+01/29 01:45:10 PM | EPOCHS=50
+01/29 01:45:10 PM | FEATURES=tonnetz
+01/29 01:45:10 PM | FOLD=1
+01/29 01:45:10 PM | GPUS=[0]
+01/29 01:45:10 PM | LEARNING_RATE=0.001
+01/29 01:45:10 PM | MODEL=cnnlstm
+01/29 01:45:10 PM | NAME=new
+01/29 01:45:10 PM | PATH=train\new
+01/29 01:45:10 PM | PLOT_PATH=train\new\plots
+01/29 01:45:10 PM | PRINT_FREQ=50
+01/29 01:45:10 PM | SEED=2
+01/29 01:45:10 PM | WORKERS=2
+01/29 01:45:10 PM | 
+01/29 01:45:14 PM | 
+01/29 01:45:14 PM | Parameters:
+01/29 01:45:14 PM | BATCH_SIZE=64
+01/29 01:45:14 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:45:14 PM | DATASET=iemocap_kfold
+01/29 01:45:14 PM | EPOCHS=50
+01/29 01:45:14 PM | FEATURES=tonnetz
+01/29 01:45:14 PM | FOLD=1
+01/29 01:45:14 PM | GPUS=[0]
+01/29 01:45:14 PM | LEARNING_RATE=0.001
+01/29 01:45:14 PM | MODEL=cnnlstm
+01/29 01:45:14 PM | NAME=new
+01/29 01:45:14 PM | PATH=train\new
+01/29 01:45:14 PM | PLOT_PATH=train\new\plots
+01/29 01:45:14 PM | PRINT_FREQ=50
+01/29 01:45:14 PM | SEED=2
+01/29 01:45:14 PM | WORKERS=2
+01/29 01:45:14 PM | 
+01/29 01:45:14 PM | Train: [14/50] Step 000/013 Loss 0.242 Acc 29.69%
+01/29 01:45:14 PM | Train: [14/50] Step 013/013 Loss 0.242 Acc 26.79%
+01/29 01:45:15 PM | Train: [14/50] Final Acc 26.7857% Train WA 27.0136%
+01/29 01:45:19 PM | 
+01/29 01:45:19 PM | Parameters:
+01/29 01:45:19 PM | BATCH_SIZE=64
+01/29 01:45:19 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:45:19 PM | DATASET=iemocap_kfold
+01/29 01:45:19 PM | EPOCHS=50
+01/29 01:45:19 PM | FEATURES=tonnetz
+01/29 01:45:19 PM | FOLD=1
+01/29 01:45:19 PM | GPUS=[0]
+01/29 01:45:19 PM | LEARNING_RATE=0.001
+01/29 01:45:19 PM | MODEL=cnnlstm
+01/29 01:45:19 PM | NAME=new
+01/29 01:45:19 PM | PATH=train\new
+01/29 01:45:19 PM | PLOT_PATH=train\new\plots
+01/29 01:45:19 PM | PRINT_FREQ=50
+01/29 01:45:19 PM | SEED=2
+01/29 01:45:19 PM | WORKERS=2
+01/29 01:45:19 PM | 
+01/29 01:45:23 PM | 
+01/29 01:45:23 PM | Parameters:
+01/29 01:45:23 PM | BATCH_SIZE=64
+01/29 01:45:23 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:45:23 PM | DATASET=iemocap_kfold
+01/29 01:45:23 PM | EPOCHS=50
+01/29 01:45:23 PM | FEATURES=tonnetz
+01/29 01:45:23 PM | FOLD=1
+01/29 01:45:23 PM | GPUS=[0]
+01/29 01:45:23 PM | LEARNING_RATE=0.001
+01/29 01:45:23 PM | MODEL=cnnlstm
+01/29 01:45:23 PM | NAME=new
+01/29 01:45:23 PM | PATH=train\new
+01/29 01:45:23 PM | PLOT_PATH=train\new\plots
+01/29 01:45:23 PM | PRINT_FREQ=50
+01/29 01:45:23 PM | SEED=2
+01/29 01:45:23 PM | WORKERS=2
+01/29 01:45:23 PM | 
+01/29 01:45:23 PM | Valid: [14/50] Step 000/001 Loss 0.244 Acc 18.75%
+01/29 01:45:23 PM | Valid: [14/50] Step 001/001 Loss 0.243 Acc 22.66%
+01/29 01:45:24 PM | Valid: [14/50] Final Acc 22.6562% Final W. Acc 23.5228%
+01/29 01:45:27 PM | 
+01/29 01:45:27 PM | Parameters:
+01/29 01:45:27 PM | BATCH_SIZE=64
+01/29 01:45:27 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:45:27 PM | DATASET=iemocap_kfold
+01/29 01:45:27 PM | EPOCHS=50
+01/29 01:45:27 PM | FEATURES=tonnetz
+01/29 01:45:27 PM | FOLD=1
+01/29 01:45:27 PM | GPUS=[0]
+01/29 01:45:27 PM | LEARNING_RATE=0.001
+01/29 01:45:27 PM | MODEL=cnnlstm
+01/29 01:45:27 PM | NAME=new
+01/29 01:45:27 PM | PATH=train\new
+01/29 01:45:27 PM | PLOT_PATH=train\new\plots
+01/29 01:45:27 PM | PRINT_FREQ=50
+01/29 01:45:27 PM | SEED=2
+01/29 01:45:27 PM | WORKERS=2
+01/29 01:45:27 PM | 
+01/29 01:45:31 PM | 
+01/29 01:45:31 PM | Parameters:
+01/29 01:45:31 PM | BATCH_SIZE=64
+01/29 01:45:31 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:45:31 PM | DATASET=iemocap_kfold
+01/29 01:45:31 PM | EPOCHS=50
+01/29 01:45:31 PM | FEATURES=tonnetz
+01/29 01:45:31 PM | FOLD=1
+01/29 01:45:31 PM | GPUS=[0]
+01/29 01:45:31 PM | LEARNING_RATE=0.001
+01/29 01:45:31 PM | MODEL=cnnlstm
+01/29 01:45:31 PM | NAME=new
+01/29 01:45:31 PM | PATH=train\new
+01/29 01:45:31 PM | PLOT_PATH=train\new\plots
+01/29 01:45:31 PM | PRINT_FREQ=50
+01/29 01:45:31 PM | SEED=2
+01/29 01:45:31 PM | WORKERS=2
+01/29 01:45:31 PM | 
+01/29 01:45:31 PM | Train: [15/50] Step 000/013 Loss 0.242 Acc 31.25%
+01/29 01:45:32 PM | Train: [15/50] Step 013/013 Loss 0.242 Acc 27.90%
+01/29 01:45:32 PM | Train: [15/50] Final Acc 27.9018% Train WA 29.6994%
+01/29 01:45:36 PM | 
+01/29 01:45:36 PM | Parameters:
+01/29 01:45:36 PM | BATCH_SIZE=64
+01/29 01:45:36 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:45:36 PM | DATASET=iemocap_kfold
+01/29 01:45:36 PM | EPOCHS=50
+01/29 01:45:36 PM | FEATURES=tonnetz
+01/29 01:45:36 PM | FOLD=1
+01/29 01:45:36 PM | GPUS=[0]
+01/29 01:45:36 PM | LEARNING_RATE=0.001
+01/29 01:45:36 PM | MODEL=cnnlstm
+01/29 01:45:36 PM | NAME=new
+01/29 01:45:36 PM | PATH=train\new
+01/29 01:45:36 PM | PLOT_PATH=train\new\plots
+01/29 01:45:36 PM | PRINT_FREQ=50
+01/29 01:45:36 PM | SEED=2
+01/29 01:45:36 PM | WORKERS=2
+01/29 01:45:36 PM | 
+01/29 01:45:40 PM | 
+01/29 01:45:40 PM | Parameters:
+01/29 01:45:40 PM | BATCH_SIZE=64
+01/29 01:45:40 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:45:40 PM | DATASET=iemocap_kfold
+01/29 01:45:40 PM | EPOCHS=50
+01/29 01:45:40 PM | FEATURES=tonnetz
+01/29 01:45:40 PM | FOLD=1
+01/29 01:45:40 PM | GPUS=[0]
+01/29 01:45:40 PM | LEARNING_RATE=0.001
+01/29 01:45:40 PM | MODEL=cnnlstm
+01/29 01:45:40 PM | NAME=new
+01/29 01:45:40 PM | PATH=train\new
+01/29 01:45:40 PM | PLOT_PATH=train\new\plots
+01/29 01:45:40 PM | PRINT_FREQ=50
+01/29 01:45:40 PM | SEED=2
+01/29 01:45:40 PM | WORKERS=2
+01/29 01:45:40 PM | 
+01/29 01:45:40 PM | Valid: [15/50] Step 000/001 Loss 0.244 Acc 20.31%
+01/29 01:45:40 PM | Valid: [15/50] Step 001/001 Loss 0.243 Acc 23.44%
+01/29 01:45:41 PM | Valid: [15/50] Final Acc 23.4375% Final W. Acc 24.5086%
+01/29 01:45:45 PM | 
+01/29 01:45:45 PM | Parameters:
+01/29 01:45:45 PM | BATCH_SIZE=64
+01/29 01:45:45 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:45:45 PM | DATASET=iemocap_kfold
+01/29 01:45:45 PM | EPOCHS=50
+01/29 01:45:45 PM | FEATURES=tonnetz
+01/29 01:45:45 PM | FOLD=1
+01/29 01:45:45 PM | GPUS=[0]
+01/29 01:45:45 PM | LEARNING_RATE=0.001
+01/29 01:45:45 PM | MODEL=cnnlstm
+01/29 01:45:45 PM | NAME=new
+01/29 01:45:45 PM | PATH=train\new
+01/29 01:45:45 PM | PLOT_PATH=train\new\plots
+01/29 01:45:45 PM | PRINT_FREQ=50
+01/29 01:45:45 PM | SEED=2
+01/29 01:45:45 PM | WORKERS=2
+01/29 01:45:45 PM | 
+01/29 01:45:49 PM | 
+01/29 01:45:49 PM | Parameters:
+01/29 01:45:49 PM | BATCH_SIZE=64
+01/29 01:45:49 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:45:49 PM | DATASET=iemocap_kfold
+01/29 01:45:49 PM | EPOCHS=50
+01/29 01:45:49 PM | FEATURES=tonnetz
+01/29 01:45:49 PM | FOLD=1
+01/29 01:45:49 PM | GPUS=[0]
+01/29 01:45:49 PM | LEARNING_RATE=0.001
+01/29 01:45:49 PM | MODEL=cnnlstm
+01/29 01:45:49 PM | NAME=new
+01/29 01:45:49 PM | PATH=train\new
+01/29 01:45:49 PM | PLOT_PATH=train\new\plots
+01/29 01:45:49 PM | PRINT_FREQ=50
+01/29 01:45:49 PM | SEED=2
+01/29 01:45:49 PM | WORKERS=2
+01/29 01:45:49 PM | 
+01/29 01:45:49 PM | Train: [16/50] Step 000/013 Loss 0.241 Acc 29.69%
+01/29 01:45:49 PM | Train: [16/50] Step 013/013 Loss 0.242 Acc 26.12%
+01/29 01:45:49 PM | Train: [16/50] Final Acc 26.1161% Train WA 27.8950%
+01/29 01:45:53 PM | 
+01/29 01:45:53 PM | Parameters:
+01/29 01:45:53 PM | BATCH_SIZE=64
+01/29 01:45:53 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:45:53 PM | DATASET=iemocap_kfold
+01/29 01:45:53 PM | EPOCHS=50
+01/29 01:45:53 PM | FEATURES=tonnetz
+01/29 01:45:53 PM | FOLD=1
+01/29 01:45:53 PM | GPUS=[0]
+01/29 01:45:53 PM | LEARNING_RATE=0.001
+01/29 01:45:53 PM | MODEL=cnnlstm
+01/29 01:45:53 PM | NAME=new
+01/29 01:45:53 PM | PATH=train\new
+01/29 01:45:53 PM | PLOT_PATH=train\new\plots
+01/29 01:45:53 PM | PRINT_FREQ=50
+01/29 01:45:53 PM | SEED=2
+01/29 01:45:53 PM | WORKERS=2
+01/29 01:45:53 PM | 
+01/29 01:45:57 PM | 
+01/29 01:45:57 PM | Parameters:
+01/29 01:45:57 PM | BATCH_SIZE=64
+01/29 01:45:57 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:45:57 PM | DATASET=iemocap_kfold
+01/29 01:45:57 PM | EPOCHS=50
+01/29 01:45:57 PM | FEATURES=tonnetz
+01/29 01:45:57 PM | FOLD=1
+01/29 01:45:57 PM | GPUS=[0]
+01/29 01:45:57 PM | LEARNING_RATE=0.001
+01/29 01:45:57 PM | MODEL=cnnlstm
+01/29 01:45:57 PM | NAME=new
+01/29 01:45:57 PM | PATH=train\new
+01/29 01:45:57 PM | PLOT_PATH=train\new\plots
+01/29 01:45:57 PM | PRINT_FREQ=50
+01/29 01:45:57 PM | SEED=2
+01/29 01:45:57 PM | WORKERS=2
+01/29 01:45:57 PM | 
+01/29 01:45:57 PM | Valid: [16/50] Step 000/001 Loss 0.244 Acc 17.19%
+01/29 01:45:58 PM | Valid: [16/50] Step 001/001 Loss 0.243 Acc 21.88%
+01/29 01:45:58 PM | Valid: [16/50] Final Acc 21.8750% Final W. Acc 24.4569%
+01/29 01:46:02 PM | 
+01/29 01:46:02 PM | Parameters:
+01/29 01:46:02 PM | BATCH_SIZE=64
+01/29 01:46:02 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:46:02 PM | DATASET=iemocap_kfold
+01/29 01:46:02 PM | EPOCHS=50
+01/29 01:46:02 PM | FEATURES=tonnetz
+01/29 01:46:02 PM | FOLD=1
+01/29 01:46:02 PM | GPUS=[0]
+01/29 01:46:02 PM | LEARNING_RATE=0.001
+01/29 01:46:02 PM | MODEL=cnnlstm
+01/29 01:46:02 PM | NAME=new
+01/29 01:46:02 PM | PATH=train\new
+01/29 01:46:02 PM | PLOT_PATH=train\new\plots
+01/29 01:46:02 PM | PRINT_FREQ=50
+01/29 01:46:02 PM | SEED=2
+01/29 01:46:02 PM | WORKERS=2
+01/29 01:46:02 PM | 
+01/29 01:46:06 PM | 
+01/29 01:46:06 PM | Parameters:
+01/29 01:46:06 PM | BATCH_SIZE=64
+01/29 01:46:06 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:46:06 PM | DATASET=iemocap_kfold
+01/29 01:46:06 PM | EPOCHS=50
+01/29 01:46:06 PM | FEATURES=tonnetz
+01/29 01:46:06 PM | FOLD=1
+01/29 01:46:06 PM | GPUS=[0]
+01/29 01:46:06 PM | LEARNING_RATE=0.001
+01/29 01:46:06 PM | MODEL=cnnlstm
+01/29 01:46:06 PM | NAME=new
+01/29 01:46:06 PM | PATH=train\new
+01/29 01:46:06 PM | PLOT_PATH=train\new\plots
+01/29 01:46:06 PM | PRINT_FREQ=50
+01/29 01:46:06 PM | SEED=2
+01/29 01:46:06 PM | WORKERS=2
+01/29 01:46:06 PM | 
+01/29 01:46:06 PM | Train: [17/50] Step 000/013 Loss 0.241 Acc 39.06%
+01/29 01:46:07 PM | Train: [17/50] Step 013/013 Loss 0.242 Acc 26.90%
+01/29 01:46:07 PM | Train: [17/50] Final Acc 26.8973% Train WA 28.8086%
+01/29 01:46:11 PM | 
+01/29 01:46:11 PM | Parameters:
+01/29 01:46:11 PM | BATCH_SIZE=64
+01/29 01:46:11 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:46:11 PM | DATASET=iemocap_kfold
+01/29 01:46:11 PM | EPOCHS=50
+01/29 01:46:11 PM | FEATURES=tonnetz
+01/29 01:46:11 PM | FOLD=1
+01/29 01:46:11 PM | GPUS=[0]
+01/29 01:46:11 PM | LEARNING_RATE=0.001
+01/29 01:46:11 PM | MODEL=cnnlstm
+01/29 01:46:11 PM | NAME=new
+01/29 01:46:11 PM | PATH=train\new
+01/29 01:46:11 PM | PLOT_PATH=train\new\plots
+01/29 01:46:11 PM | PRINT_FREQ=50
+01/29 01:46:11 PM | SEED=2
+01/29 01:46:11 PM | WORKERS=2
+01/29 01:46:11 PM | 
+01/29 01:46:15 PM | 
+01/29 01:46:15 PM | Parameters:
+01/29 01:46:15 PM | BATCH_SIZE=64
+01/29 01:46:15 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:46:15 PM | DATASET=iemocap_kfold
+01/29 01:46:15 PM | EPOCHS=50
+01/29 01:46:15 PM | FEATURES=tonnetz
+01/29 01:46:15 PM | FOLD=1
+01/29 01:46:15 PM | GPUS=[0]
+01/29 01:46:15 PM | LEARNING_RATE=0.001
+01/29 01:46:15 PM | MODEL=cnnlstm
+01/29 01:46:15 PM | NAME=new
+01/29 01:46:15 PM | PATH=train\new
+01/29 01:46:15 PM | PLOT_PATH=train\new\plots
+01/29 01:46:15 PM | PRINT_FREQ=50
+01/29 01:46:15 PM | SEED=2
+01/29 01:46:15 PM | WORKERS=2
+01/29 01:46:15 PM | 
+01/29 01:46:15 PM | Valid: [17/50] Step 000/001 Loss 0.244 Acc 15.62%
+01/29 01:46:15 PM | Valid: [17/50] Step 001/001 Loss 0.243 Acc 22.66%
+01/29 01:46:16 PM | Valid: [17/50] Final Acc 22.6562% Final W. Acc 25.1358%
+01/29 01:46:20 PM | 
+01/29 01:46:20 PM | Parameters:
+01/29 01:46:20 PM | BATCH_SIZE=64
+01/29 01:46:20 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:46:20 PM | DATASET=iemocap_kfold
+01/29 01:46:20 PM | EPOCHS=50
+01/29 01:46:20 PM | FEATURES=tonnetz
+01/29 01:46:20 PM | FOLD=1
+01/29 01:46:20 PM | GPUS=[0]
+01/29 01:46:20 PM | LEARNING_RATE=0.001
+01/29 01:46:20 PM | MODEL=cnnlstm
+01/29 01:46:20 PM | NAME=new
+01/29 01:46:20 PM | PATH=train\new
+01/29 01:46:20 PM | PLOT_PATH=train\new\plots
+01/29 01:46:20 PM | PRINT_FREQ=50
+01/29 01:46:20 PM | SEED=2
+01/29 01:46:20 PM | WORKERS=2
+01/29 01:46:20 PM | 
+01/29 01:46:24 PM | 
+01/29 01:46:24 PM | Parameters:
+01/29 01:46:24 PM | BATCH_SIZE=64
+01/29 01:46:24 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:46:24 PM | DATASET=iemocap_kfold
+01/29 01:46:24 PM | EPOCHS=50
+01/29 01:46:24 PM | FEATURES=tonnetz
+01/29 01:46:24 PM | FOLD=1
+01/29 01:46:24 PM | GPUS=[0]
+01/29 01:46:24 PM | LEARNING_RATE=0.001
+01/29 01:46:24 PM | MODEL=cnnlstm
+01/29 01:46:24 PM | NAME=new
+01/29 01:46:24 PM | PATH=train\new
+01/29 01:46:24 PM | PLOT_PATH=train\new\plots
+01/29 01:46:24 PM | PRINT_FREQ=50
+01/29 01:46:24 PM | SEED=2
+01/29 01:46:24 PM | WORKERS=2
+01/29 01:46:24 PM | 
+01/29 01:46:24 PM | Train: [18/50] Step 000/013 Loss 0.242 Acc 20.31%
+01/29 01:46:24 PM | Train: [18/50] Step 013/013 Loss 0.242 Acc 28.57%
+01/29 01:46:25 PM | Train: [18/50] Final Acc 28.5714% Train WA 30.2032%
+01/29 01:46:29 PM | 
+01/29 01:46:29 PM | Parameters:
+01/29 01:46:29 PM | BATCH_SIZE=64
+01/29 01:46:29 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:46:29 PM | DATASET=iemocap_kfold
+01/29 01:46:29 PM | EPOCHS=50
+01/29 01:46:29 PM | FEATURES=tonnetz
+01/29 01:46:29 PM | FOLD=1
+01/29 01:46:29 PM | GPUS=[0]
+01/29 01:46:29 PM | LEARNING_RATE=0.001
+01/29 01:46:29 PM | MODEL=cnnlstm
+01/29 01:46:29 PM | NAME=new
+01/29 01:46:29 PM | PATH=train\new
+01/29 01:46:29 PM | PLOT_PATH=train\new\plots
+01/29 01:46:29 PM | PRINT_FREQ=50
+01/29 01:46:29 PM | SEED=2
+01/29 01:46:29 PM | WORKERS=2
+01/29 01:46:29 PM | 
+01/29 01:46:33 PM | 
+01/29 01:46:33 PM | Parameters:
+01/29 01:46:33 PM | BATCH_SIZE=64
+01/29 01:46:33 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:46:33 PM | DATASET=iemocap_kfold
+01/29 01:46:33 PM | EPOCHS=50
+01/29 01:46:33 PM | FEATURES=tonnetz
+01/29 01:46:33 PM | FOLD=1
+01/29 01:46:33 PM | GPUS=[0]
+01/29 01:46:33 PM | LEARNING_RATE=0.001
+01/29 01:46:33 PM | MODEL=cnnlstm
+01/29 01:46:33 PM | NAME=new
+01/29 01:46:33 PM | PATH=train\new
+01/29 01:46:33 PM | PLOT_PATH=train\new\plots
+01/29 01:46:33 PM | PRINT_FREQ=50
+01/29 01:46:33 PM | SEED=2
+01/29 01:46:33 PM | WORKERS=2
+01/29 01:46:33 PM | 
+01/29 01:46:33 PM | Valid: [18/50] Step 000/001 Loss 0.244 Acc 17.19%
+01/29 01:46:33 PM | Valid: [18/50] Step 001/001 Loss 0.243 Acc 22.66%
+01/29 01:46:33 PM | Valid: [18/50] Final Acc 22.6562% Final W. Acc 35.3281%
+01/29 01:46:37 PM | 
+01/29 01:46:37 PM | Parameters:
+01/29 01:46:37 PM | BATCH_SIZE=64
+01/29 01:46:37 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:46:37 PM | DATASET=iemocap_kfold
+01/29 01:46:37 PM | EPOCHS=50
+01/29 01:46:37 PM | FEATURES=tonnetz
+01/29 01:46:37 PM | FOLD=1
+01/29 01:46:37 PM | GPUS=[0]
+01/29 01:46:37 PM | LEARNING_RATE=0.001
+01/29 01:46:37 PM | MODEL=cnnlstm
+01/29 01:46:37 PM | NAME=new
+01/29 01:46:37 PM | PATH=train\new
+01/29 01:46:37 PM | PLOT_PATH=train\new\plots
+01/29 01:46:37 PM | PRINT_FREQ=50
+01/29 01:46:37 PM | SEED=2
+01/29 01:46:37 PM | WORKERS=2
+01/29 01:46:37 PM | 
+01/29 01:46:41 PM | 
+01/29 01:46:41 PM | Parameters:
+01/29 01:46:41 PM | BATCH_SIZE=64
+01/29 01:46:41 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:46:41 PM | DATASET=iemocap_kfold
+01/29 01:46:41 PM | EPOCHS=50
+01/29 01:46:41 PM | FEATURES=tonnetz
+01/29 01:46:41 PM | FOLD=1
+01/29 01:46:41 PM | GPUS=[0]
+01/29 01:46:41 PM | LEARNING_RATE=0.001
+01/29 01:46:41 PM | MODEL=cnnlstm
+01/29 01:46:41 PM | NAME=new
+01/29 01:46:41 PM | PATH=train\new
+01/29 01:46:41 PM | PLOT_PATH=train\new\plots
+01/29 01:46:41 PM | PRINT_FREQ=50
+01/29 01:46:41 PM | SEED=2
+01/29 01:46:41 PM | WORKERS=2
+01/29 01:46:41 PM | 
+01/29 01:46:42 PM | Train: [19/50] Step 000/013 Loss 0.241 Acc 29.69%
+01/29 01:46:42 PM | Train: [19/50] Step 013/013 Loss 0.242 Acc 30.47%
+01/29 01:46:42 PM | Train: [19/50] Final Acc 30.4688% Train WA 33.3676%
+01/29 01:46:46 PM | 
+01/29 01:46:46 PM | Parameters:
+01/29 01:46:46 PM | BATCH_SIZE=64
+01/29 01:46:46 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:46:46 PM | DATASET=iemocap_kfold
+01/29 01:46:46 PM | EPOCHS=50
+01/29 01:46:46 PM | FEATURES=tonnetz
+01/29 01:46:46 PM | FOLD=1
+01/29 01:46:46 PM | GPUS=[0]
+01/29 01:46:46 PM | LEARNING_RATE=0.001
+01/29 01:46:46 PM | MODEL=cnnlstm
+01/29 01:46:46 PM | NAME=new
+01/29 01:46:46 PM | PATH=train\new
+01/29 01:46:46 PM | PLOT_PATH=train\new\plots
+01/29 01:46:46 PM | PRINT_FREQ=50
+01/29 01:46:46 PM | SEED=2
+01/29 01:46:46 PM | WORKERS=2
+01/29 01:46:46 PM | 
+01/29 01:46:50 PM | 
+01/29 01:46:50 PM | Parameters:
+01/29 01:46:50 PM | BATCH_SIZE=64
+01/29 01:46:50 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:46:50 PM | DATASET=iemocap_kfold
+01/29 01:46:50 PM | EPOCHS=50
+01/29 01:46:50 PM | FEATURES=tonnetz
+01/29 01:46:50 PM | FOLD=1
+01/29 01:46:50 PM | GPUS=[0]
+01/29 01:46:50 PM | LEARNING_RATE=0.001
+01/29 01:46:50 PM | MODEL=cnnlstm
+01/29 01:46:50 PM | NAME=new
+01/29 01:46:50 PM | PATH=train\new
+01/29 01:46:50 PM | PLOT_PATH=train\new\plots
+01/29 01:46:50 PM | PRINT_FREQ=50
+01/29 01:46:50 PM | SEED=2
+01/29 01:46:50 PM | WORKERS=2
+01/29 01:46:50 PM | 
+01/29 01:46:50 PM | Valid: [19/50] Step 000/001 Loss 0.243 Acc 15.62%
+01/29 01:46:50 PM | Valid: [19/50] Step 001/001 Loss 0.243 Acc 22.66%
+01/29 01:46:51 PM | Valid: [19/50] Final Acc 22.6562% Final W. Acc 35.1514%
+01/29 01:46:55 PM | 
+01/29 01:46:55 PM | Parameters:
+01/29 01:46:55 PM | BATCH_SIZE=64
+01/29 01:46:55 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:46:55 PM | DATASET=iemocap_kfold
+01/29 01:46:55 PM | EPOCHS=50
+01/29 01:46:55 PM | FEATURES=tonnetz
+01/29 01:46:55 PM | FOLD=1
+01/29 01:46:55 PM | GPUS=[0]
+01/29 01:46:55 PM | LEARNING_RATE=0.001
+01/29 01:46:55 PM | MODEL=cnnlstm
+01/29 01:46:55 PM | NAME=new
+01/29 01:46:55 PM | PATH=train\new
+01/29 01:46:55 PM | PLOT_PATH=train\new\plots
+01/29 01:46:55 PM | PRINT_FREQ=50
+01/29 01:46:55 PM | SEED=2
+01/29 01:46:55 PM | WORKERS=2
+01/29 01:46:55 PM | 
+01/29 01:46:59 PM | 
+01/29 01:46:59 PM | Parameters:
+01/29 01:46:59 PM | BATCH_SIZE=64
+01/29 01:46:59 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:46:59 PM | DATASET=iemocap_kfold
+01/29 01:46:59 PM | EPOCHS=50
+01/29 01:46:59 PM | FEATURES=tonnetz
+01/29 01:46:59 PM | FOLD=1
+01/29 01:46:59 PM | GPUS=[0]
+01/29 01:46:59 PM | LEARNING_RATE=0.001
+01/29 01:46:59 PM | MODEL=cnnlstm
+01/29 01:46:59 PM | NAME=new
+01/29 01:46:59 PM | PATH=train\new
+01/29 01:46:59 PM | PLOT_PATH=train\new\plots
+01/29 01:46:59 PM | PRINT_FREQ=50
+01/29 01:46:59 PM | SEED=2
+01/29 01:46:59 PM | WORKERS=2
+01/29 01:46:59 PM | 
+01/29 01:46:59 PM | Train: [20/50] Step 000/013 Loss 0.240 Acc 32.81%
+01/29 01:46:59 PM | Train: [20/50] Step 013/013 Loss 0.241 Acc 31.70%
+01/29 01:47:00 PM | Train: [20/50] Final Acc 31.6964% Train WA 36.2632%
+01/29 01:47:04 PM | 
+01/29 01:47:04 PM | Parameters:
+01/29 01:47:04 PM | BATCH_SIZE=64
+01/29 01:47:04 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:47:04 PM | DATASET=iemocap_kfold
+01/29 01:47:04 PM | EPOCHS=50
+01/29 01:47:04 PM | FEATURES=tonnetz
+01/29 01:47:04 PM | FOLD=1
+01/29 01:47:04 PM | GPUS=[0]
+01/29 01:47:04 PM | LEARNING_RATE=0.001
+01/29 01:47:04 PM | MODEL=cnnlstm
+01/29 01:47:04 PM | NAME=new
+01/29 01:47:04 PM | PATH=train\new
+01/29 01:47:04 PM | PLOT_PATH=train\new\plots
+01/29 01:47:04 PM | PRINT_FREQ=50
+01/29 01:47:04 PM | SEED=2
+01/29 01:47:04 PM | WORKERS=2
+01/29 01:47:04 PM | 
+01/29 01:47:08 PM | 
+01/29 01:47:08 PM | Parameters:
+01/29 01:47:08 PM | BATCH_SIZE=64
+01/29 01:47:08 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:47:08 PM | DATASET=iemocap_kfold
+01/29 01:47:08 PM | EPOCHS=50
+01/29 01:47:08 PM | FEATURES=tonnetz
+01/29 01:47:08 PM | FOLD=1
+01/29 01:47:08 PM | GPUS=[0]
+01/29 01:47:08 PM | LEARNING_RATE=0.001
+01/29 01:47:08 PM | MODEL=cnnlstm
+01/29 01:47:08 PM | NAME=new
+01/29 01:47:08 PM | PATH=train\new
+01/29 01:47:08 PM | PLOT_PATH=train\new\plots
+01/29 01:47:08 PM | PRINT_FREQ=50
+01/29 01:47:08 PM | SEED=2
+01/29 01:47:08 PM | WORKERS=2
+01/29 01:47:08 PM | 
+01/29 01:47:08 PM | Valid: [20/50] Step 000/001 Loss 0.243 Acc 17.19%
+01/29 01:47:08 PM | Valid: [20/50] Step 001/001 Loss 0.243 Acc 22.66%
+01/29 01:47:08 PM | Valid: [20/50] Final Acc 22.6562% Final W. Acc 36.4885%
+01/29 01:47:12 PM | 
+01/29 01:47:12 PM | Parameters:
+01/29 01:47:12 PM | BATCH_SIZE=64
+01/29 01:47:12 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:47:12 PM | DATASET=iemocap_kfold
+01/29 01:47:12 PM | EPOCHS=50
+01/29 01:47:12 PM | FEATURES=tonnetz
+01/29 01:47:12 PM | FOLD=1
+01/29 01:47:12 PM | GPUS=[0]
+01/29 01:47:12 PM | LEARNING_RATE=0.001
+01/29 01:47:12 PM | MODEL=cnnlstm
+01/29 01:47:12 PM | NAME=new
+01/29 01:47:12 PM | PATH=train\new
+01/29 01:47:12 PM | PLOT_PATH=train\new\plots
+01/29 01:47:12 PM | PRINT_FREQ=50
+01/29 01:47:12 PM | SEED=2
+01/29 01:47:12 PM | WORKERS=2
+01/29 01:47:12 PM | 
+01/29 01:47:16 PM | 
+01/29 01:47:16 PM | Parameters:
+01/29 01:47:16 PM | BATCH_SIZE=64
+01/29 01:47:16 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:47:16 PM | DATASET=iemocap_kfold
+01/29 01:47:16 PM | EPOCHS=50
+01/29 01:47:16 PM | FEATURES=tonnetz
+01/29 01:47:16 PM | FOLD=1
+01/29 01:47:16 PM | GPUS=[0]
+01/29 01:47:16 PM | LEARNING_RATE=0.001
+01/29 01:47:16 PM | MODEL=cnnlstm
+01/29 01:47:16 PM | NAME=new
+01/29 01:47:16 PM | PATH=train\new
+01/29 01:47:16 PM | PLOT_PATH=train\new\plots
+01/29 01:47:16 PM | PRINT_FREQ=50
+01/29 01:47:16 PM | SEED=2
+01/29 01:47:16 PM | WORKERS=2
+01/29 01:47:16 PM | 
+01/29 01:47:16 PM | Train: [21/50] Step 000/013 Loss 0.239 Acc 29.69%
+01/29 01:47:17 PM | Train: [21/50] Step 013/013 Loss 0.240 Acc 33.82%
+01/29 01:47:17 PM | Train: [21/50] Final Acc 33.8170% Train WA 37.9521%
+01/29 01:47:21 PM | 
+01/29 01:47:21 PM | Parameters:
+01/29 01:47:21 PM | BATCH_SIZE=64
+01/29 01:47:21 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:47:21 PM | DATASET=iemocap_kfold
+01/29 01:47:21 PM | EPOCHS=50
+01/29 01:47:21 PM | FEATURES=tonnetz
+01/29 01:47:21 PM | FOLD=1
+01/29 01:47:21 PM | GPUS=[0]
+01/29 01:47:21 PM | LEARNING_RATE=0.001
+01/29 01:47:21 PM | MODEL=cnnlstm
+01/29 01:47:21 PM | NAME=new
+01/29 01:47:21 PM | PATH=train\new
+01/29 01:47:21 PM | PLOT_PATH=train\new\plots
+01/29 01:47:21 PM | PRINT_FREQ=50
+01/29 01:47:21 PM | SEED=2
+01/29 01:47:21 PM | WORKERS=2
+01/29 01:47:21 PM | 
+01/29 01:47:25 PM | 
+01/29 01:47:25 PM | Parameters:
+01/29 01:47:25 PM | BATCH_SIZE=64
+01/29 01:47:25 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:47:25 PM | DATASET=iemocap_kfold
+01/29 01:47:25 PM | EPOCHS=50
+01/29 01:47:25 PM | FEATURES=tonnetz
+01/29 01:47:25 PM | FOLD=1
+01/29 01:47:25 PM | GPUS=[0]
+01/29 01:47:25 PM | LEARNING_RATE=0.001
+01/29 01:47:25 PM | MODEL=cnnlstm
+01/29 01:47:25 PM | NAME=new
+01/29 01:47:25 PM | PATH=train\new
+01/29 01:47:25 PM | PLOT_PATH=train\new\plots
+01/29 01:47:25 PM | PRINT_FREQ=50
+01/29 01:47:25 PM | SEED=2
+01/29 01:47:25 PM | WORKERS=2
+01/29 01:47:25 PM | 
+01/29 01:47:25 PM | Valid: [21/50] Step 000/001 Loss 0.243 Acc 17.19%
+01/29 01:47:25 PM | Valid: [21/50] Step 001/001 Loss 0.242 Acc 23.44%
+01/29 01:47:26 PM | Valid: [21/50] Final Acc 23.4375% Final W. Acc 35.8323%
+01/29 01:47:30 PM | 
+01/29 01:47:30 PM | Parameters:
+01/29 01:47:30 PM | BATCH_SIZE=64
+01/29 01:47:30 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:47:30 PM | DATASET=iemocap_kfold
+01/29 01:47:30 PM | EPOCHS=50
+01/29 01:47:30 PM | FEATURES=tonnetz
+01/29 01:47:30 PM | FOLD=1
+01/29 01:47:30 PM | GPUS=[0]
+01/29 01:47:30 PM | LEARNING_RATE=0.001
+01/29 01:47:30 PM | MODEL=cnnlstm
+01/29 01:47:30 PM | NAME=new
+01/29 01:47:30 PM | PATH=train\new
+01/29 01:47:30 PM | PLOT_PATH=train\new\plots
+01/29 01:47:30 PM | PRINT_FREQ=50
+01/29 01:47:30 PM | SEED=2
+01/29 01:47:30 PM | WORKERS=2
+01/29 01:47:30 PM | 
+01/29 01:47:34 PM | 
+01/29 01:47:34 PM | Parameters:
+01/29 01:47:34 PM | BATCH_SIZE=64
+01/29 01:47:34 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:47:34 PM | DATASET=iemocap_kfold
+01/29 01:47:34 PM | EPOCHS=50
+01/29 01:47:34 PM | FEATURES=tonnetz
+01/29 01:47:34 PM | FOLD=1
+01/29 01:47:34 PM | GPUS=[0]
+01/29 01:47:34 PM | LEARNING_RATE=0.001
+01/29 01:47:34 PM | MODEL=cnnlstm
+01/29 01:47:34 PM | NAME=new
+01/29 01:47:34 PM | PATH=train\new
+01/29 01:47:34 PM | PLOT_PATH=train\new\plots
+01/29 01:47:34 PM | PRINT_FREQ=50
+01/29 01:47:34 PM | SEED=2
+01/29 01:47:34 PM | WORKERS=2
+01/29 01:47:34 PM | 
+01/29 01:47:34 PM | Train: [22/50] Step 000/013 Loss 0.240 Acc 31.25%
+01/29 01:47:34 PM | Train: [22/50] Step 013/013 Loss 0.240 Acc 28.35%
+01/29 01:47:35 PM | Train: [22/50] Final Acc 28.3482% Train WA 32.0947%
+01/29 01:47:39 PM | 
+01/29 01:47:39 PM | Parameters:
+01/29 01:47:39 PM | BATCH_SIZE=64
+01/29 01:47:39 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:47:39 PM | DATASET=iemocap_kfold
+01/29 01:47:39 PM | EPOCHS=50
+01/29 01:47:39 PM | FEATURES=tonnetz
+01/29 01:47:39 PM | FOLD=1
+01/29 01:47:39 PM | GPUS=[0]
+01/29 01:47:39 PM | LEARNING_RATE=0.001
+01/29 01:47:39 PM | MODEL=cnnlstm
+01/29 01:47:39 PM | NAME=new
+01/29 01:47:39 PM | PATH=train\new
+01/29 01:47:39 PM | PLOT_PATH=train\new\plots
+01/29 01:47:39 PM | PRINT_FREQ=50
+01/29 01:47:39 PM | SEED=2
+01/29 01:47:39 PM | WORKERS=2
+01/29 01:47:39 PM | 
+01/29 01:47:42 PM | 
+01/29 01:47:42 PM | Parameters:
+01/29 01:47:42 PM | BATCH_SIZE=64
+01/29 01:47:42 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:47:42 PM | DATASET=iemocap_kfold
+01/29 01:47:42 PM | EPOCHS=50
+01/29 01:47:42 PM | FEATURES=tonnetz
+01/29 01:47:42 PM | FOLD=1
+01/29 01:47:42 PM | GPUS=[0]
+01/29 01:47:42 PM | LEARNING_RATE=0.001
+01/29 01:47:42 PM | MODEL=cnnlstm
+01/29 01:47:42 PM | NAME=new
+01/29 01:47:42 PM | PATH=train\new
+01/29 01:47:42 PM | PLOT_PATH=train\new\plots
+01/29 01:47:42 PM | PRINT_FREQ=50
+01/29 01:47:42 PM | SEED=2
+01/29 01:47:42 PM | WORKERS=2
+01/29 01:47:42 PM | 
+01/29 01:47:43 PM | Valid: [22/50] Step 000/001 Loss 0.243 Acc 12.50%
+01/29 01:47:43 PM | Valid: [22/50] Step 001/001 Loss 0.242 Acc 19.53%
+01/29 01:47:43 PM | Valid: [22/50] Final Acc 19.5312% Final W. Acc 36.1044%
+01/29 01:47:47 PM | 
+01/29 01:47:47 PM | Parameters:
+01/29 01:47:47 PM | BATCH_SIZE=64
+01/29 01:47:47 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:47:47 PM | DATASET=iemocap_kfold
+01/29 01:47:47 PM | EPOCHS=50
+01/29 01:47:47 PM | FEATURES=tonnetz
+01/29 01:47:47 PM | FOLD=1
+01/29 01:47:47 PM | GPUS=[0]
+01/29 01:47:47 PM | LEARNING_RATE=0.001
+01/29 01:47:47 PM | MODEL=cnnlstm
+01/29 01:47:47 PM | NAME=new
+01/29 01:47:47 PM | PATH=train\new
+01/29 01:47:47 PM | PLOT_PATH=train\new\plots
+01/29 01:47:47 PM | PRINT_FREQ=50
+01/29 01:47:47 PM | SEED=2
+01/29 01:47:47 PM | WORKERS=2
+01/29 01:47:47 PM | 
+01/29 01:47:51 PM | 
+01/29 01:47:51 PM | Parameters:
+01/29 01:47:51 PM | BATCH_SIZE=64
+01/29 01:47:51 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:47:51 PM | DATASET=iemocap_kfold
+01/29 01:47:51 PM | EPOCHS=50
+01/29 01:47:51 PM | FEATURES=tonnetz
+01/29 01:47:51 PM | FOLD=1
+01/29 01:47:51 PM | GPUS=[0]
+01/29 01:47:51 PM | LEARNING_RATE=0.001
+01/29 01:47:51 PM | MODEL=cnnlstm
+01/29 01:47:51 PM | NAME=new
+01/29 01:47:51 PM | PATH=train\new
+01/29 01:47:51 PM | PLOT_PATH=train\new\plots
+01/29 01:47:51 PM | PRINT_FREQ=50
+01/29 01:47:51 PM | SEED=2
+01/29 01:47:51 PM | WORKERS=2
+01/29 01:47:51 PM | 
+01/29 01:47:51 PM | Train: [23/50] Step 000/013 Loss 0.237 Acc 37.50%
+01/29 01:47:51 PM | Train: [23/50] Step 013/013 Loss 0.239 Acc 33.48%
+01/29 01:47:52 PM | Train: [23/50] Final Acc 33.4821% Train WA 35.8544%
+01/29 01:47:56 PM | 
+01/29 01:47:56 PM | Parameters:
+01/29 01:47:56 PM | BATCH_SIZE=64
+01/29 01:47:56 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:47:56 PM | DATASET=iemocap_kfold
+01/29 01:47:56 PM | EPOCHS=50
+01/29 01:47:56 PM | FEATURES=tonnetz
+01/29 01:47:56 PM | FOLD=1
+01/29 01:47:56 PM | GPUS=[0]
+01/29 01:47:56 PM | LEARNING_RATE=0.001
+01/29 01:47:56 PM | MODEL=cnnlstm
+01/29 01:47:56 PM | NAME=new
+01/29 01:47:56 PM | PATH=train\new
+01/29 01:47:56 PM | PLOT_PATH=train\new\plots
+01/29 01:47:56 PM | PRINT_FREQ=50
+01/29 01:47:56 PM | SEED=2
+01/29 01:47:56 PM | WORKERS=2
+01/29 01:47:56 PM | 
+01/29 01:48:00 PM | 
+01/29 01:48:00 PM | Parameters:
+01/29 01:48:00 PM | BATCH_SIZE=64
+01/29 01:48:00 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:48:00 PM | DATASET=iemocap_kfold
+01/29 01:48:00 PM | EPOCHS=50
+01/29 01:48:00 PM | FEATURES=tonnetz
+01/29 01:48:00 PM | FOLD=1
+01/29 01:48:00 PM | GPUS=[0]
+01/29 01:48:00 PM | LEARNING_RATE=0.001
+01/29 01:48:00 PM | MODEL=cnnlstm
+01/29 01:48:00 PM | NAME=new
+01/29 01:48:00 PM | PATH=train\new
+01/29 01:48:00 PM | PLOT_PATH=train\new\plots
+01/29 01:48:00 PM | PRINT_FREQ=50
+01/29 01:48:00 PM | SEED=2
+01/29 01:48:00 PM | WORKERS=2
+01/29 01:48:00 PM | 
+01/29 01:48:00 PM | Valid: [23/50] Step 000/001 Loss 0.242 Acc 17.19%
+01/29 01:48:00 PM | Valid: [23/50] Step 001/001 Loss 0.241 Acc 21.88%
+01/29 01:48:00 PM | Valid: [23/50] Final Acc 21.8750% Final W. Acc 37.7473%
+01/29 01:48:04 PM | 
+01/29 01:48:04 PM | Parameters:
+01/29 01:48:04 PM | BATCH_SIZE=64
+01/29 01:48:04 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:48:04 PM | DATASET=iemocap_kfold
+01/29 01:48:04 PM | EPOCHS=50
+01/29 01:48:04 PM | FEATURES=tonnetz
+01/29 01:48:04 PM | FOLD=1
+01/29 01:48:04 PM | GPUS=[0]
+01/29 01:48:04 PM | LEARNING_RATE=0.001
+01/29 01:48:04 PM | MODEL=cnnlstm
+01/29 01:48:04 PM | NAME=new
+01/29 01:48:04 PM | PATH=train\new
+01/29 01:48:04 PM | PLOT_PATH=train\new\plots
+01/29 01:48:04 PM | PRINT_FREQ=50
+01/29 01:48:04 PM | SEED=2
+01/29 01:48:04 PM | WORKERS=2
+01/29 01:48:04 PM | 
+01/29 01:48:08 PM | 
+01/29 01:48:08 PM | Parameters:
+01/29 01:48:08 PM | BATCH_SIZE=64
+01/29 01:48:08 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:48:08 PM | DATASET=iemocap_kfold
+01/29 01:48:08 PM | EPOCHS=50
+01/29 01:48:08 PM | FEATURES=tonnetz
+01/29 01:48:08 PM | FOLD=1
+01/29 01:48:08 PM | GPUS=[0]
+01/29 01:48:08 PM | LEARNING_RATE=0.001
+01/29 01:48:08 PM | MODEL=cnnlstm
+01/29 01:48:08 PM | NAME=new
+01/29 01:48:08 PM | PATH=train\new
+01/29 01:48:08 PM | PLOT_PATH=train\new\plots
+01/29 01:48:08 PM | PRINT_FREQ=50
+01/29 01:48:08 PM | SEED=2
+01/29 01:48:08 PM | WORKERS=2
+01/29 01:48:08 PM | 
+01/29 01:48:08 PM | Train: [24/50] Step 000/013 Loss 0.238 Acc 31.25%
+01/29 01:48:09 PM | Train: [24/50] Step 013/013 Loss 0.239 Acc 35.71%
+01/29 01:48:09 PM | Train: [24/50] Final Acc 35.7143% Train WA 39.0245%
+01/29 01:48:13 PM | 
+01/29 01:48:13 PM | Parameters:
+01/29 01:48:13 PM | BATCH_SIZE=64
+01/29 01:48:13 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:48:13 PM | DATASET=iemocap_kfold
+01/29 01:48:13 PM | EPOCHS=50
+01/29 01:48:13 PM | FEATURES=tonnetz
+01/29 01:48:13 PM | FOLD=1
+01/29 01:48:13 PM | GPUS=[0]
+01/29 01:48:13 PM | LEARNING_RATE=0.001
+01/29 01:48:13 PM | MODEL=cnnlstm
+01/29 01:48:13 PM | NAME=new
+01/29 01:48:13 PM | PATH=train\new
+01/29 01:48:13 PM | PLOT_PATH=train\new\plots
+01/29 01:48:13 PM | PRINT_FREQ=50
+01/29 01:48:13 PM | SEED=2
+01/29 01:48:13 PM | WORKERS=2
+01/29 01:48:13 PM | 
+01/29 01:48:17 PM | 
+01/29 01:48:17 PM | Parameters:
+01/29 01:48:17 PM | BATCH_SIZE=64
+01/29 01:48:17 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:48:17 PM | DATASET=iemocap_kfold
+01/29 01:48:17 PM | EPOCHS=50
+01/29 01:48:17 PM | FEATURES=tonnetz
+01/29 01:48:17 PM | FOLD=1
+01/29 01:48:17 PM | GPUS=[0]
+01/29 01:48:17 PM | LEARNING_RATE=0.001
+01/29 01:48:17 PM | MODEL=cnnlstm
+01/29 01:48:17 PM | NAME=new
+01/29 01:48:17 PM | PATH=train\new
+01/29 01:48:17 PM | PLOT_PATH=train\new\plots
+01/29 01:48:17 PM | PRINT_FREQ=50
+01/29 01:48:17 PM | SEED=2
+01/29 01:48:17 PM | WORKERS=2
+01/29 01:48:17 PM | 
+01/29 01:48:17 PM | Valid: [24/50] Step 000/001 Loss 0.241 Acc 18.75%
+01/29 01:48:17 PM | Valid: [24/50] Step 001/001 Loss 0.241 Acc 22.66%
+01/29 01:48:18 PM | Valid: [24/50] Final Acc 22.6562% Final W. Acc 39.3355%
+01/29 01:48:22 PM | 
+01/29 01:48:22 PM | Parameters:
+01/29 01:48:22 PM | BATCH_SIZE=64
+01/29 01:48:22 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:48:22 PM | DATASET=iemocap_kfold
+01/29 01:48:22 PM | EPOCHS=50
+01/29 01:48:22 PM | FEATURES=tonnetz
+01/29 01:48:22 PM | FOLD=1
+01/29 01:48:22 PM | GPUS=[0]
+01/29 01:48:22 PM | LEARNING_RATE=0.001
+01/29 01:48:22 PM | MODEL=cnnlstm
+01/29 01:48:22 PM | NAME=new
+01/29 01:48:22 PM | PATH=train\new
+01/29 01:48:22 PM | PLOT_PATH=train\new\plots
+01/29 01:48:22 PM | PRINT_FREQ=50
+01/29 01:48:22 PM | SEED=2
+01/29 01:48:22 PM | WORKERS=2
+01/29 01:48:22 PM | 
+01/29 01:48:26 PM | 
+01/29 01:48:26 PM | Parameters:
+01/29 01:48:26 PM | BATCH_SIZE=64
+01/29 01:48:26 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:48:26 PM | DATASET=iemocap_kfold
+01/29 01:48:26 PM | EPOCHS=50
+01/29 01:48:26 PM | FEATURES=tonnetz
+01/29 01:48:26 PM | FOLD=1
+01/29 01:48:26 PM | GPUS=[0]
+01/29 01:48:26 PM | LEARNING_RATE=0.001
+01/29 01:48:26 PM | MODEL=cnnlstm
+01/29 01:48:26 PM | NAME=new
+01/29 01:48:26 PM | PATH=train\new
+01/29 01:48:26 PM | PLOT_PATH=train\new\plots
+01/29 01:48:26 PM | PRINT_FREQ=50
+01/29 01:48:26 PM | SEED=2
+01/29 01:48:26 PM | WORKERS=2
+01/29 01:48:26 PM | 
+01/29 01:48:26 PM | Train: [25/50] Step 000/013 Loss 0.240 Acc 35.94%
+01/29 01:48:26 PM | Train: [25/50] Step 013/013 Loss 0.239 Acc 35.83%
+01/29 01:48:27 PM | Train: [25/50] Final Acc 35.8259% Train WA 38.9949%
+01/29 01:48:31 PM | 
+01/29 01:48:31 PM | Parameters:
+01/29 01:48:31 PM | BATCH_SIZE=64
+01/29 01:48:31 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:48:31 PM | DATASET=iemocap_kfold
+01/29 01:48:31 PM | EPOCHS=50
+01/29 01:48:31 PM | FEATURES=tonnetz
+01/29 01:48:31 PM | FOLD=1
+01/29 01:48:31 PM | GPUS=[0]
+01/29 01:48:31 PM | LEARNING_RATE=0.001
+01/29 01:48:31 PM | MODEL=cnnlstm
+01/29 01:48:31 PM | NAME=new
+01/29 01:48:31 PM | PATH=train\new
+01/29 01:48:31 PM | PLOT_PATH=train\new\plots
+01/29 01:48:31 PM | PRINT_FREQ=50
+01/29 01:48:31 PM | SEED=2
+01/29 01:48:31 PM | WORKERS=2
+01/29 01:48:31 PM | 
+01/29 01:48:35 PM | 
+01/29 01:48:35 PM | Parameters:
+01/29 01:48:35 PM | BATCH_SIZE=64
+01/29 01:48:35 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:48:35 PM | DATASET=iemocap_kfold
+01/29 01:48:35 PM | EPOCHS=50
+01/29 01:48:35 PM | FEATURES=tonnetz
+01/29 01:48:35 PM | FOLD=1
+01/29 01:48:35 PM | GPUS=[0]
+01/29 01:48:35 PM | LEARNING_RATE=0.001
+01/29 01:48:35 PM | MODEL=cnnlstm
+01/29 01:48:35 PM | NAME=new
+01/29 01:48:35 PM | PATH=train\new
+01/29 01:48:35 PM | PLOT_PATH=train\new\plots
+01/29 01:48:35 PM | PRINT_FREQ=50
+01/29 01:48:35 PM | SEED=2
+01/29 01:48:35 PM | WORKERS=2
+01/29 01:48:35 PM | 
+01/29 01:48:35 PM | Valid: [25/50] Step 000/001 Loss 0.241 Acc 17.19%
+01/29 01:48:35 PM | Valid: [25/50] Step 001/001 Loss 0.240 Acc 22.66%
+01/29 01:48:35 PM | Valid: [25/50] Final Acc 22.6562% Final W. Acc 37.5438%
+01/29 01:48:39 PM | 
+01/29 01:48:39 PM | Parameters:
+01/29 01:48:39 PM | BATCH_SIZE=64
+01/29 01:48:39 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:48:39 PM | DATASET=iemocap_kfold
+01/29 01:48:39 PM | EPOCHS=50
+01/29 01:48:39 PM | FEATURES=tonnetz
+01/29 01:48:39 PM | FOLD=1
+01/29 01:48:39 PM | GPUS=[0]
+01/29 01:48:39 PM | LEARNING_RATE=0.001
+01/29 01:48:39 PM | MODEL=cnnlstm
+01/29 01:48:39 PM | NAME=new
+01/29 01:48:39 PM | PATH=train\new
+01/29 01:48:39 PM | PLOT_PATH=train\new\plots
+01/29 01:48:39 PM | PRINT_FREQ=50
+01/29 01:48:39 PM | SEED=2
+01/29 01:48:39 PM | WORKERS=2
+01/29 01:48:39 PM | 
+01/29 01:48:43 PM | 
+01/29 01:48:43 PM | Parameters:
+01/29 01:48:43 PM | BATCH_SIZE=64
+01/29 01:48:43 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:48:43 PM | DATASET=iemocap_kfold
+01/29 01:48:43 PM | EPOCHS=50
+01/29 01:48:43 PM | FEATURES=tonnetz
+01/29 01:48:43 PM | FOLD=1
+01/29 01:48:43 PM | GPUS=[0]
+01/29 01:48:43 PM | LEARNING_RATE=0.001
+01/29 01:48:43 PM | MODEL=cnnlstm
+01/29 01:48:43 PM | NAME=new
+01/29 01:48:43 PM | PATH=train\new
+01/29 01:48:43 PM | PLOT_PATH=train\new\plots
+01/29 01:48:43 PM | PRINT_FREQ=50
+01/29 01:48:43 PM | SEED=2
+01/29 01:48:43 PM | WORKERS=2
+01/29 01:48:43 PM | 
+01/29 01:48:43 PM | Train: [26/50] Step 000/013 Loss 0.235 Acc 35.94%
+01/29 01:48:43 PM | Train: [26/50] Step 013/013 Loss 0.238 Acc 35.16%
+01/29 01:48:44 PM | Train: [26/50] Final Acc 35.1562% Train WA 38.1731%
+01/29 01:48:48 PM | 
+01/29 01:48:48 PM | Parameters:
+01/29 01:48:48 PM | BATCH_SIZE=64
+01/29 01:48:48 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:48:48 PM | DATASET=iemocap_kfold
+01/29 01:48:48 PM | EPOCHS=50
+01/29 01:48:48 PM | FEATURES=tonnetz
+01/29 01:48:48 PM | FOLD=1
+01/29 01:48:48 PM | GPUS=[0]
+01/29 01:48:48 PM | LEARNING_RATE=0.001
+01/29 01:48:48 PM | MODEL=cnnlstm
+01/29 01:48:48 PM | NAME=new
+01/29 01:48:48 PM | PATH=train\new
+01/29 01:48:48 PM | PLOT_PATH=train\new\plots
+01/29 01:48:48 PM | PRINT_FREQ=50
+01/29 01:48:48 PM | SEED=2
+01/29 01:48:48 PM | WORKERS=2
+01/29 01:48:48 PM | 
+01/29 01:48:52 PM | 
+01/29 01:48:52 PM | Parameters:
+01/29 01:48:52 PM | BATCH_SIZE=64
+01/29 01:48:52 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:48:52 PM | DATASET=iemocap_kfold
+01/29 01:48:52 PM | EPOCHS=50
+01/29 01:48:52 PM | FEATURES=tonnetz
+01/29 01:48:52 PM | FOLD=1
+01/29 01:48:52 PM | GPUS=[0]
+01/29 01:48:52 PM | LEARNING_RATE=0.001
+01/29 01:48:52 PM | MODEL=cnnlstm
+01/29 01:48:52 PM | NAME=new
+01/29 01:48:52 PM | PATH=train\new
+01/29 01:48:52 PM | PLOT_PATH=train\new\plots
+01/29 01:48:52 PM | PRINT_FREQ=50
+01/29 01:48:52 PM | SEED=2
+01/29 01:48:52 PM | WORKERS=2
+01/29 01:48:52 PM | 
+01/29 01:48:52 PM | Valid: [26/50] Step 000/001 Loss 0.241 Acc 21.88%
+01/29 01:48:52 PM | Valid: [26/50] Step 001/001 Loss 0.240 Acc 28.12%
+01/29 01:48:53 PM | Valid: [26/50] Final Acc 28.1250% Final W. Acc 41.0030%
+01/29 01:48:57 PM | 
+01/29 01:48:57 PM | Parameters:
+01/29 01:48:57 PM | BATCH_SIZE=64
+01/29 01:48:57 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:48:57 PM | DATASET=iemocap_kfold
+01/29 01:48:57 PM | EPOCHS=50
+01/29 01:48:57 PM | FEATURES=tonnetz
+01/29 01:48:57 PM | FOLD=1
+01/29 01:48:57 PM | GPUS=[0]
+01/29 01:48:57 PM | LEARNING_RATE=0.001
+01/29 01:48:57 PM | MODEL=cnnlstm
+01/29 01:48:57 PM | NAME=new
+01/29 01:48:57 PM | PATH=train\new
+01/29 01:48:57 PM | PLOT_PATH=train\new\plots
+01/29 01:48:57 PM | PRINT_FREQ=50
+01/29 01:48:57 PM | SEED=2
+01/29 01:48:57 PM | WORKERS=2
+01/29 01:48:57 PM | 
+01/29 01:49:01 PM | 
+01/29 01:49:01 PM | Parameters:
+01/29 01:49:01 PM | BATCH_SIZE=64
+01/29 01:49:01 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:49:01 PM | DATASET=iemocap_kfold
+01/29 01:49:01 PM | EPOCHS=50
+01/29 01:49:01 PM | FEATURES=tonnetz
+01/29 01:49:01 PM | FOLD=1
+01/29 01:49:01 PM | GPUS=[0]
+01/29 01:49:01 PM | LEARNING_RATE=0.001
+01/29 01:49:01 PM | MODEL=cnnlstm
+01/29 01:49:01 PM | NAME=new
+01/29 01:49:01 PM | PATH=train\new
+01/29 01:49:01 PM | PLOT_PATH=train\new\plots
+01/29 01:49:01 PM | PRINT_FREQ=50
+01/29 01:49:01 PM | SEED=2
+01/29 01:49:01 PM | WORKERS=2
+01/29 01:49:01 PM | 
+01/29 01:49:01 PM | Train: [27/50] Step 000/013 Loss 0.240 Acc 37.50%
+01/29 01:49:01 PM | Train: [27/50] Step 013/013 Loss 0.239 Acc 34.71%
+01/29 01:49:01 PM | Train: [27/50] Final Acc 34.7098% Train WA 39.8763%
+01/29 01:49:05 PM | 
+01/29 01:49:05 PM | Parameters:
+01/29 01:49:05 PM | BATCH_SIZE=64
+01/29 01:49:05 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:49:05 PM | DATASET=iemocap_kfold
+01/29 01:49:05 PM | EPOCHS=50
+01/29 01:49:05 PM | FEATURES=tonnetz
+01/29 01:49:05 PM | FOLD=1
+01/29 01:49:05 PM | GPUS=[0]
+01/29 01:49:05 PM | LEARNING_RATE=0.001
+01/29 01:49:05 PM | MODEL=cnnlstm
+01/29 01:49:05 PM | NAME=new
+01/29 01:49:05 PM | PATH=train\new
+01/29 01:49:05 PM | PLOT_PATH=train\new\plots
+01/29 01:49:05 PM | PRINT_FREQ=50
+01/29 01:49:05 PM | SEED=2
+01/29 01:49:05 PM | WORKERS=2
+01/29 01:49:05 PM | 
+01/29 01:49:09 PM | 
+01/29 01:49:09 PM | Parameters:
+01/29 01:49:09 PM | BATCH_SIZE=64
+01/29 01:49:09 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:49:09 PM | DATASET=iemocap_kfold
+01/29 01:49:09 PM | EPOCHS=50
+01/29 01:49:09 PM | FEATURES=tonnetz
+01/29 01:49:09 PM | FOLD=1
+01/29 01:49:09 PM | GPUS=[0]
+01/29 01:49:09 PM | LEARNING_RATE=0.001
+01/29 01:49:09 PM | MODEL=cnnlstm
+01/29 01:49:09 PM | NAME=new
+01/29 01:49:09 PM | PATH=train\new
+01/29 01:49:09 PM | PLOT_PATH=train\new\plots
+01/29 01:49:09 PM | PRINT_FREQ=50
+01/29 01:49:09 PM | SEED=2
+01/29 01:49:09 PM | WORKERS=2
+01/29 01:49:09 PM | 
+01/29 01:49:09 PM | Valid: [27/50] Step 000/001 Loss 0.240 Acc 25.00%
+01/29 01:49:09 PM | Valid: [27/50] Step 001/001 Loss 0.240 Acc 28.91%
+01/29 01:49:10 PM | Valid: [27/50] Final Acc 28.9062% Final W. Acc 43.2773%
+01/29 01:49:14 PM | 
+01/29 01:49:14 PM | Parameters:
+01/29 01:49:14 PM | BATCH_SIZE=64
+01/29 01:49:14 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:49:14 PM | DATASET=iemocap_kfold
+01/29 01:49:14 PM | EPOCHS=50
+01/29 01:49:14 PM | FEATURES=tonnetz
+01/29 01:49:14 PM | FOLD=1
+01/29 01:49:14 PM | GPUS=[0]
+01/29 01:49:14 PM | LEARNING_RATE=0.001
+01/29 01:49:14 PM | MODEL=cnnlstm
+01/29 01:49:14 PM | NAME=new
+01/29 01:49:14 PM | PATH=train\new
+01/29 01:49:14 PM | PLOT_PATH=train\new\plots
+01/29 01:49:14 PM | PRINT_FREQ=50
+01/29 01:49:14 PM | SEED=2
+01/29 01:49:14 PM | WORKERS=2
+01/29 01:49:14 PM | 
+01/29 01:49:18 PM | 
+01/29 01:49:18 PM | Parameters:
+01/29 01:49:18 PM | BATCH_SIZE=64
+01/29 01:49:18 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:49:18 PM | DATASET=iemocap_kfold
+01/29 01:49:18 PM | EPOCHS=50
+01/29 01:49:18 PM | FEATURES=tonnetz
+01/29 01:49:18 PM | FOLD=1
+01/29 01:49:18 PM | GPUS=[0]
+01/29 01:49:18 PM | LEARNING_RATE=0.001
+01/29 01:49:18 PM | MODEL=cnnlstm
+01/29 01:49:18 PM | NAME=new
+01/29 01:49:18 PM | PATH=train\new
+01/29 01:49:18 PM | PLOT_PATH=train\new\plots
+01/29 01:49:18 PM | PRINT_FREQ=50
+01/29 01:49:18 PM | SEED=2
+01/29 01:49:18 PM | WORKERS=2
+01/29 01:49:18 PM | 
+01/29 01:49:18 PM | Train: [28/50] Step 000/013 Loss 0.237 Acc 43.75%
+01/29 01:49:18 PM | Train: [28/50] Step 013/013 Loss 0.238 Acc 37.95%
+01/29 01:49:19 PM | Train: [28/50] Final Acc 37.9464% Train WA 41.7106%
+01/29 01:49:23 PM | 
+01/29 01:49:23 PM | Parameters:
+01/29 01:49:23 PM | BATCH_SIZE=64
+01/29 01:49:23 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:49:23 PM | DATASET=iemocap_kfold
+01/29 01:49:23 PM | EPOCHS=50
+01/29 01:49:23 PM | FEATURES=tonnetz
+01/29 01:49:23 PM | FOLD=1
+01/29 01:49:23 PM | GPUS=[0]
+01/29 01:49:23 PM | LEARNING_RATE=0.001
+01/29 01:49:23 PM | MODEL=cnnlstm
+01/29 01:49:23 PM | NAME=new
+01/29 01:49:23 PM | PATH=train\new
+01/29 01:49:23 PM | PLOT_PATH=train\new\plots
+01/29 01:49:23 PM | PRINT_FREQ=50
+01/29 01:49:23 PM | SEED=2
+01/29 01:49:23 PM | WORKERS=2
+01/29 01:49:23 PM | 
+01/29 01:49:27 PM | 
+01/29 01:49:27 PM | Parameters:
+01/29 01:49:27 PM | BATCH_SIZE=64
+01/29 01:49:27 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:49:27 PM | DATASET=iemocap_kfold
+01/29 01:49:27 PM | EPOCHS=50
+01/29 01:49:27 PM | FEATURES=tonnetz
+01/29 01:49:27 PM | FOLD=1
+01/29 01:49:27 PM | GPUS=[0]
+01/29 01:49:27 PM | LEARNING_RATE=0.001
+01/29 01:49:27 PM | MODEL=cnnlstm
+01/29 01:49:27 PM | NAME=new
+01/29 01:49:27 PM | PATH=train\new
+01/29 01:49:27 PM | PLOT_PATH=train\new\plots
+01/29 01:49:27 PM | PRINT_FREQ=50
+01/29 01:49:27 PM | SEED=2
+01/29 01:49:27 PM | WORKERS=2
+01/29 01:49:27 PM | 
+01/29 01:49:27 PM | Valid: [28/50] Step 000/001 Loss 0.241 Acc 28.12%
+01/29 01:49:27 PM | Valid: [28/50] Step 001/001 Loss 0.241 Acc 32.03%
+01/29 01:49:27 PM | Valid: [28/50] Final Acc 32.0312% Final W. Acc 39.7455%
+01/29 01:49:31 PM | 
+01/29 01:49:31 PM | Parameters:
+01/29 01:49:31 PM | BATCH_SIZE=64
+01/29 01:49:31 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:49:31 PM | DATASET=iemocap_kfold
+01/29 01:49:31 PM | EPOCHS=50
+01/29 01:49:31 PM | FEATURES=tonnetz
+01/29 01:49:31 PM | FOLD=1
+01/29 01:49:31 PM | GPUS=[0]
+01/29 01:49:31 PM | LEARNING_RATE=0.001
+01/29 01:49:31 PM | MODEL=cnnlstm
+01/29 01:49:31 PM | NAME=new
+01/29 01:49:31 PM | PATH=train\new
+01/29 01:49:31 PM | PLOT_PATH=train\new\plots
+01/29 01:49:31 PM | PRINT_FREQ=50
+01/29 01:49:31 PM | SEED=2
+01/29 01:49:31 PM | WORKERS=2
+01/29 01:49:31 PM | 
+01/29 01:49:35 PM | 
+01/29 01:49:35 PM | Parameters:
+01/29 01:49:35 PM | BATCH_SIZE=64
+01/29 01:49:35 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:49:35 PM | DATASET=iemocap_kfold
+01/29 01:49:35 PM | EPOCHS=50
+01/29 01:49:35 PM | FEATURES=tonnetz
+01/29 01:49:35 PM | FOLD=1
+01/29 01:49:35 PM | GPUS=[0]
+01/29 01:49:35 PM | LEARNING_RATE=0.001
+01/29 01:49:35 PM | MODEL=cnnlstm
+01/29 01:49:35 PM | NAME=new
+01/29 01:49:35 PM | PATH=train\new
+01/29 01:49:35 PM | PLOT_PATH=train\new\plots
+01/29 01:49:35 PM | PRINT_FREQ=50
+01/29 01:49:35 PM | SEED=2
+01/29 01:49:35 PM | WORKERS=2
+01/29 01:49:35 PM | 
+01/29 01:49:35 PM | Train: [29/50] Step 000/013 Loss 0.232 Acc 45.31%
+01/29 01:49:36 PM | Train: [29/50] Step 013/013 Loss 0.237 Acc 38.17%
+01/29 01:49:36 PM | Train: [29/50] Final Acc 38.1696% Train WA 40.4923%
+01/29 01:49:40 PM | 
+01/29 01:49:40 PM | Parameters:
+01/29 01:49:40 PM | BATCH_SIZE=64
+01/29 01:49:40 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:49:40 PM | DATASET=iemocap_kfold
+01/29 01:49:40 PM | EPOCHS=50
+01/29 01:49:40 PM | FEATURES=tonnetz
+01/29 01:49:40 PM | FOLD=1
+01/29 01:49:40 PM | GPUS=[0]
+01/29 01:49:40 PM | LEARNING_RATE=0.001
+01/29 01:49:40 PM | MODEL=cnnlstm
+01/29 01:49:40 PM | NAME=new
+01/29 01:49:40 PM | PATH=train\new
+01/29 01:49:40 PM | PLOT_PATH=train\new\plots
+01/29 01:49:40 PM | PRINT_FREQ=50
+01/29 01:49:40 PM | SEED=2
+01/29 01:49:40 PM | WORKERS=2
+01/29 01:49:40 PM | 
+01/29 01:49:44 PM | 
+01/29 01:49:44 PM | Parameters:
+01/29 01:49:44 PM | BATCH_SIZE=64
+01/29 01:49:44 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:49:44 PM | DATASET=iemocap_kfold
+01/29 01:49:44 PM | EPOCHS=50
+01/29 01:49:44 PM | FEATURES=tonnetz
+01/29 01:49:44 PM | FOLD=1
+01/29 01:49:44 PM | GPUS=[0]
+01/29 01:49:44 PM | LEARNING_RATE=0.001
+01/29 01:49:44 PM | MODEL=cnnlstm
+01/29 01:49:44 PM | NAME=new
+01/29 01:49:44 PM | PATH=train\new
+01/29 01:49:44 PM | PLOT_PATH=train\new\plots
+01/29 01:49:44 PM | PRINT_FREQ=50
+01/29 01:49:44 PM | SEED=2
+01/29 01:49:44 PM | WORKERS=2
+01/29 01:49:44 PM | 
+01/29 01:49:44 PM | Valid: [29/50] Step 000/001 Loss 0.241 Acc 34.38%
+01/29 01:49:44 PM | Valid: [29/50] Step 001/001 Loss 0.240 Acc 35.94%
+01/29 01:49:45 PM | Valid: [29/50] Final Acc 35.9375% Final W. Acc 40.1030%
+01/29 01:49:49 PM | 
+01/29 01:49:49 PM | Parameters:
+01/29 01:49:49 PM | BATCH_SIZE=64
+01/29 01:49:49 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:49:49 PM | DATASET=iemocap_kfold
+01/29 01:49:49 PM | EPOCHS=50
+01/29 01:49:49 PM | FEATURES=tonnetz
+01/29 01:49:49 PM | FOLD=1
+01/29 01:49:49 PM | GPUS=[0]
+01/29 01:49:49 PM | LEARNING_RATE=0.001
+01/29 01:49:49 PM | MODEL=cnnlstm
+01/29 01:49:49 PM | NAME=new
+01/29 01:49:49 PM | PATH=train\new
+01/29 01:49:49 PM | PLOT_PATH=train\new\plots
+01/29 01:49:49 PM | PRINT_FREQ=50
+01/29 01:49:49 PM | SEED=2
+01/29 01:49:49 PM | WORKERS=2
+01/29 01:49:49 PM | 
+01/29 01:49:53 PM | 
+01/29 01:49:53 PM | Parameters:
+01/29 01:49:53 PM | BATCH_SIZE=64
+01/29 01:49:53 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:49:53 PM | DATASET=iemocap_kfold
+01/29 01:49:53 PM | EPOCHS=50
+01/29 01:49:53 PM | FEATURES=tonnetz
+01/29 01:49:53 PM | FOLD=1
+01/29 01:49:53 PM | GPUS=[0]
+01/29 01:49:53 PM | LEARNING_RATE=0.001
+01/29 01:49:53 PM | MODEL=cnnlstm
+01/29 01:49:53 PM | NAME=new
+01/29 01:49:53 PM | PATH=train\new
+01/29 01:49:53 PM | PLOT_PATH=train\new\plots
+01/29 01:49:53 PM | PRINT_FREQ=50
+01/29 01:49:53 PM | SEED=2
+01/29 01:49:53 PM | WORKERS=2
+01/29 01:49:53 PM | 
+01/29 01:49:53 PM | Train: [30/50] Step 000/013 Loss 0.235 Acc 42.19%
+01/29 01:49:53 PM | Train: [30/50] Step 013/013 Loss 0.237 Acc 41.96%
+01/29 01:49:54 PM | Train: [30/50] Final Acc 41.9643% Train WA 44.3473%
+01/29 01:49:58 PM | 
+01/29 01:49:58 PM | Parameters:
+01/29 01:49:58 PM | BATCH_SIZE=64
+01/29 01:49:58 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:49:58 PM | DATASET=iemocap_kfold
+01/29 01:49:58 PM | EPOCHS=50
+01/29 01:49:58 PM | FEATURES=tonnetz
+01/29 01:49:58 PM | FOLD=1
+01/29 01:49:58 PM | GPUS=[0]
+01/29 01:49:58 PM | LEARNING_RATE=0.001
+01/29 01:49:58 PM | MODEL=cnnlstm
+01/29 01:49:58 PM | NAME=new
+01/29 01:49:58 PM | PATH=train\new
+01/29 01:49:58 PM | PLOT_PATH=train\new\plots
+01/29 01:49:58 PM | PRINT_FREQ=50
+01/29 01:49:58 PM | SEED=2
+01/29 01:49:58 PM | WORKERS=2
+01/29 01:49:58 PM | 
+01/29 01:50:02 PM | 
+01/29 01:50:02 PM | Parameters:
+01/29 01:50:02 PM | BATCH_SIZE=64
+01/29 01:50:02 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:50:02 PM | DATASET=iemocap_kfold
+01/29 01:50:02 PM | EPOCHS=50
+01/29 01:50:02 PM | FEATURES=tonnetz
+01/29 01:50:02 PM | FOLD=1
+01/29 01:50:02 PM | GPUS=[0]
+01/29 01:50:02 PM | LEARNING_RATE=0.001
+01/29 01:50:02 PM | MODEL=cnnlstm
+01/29 01:50:02 PM | NAME=new
+01/29 01:50:02 PM | PATH=train\new
+01/29 01:50:02 PM | PLOT_PATH=train\new\plots
+01/29 01:50:02 PM | PRINT_FREQ=50
+01/29 01:50:02 PM | SEED=2
+01/29 01:50:02 PM | WORKERS=2
+01/29 01:50:02 PM | 
+01/29 01:50:02 PM | Valid: [30/50] Step 000/001 Loss 0.240 Acc 32.81%
+01/29 01:50:02 PM | Valid: [30/50] Step 001/001 Loss 0.240 Acc 35.16%
+01/29 01:50:02 PM | Valid: [30/50] Final Acc 35.1562% Final W. Acc 45.2229%
+01/29 01:50:06 PM | 
+01/29 01:50:06 PM | Parameters:
+01/29 01:50:06 PM | BATCH_SIZE=64
+01/29 01:50:06 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:50:06 PM | DATASET=iemocap_kfold
+01/29 01:50:06 PM | EPOCHS=50
+01/29 01:50:06 PM | FEATURES=tonnetz
+01/29 01:50:06 PM | FOLD=1
+01/29 01:50:06 PM | GPUS=[0]
+01/29 01:50:06 PM | LEARNING_RATE=0.001
+01/29 01:50:06 PM | MODEL=cnnlstm
+01/29 01:50:06 PM | NAME=new
+01/29 01:50:06 PM | PATH=train\new
+01/29 01:50:06 PM | PLOT_PATH=train\new\plots
+01/29 01:50:06 PM | PRINT_FREQ=50
+01/29 01:50:06 PM | SEED=2
+01/29 01:50:06 PM | WORKERS=2
+01/29 01:50:06 PM | 
+01/29 01:50:10 PM | 
+01/29 01:50:10 PM | Parameters:
+01/29 01:50:10 PM | BATCH_SIZE=64
+01/29 01:50:10 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:50:10 PM | DATASET=iemocap_kfold
+01/29 01:50:10 PM | EPOCHS=50
+01/29 01:50:10 PM | FEATURES=tonnetz
+01/29 01:50:10 PM | FOLD=1
+01/29 01:50:10 PM | GPUS=[0]
+01/29 01:50:10 PM | LEARNING_RATE=0.001
+01/29 01:50:10 PM | MODEL=cnnlstm
+01/29 01:50:10 PM | NAME=new
+01/29 01:50:10 PM | PATH=train\new
+01/29 01:50:10 PM | PLOT_PATH=train\new\plots
+01/29 01:50:10 PM | PRINT_FREQ=50
+01/29 01:50:10 PM | SEED=2
+01/29 01:50:10 PM | WORKERS=2
+01/29 01:50:10 PM | 
+01/29 01:50:10 PM | Train: [31/50] Step 000/013 Loss 0.234 Acc 42.19%
+01/29 01:50:11 PM | Train: [31/50] Step 013/013 Loss 0.236 Acc 41.41%
+01/29 01:50:11 PM | Train: [31/50] Final Acc 41.4062% Train WA 43.1200%
+01/29 01:50:15 PM | 
+01/29 01:50:15 PM | Parameters:
+01/29 01:50:15 PM | BATCH_SIZE=64
+01/29 01:50:15 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:50:15 PM | DATASET=iemocap_kfold
+01/29 01:50:15 PM | EPOCHS=50
+01/29 01:50:15 PM | FEATURES=tonnetz
+01/29 01:50:15 PM | FOLD=1
+01/29 01:50:15 PM | GPUS=[0]
+01/29 01:50:15 PM | LEARNING_RATE=0.001
+01/29 01:50:15 PM | MODEL=cnnlstm
+01/29 01:50:15 PM | NAME=new
+01/29 01:50:15 PM | PATH=train\new
+01/29 01:50:15 PM | PLOT_PATH=train\new\plots
+01/29 01:50:15 PM | PRINT_FREQ=50
+01/29 01:50:15 PM | SEED=2
+01/29 01:50:15 PM | WORKERS=2
+01/29 01:50:15 PM | 
+01/29 01:50:19 PM | 
+01/29 01:50:19 PM | Parameters:
+01/29 01:50:19 PM | BATCH_SIZE=64
+01/29 01:50:19 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:50:19 PM | DATASET=iemocap_kfold
+01/29 01:50:19 PM | EPOCHS=50
+01/29 01:50:19 PM | FEATURES=tonnetz
+01/29 01:50:19 PM | FOLD=1
+01/29 01:50:19 PM | GPUS=[0]
+01/29 01:50:19 PM | LEARNING_RATE=0.001
+01/29 01:50:19 PM | MODEL=cnnlstm
+01/29 01:50:19 PM | NAME=new
+01/29 01:50:19 PM | PATH=train\new
+01/29 01:50:19 PM | PLOT_PATH=train\new\plots
+01/29 01:50:19 PM | PRINT_FREQ=50
+01/29 01:50:19 PM | SEED=2
+01/29 01:50:19 PM | WORKERS=2
+01/29 01:50:19 PM | 
+01/29 01:50:19 PM | Valid: [31/50] Step 000/001 Loss 0.240 Acc 35.94%
+01/29 01:50:19 PM | Valid: [31/50] Step 001/001 Loss 0.240 Acc 39.06%
+01/29 01:50:20 PM | Valid: [31/50] Final Acc 39.0625% Final W. Acc 46.9392%
+01/29 01:50:24 PM | 
+01/29 01:50:24 PM | Parameters:
+01/29 01:50:24 PM | BATCH_SIZE=64
+01/29 01:50:24 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:50:24 PM | DATASET=iemocap_kfold
+01/29 01:50:24 PM | EPOCHS=50
+01/29 01:50:24 PM | FEATURES=tonnetz
+01/29 01:50:24 PM | FOLD=1
+01/29 01:50:24 PM | GPUS=[0]
+01/29 01:50:24 PM | LEARNING_RATE=0.001
+01/29 01:50:24 PM | MODEL=cnnlstm
+01/29 01:50:24 PM | NAME=new
+01/29 01:50:24 PM | PATH=train\new
+01/29 01:50:24 PM | PLOT_PATH=train\new\plots
+01/29 01:50:24 PM | PRINT_FREQ=50
+01/29 01:50:24 PM | SEED=2
+01/29 01:50:24 PM | WORKERS=2
+01/29 01:50:24 PM | 
+01/29 01:50:28 PM | 
+01/29 01:50:28 PM | Parameters:
+01/29 01:50:28 PM | BATCH_SIZE=64
+01/29 01:50:28 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:50:28 PM | DATASET=iemocap_kfold
+01/29 01:50:28 PM | EPOCHS=50
+01/29 01:50:28 PM | FEATURES=tonnetz
+01/29 01:50:28 PM | FOLD=1
+01/29 01:50:28 PM | GPUS=[0]
+01/29 01:50:28 PM | LEARNING_RATE=0.001
+01/29 01:50:28 PM | MODEL=cnnlstm
+01/29 01:50:28 PM | NAME=new
+01/29 01:50:28 PM | PATH=train\new
+01/29 01:50:28 PM | PLOT_PATH=train\new\plots
+01/29 01:50:28 PM | PRINT_FREQ=50
+01/29 01:50:28 PM | SEED=2
+01/29 01:50:28 PM | WORKERS=2
+01/29 01:50:28 PM | 
+01/29 01:50:28 PM | Train: [32/50] Step 000/013 Loss 0.235 Acc 46.88%
+01/29 01:50:28 PM | Train: [32/50] Step 013/013 Loss 0.236 Acc 41.74%
+01/29 01:50:29 PM | Train: [32/50] Final Acc 41.7411% Train WA 42.9388%
+01/29 01:50:33 PM | 
+01/29 01:50:33 PM | Parameters:
+01/29 01:50:33 PM | BATCH_SIZE=64
+01/29 01:50:33 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:50:33 PM | DATASET=iemocap_kfold
+01/29 01:50:33 PM | EPOCHS=50
+01/29 01:50:33 PM | FEATURES=tonnetz
+01/29 01:50:33 PM | FOLD=1
+01/29 01:50:33 PM | GPUS=[0]
+01/29 01:50:33 PM | LEARNING_RATE=0.001
+01/29 01:50:33 PM | MODEL=cnnlstm
+01/29 01:50:33 PM | NAME=new
+01/29 01:50:33 PM | PATH=train\new
+01/29 01:50:33 PM | PLOT_PATH=train\new\plots
+01/29 01:50:33 PM | PRINT_FREQ=50
+01/29 01:50:33 PM | SEED=2
+01/29 01:50:33 PM | WORKERS=2
+01/29 01:50:33 PM | 
+01/29 01:50:37 PM | 
+01/29 01:50:37 PM | Parameters:
+01/29 01:50:37 PM | BATCH_SIZE=64
+01/29 01:50:37 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:50:37 PM | DATASET=iemocap_kfold
+01/29 01:50:37 PM | EPOCHS=50
+01/29 01:50:37 PM | FEATURES=tonnetz
+01/29 01:50:37 PM | FOLD=1
+01/29 01:50:37 PM | GPUS=[0]
+01/29 01:50:37 PM | LEARNING_RATE=0.001
+01/29 01:50:37 PM | MODEL=cnnlstm
+01/29 01:50:37 PM | NAME=new
+01/29 01:50:37 PM | PATH=train\new
+01/29 01:50:37 PM | PLOT_PATH=train\new\plots
+01/29 01:50:37 PM | PRINT_FREQ=50
+01/29 01:50:37 PM | SEED=2
+01/29 01:50:37 PM | WORKERS=2
+01/29 01:50:37 PM | 
+01/29 01:50:37 PM | Valid: [32/50] Step 000/001 Loss 0.239 Acc 32.81%
+01/29 01:50:37 PM | Valid: [32/50] Step 001/001 Loss 0.239 Acc 37.50%
+01/29 01:50:38 PM | Valid: [32/50] Final Acc 37.5000% Final W. Acc 47.5446%
+01/29 01:50:42 PM | 
+01/29 01:50:42 PM | Parameters:
+01/29 01:50:42 PM | BATCH_SIZE=64
+01/29 01:50:42 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:50:42 PM | DATASET=iemocap_kfold
+01/29 01:50:42 PM | EPOCHS=50
+01/29 01:50:42 PM | FEATURES=tonnetz
+01/29 01:50:42 PM | FOLD=1
+01/29 01:50:42 PM | GPUS=[0]
+01/29 01:50:42 PM | LEARNING_RATE=0.001
+01/29 01:50:42 PM | MODEL=cnnlstm
+01/29 01:50:42 PM | NAME=new
+01/29 01:50:42 PM | PATH=train\new
+01/29 01:50:42 PM | PLOT_PATH=train\new\plots
+01/29 01:50:42 PM | PRINT_FREQ=50
+01/29 01:50:42 PM | SEED=2
+01/29 01:50:42 PM | WORKERS=2
+01/29 01:50:42 PM | 
+01/29 01:50:46 PM | 
+01/29 01:50:46 PM | Parameters:
+01/29 01:50:46 PM | BATCH_SIZE=64
+01/29 01:50:46 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:50:46 PM | DATASET=iemocap_kfold
+01/29 01:50:46 PM | EPOCHS=50
+01/29 01:50:46 PM | FEATURES=tonnetz
+01/29 01:50:46 PM | FOLD=1
+01/29 01:50:46 PM | GPUS=[0]
+01/29 01:50:46 PM | LEARNING_RATE=0.001
+01/29 01:50:46 PM | MODEL=cnnlstm
+01/29 01:50:46 PM | NAME=new
+01/29 01:50:46 PM | PATH=train\new
+01/29 01:50:46 PM | PLOT_PATH=train\new\plots
+01/29 01:50:46 PM | PRINT_FREQ=50
+01/29 01:50:46 PM | SEED=2
+01/29 01:50:46 PM | WORKERS=2
+01/29 01:50:46 PM | 
+01/29 01:50:46 PM | Train: [33/50] Step 000/013 Loss 0.234 Acc 42.19%
+01/29 01:50:46 PM | Train: [33/50] Step 013/013 Loss 0.236 Acc 45.42%
+01/29 01:50:47 PM | Train: [33/50] Final Acc 45.4241% Train WA 45.4617%
+01/29 01:50:51 PM | 
+01/29 01:50:51 PM | Parameters:
+01/29 01:50:51 PM | BATCH_SIZE=64
+01/29 01:50:51 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:50:51 PM | DATASET=iemocap_kfold
+01/29 01:50:51 PM | EPOCHS=50
+01/29 01:50:51 PM | FEATURES=tonnetz
+01/29 01:50:51 PM | FOLD=1
+01/29 01:50:51 PM | GPUS=[0]
+01/29 01:50:51 PM | LEARNING_RATE=0.001
+01/29 01:50:51 PM | MODEL=cnnlstm
+01/29 01:50:51 PM | NAME=new
+01/29 01:50:51 PM | PATH=train\new
+01/29 01:50:51 PM | PLOT_PATH=train\new\plots
+01/29 01:50:51 PM | PRINT_FREQ=50
+01/29 01:50:51 PM | SEED=2
+01/29 01:50:51 PM | WORKERS=2
+01/29 01:50:51 PM | 
+01/29 01:50:55 PM | 
+01/29 01:50:55 PM | Parameters:
+01/29 01:50:55 PM | BATCH_SIZE=64
+01/29 01:50:55 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:50:55 PM | DATASET=iemocap_kfold
+01/29 01:50:55 PM | EPOCHS=50
+01/29 01:50:55 PM | FEATURES=tonnetz
+01/29 01:50:55 PM | FOLD=1
+01/29 01:50:55 PM | GPUS=[0]
+01/29 01:50:55 PM | LEARNING_RATE=0.001
+01/29 01:50:55 PM | MODEL=cnnlstm
+01/29 01:50:55 PM | NAME=new
+01/29 01:50:55 PM | PATH=train\new
+01/29 01:50:55 PM | PLOT_PATH=train\new\plots
+01/29 01:50:55 PM | PRINT_FREQ=50
+01/29 01:50:55 PM | SEED=2
+01/29 01:50:55 PM | WORKERS=2
+01/29 01:50:55 PM | 
+01/29 01:50:55 PM | Valid: [33/50] Step 000/001 Loss 0.239 Acc 29.69%
+01/29 01:50:55 PM | Valid: [33/50] Step 001/001 Loss 0.239 Acc 37.50%
+01/29 01:50:56 PM | Valid: [33/50] Final Acc 37.5000% Final W. Acc 45.0698%
+01/29 01:51:00 PM | 
+01/29 01:51:00 PM | Parameters:
+01/29 01:51:00 PM | BATCH_SIZE=64
+01/29 01:51:00 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:51:00 PM | DATASET=iemocap_kfold
+01/29 01:51:00 PM | EPOCHS=50
+01/29 01:51:00 PM | FEATURES=tonnetz
+01/29 01:51:00 PM | FOLD=1
+01/29 01:51:00 PM | GPUS=[0]
+01/29 01:51:00 PM | LEARNING_RATE=0.001
+01/29 01:51:00 PM | MODEL=cnnlstm
+01/29 01:51:00 PM | NAME=new
+01/29 01:51:00 PM | PATH=train\new
+01/29 01:51:00 PM | PLOT_PATH=train\new\plots
+01/29 01:51:00 PM | PRINT_FREQ=50
+01/29 01:51:00 PM | SEED=2
+01/29 01:51:00 PM | WORKERS=2
+01/29 01:51:00 PM | 
+01/29 01:51:04 PM | 
+01/29 01:51:04 PM | Parameters:
+01/29 01:51:04 PM | BATCH_SIZE=64
+01/29 01:51:04 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:51:04 PM | DATASET=iemocap_kfold
+01/29 01:51:04 PM | EPOCHS=50
+01/29 01:51:04 PM | FEATURES=tonnetz
+01/29 01:51:04 PM | FOLD=1
+01/29 01:51:04 PM | GPUS=[0]
+01/29 01:51:04 PM | LEARNING_RATE=0.001
+01/29 01:51:04 PM | MODEL=cnnlstm
+01/29 01:51:04 PM | NAME=new
+01/29 01:51:04 PM | PATH=train\new
+01/29 01:51:04 PM | PLOT_PATH=train\new\plots
+01/29 01:51:04 PM | PRINT_FREQ=50
+01/29 01:51:04 PM | SEED=2
+01/29 01:51:04 PM | WORKERS=2
+01/29 01:51:04 PM | 
+01/29 01:51:04 PM | Train: [34/50] Step 000/013 Loss 0.231 Acc 45.31%
+01/29 01:51:04 PM | Train: [34/50] Step 013/013 Loss 0.235 Acc 45.20%
+01/29 01:51:05 PM | Train: [34/50] Final Acc 45.2009% Train WA 46.1481%
+01/29 01:51:09 PM | 
+01/29 01:51:09 PM | Parameters:
+01/29 01:51:09 PM | BATCH_SIZE=64
+01/29 01:51:09 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:51:09 PM | DATASET=iemocap_kfold
+01/29 01:51:09 PM | EPOCHS=50
+01/29 01:51:09 PM | FEATURES=tonnetz
+01/29 01:51:09 PM | FOLD=1
+01/29 01:51:09 PM | GPUS=[0]
+01/29 01:51:09 PM | LEARNING_RATE=0.001
+01/29 01:51:09 PM | MODEL=cnnlstm
+01/29 01:51:09 PM | NAME=new
+01/29 01:51:09 PM | PATH=train\new
+01/29 01:51:09 PM | PLOT_PATH=train\new\plots
+01/29 01:51:09 PM | PRINT_FREQ=50
+01/29 01:51:09 PM | SEED=2
+01/29 01:51:09 PM | WORKERS=2
+01/29 01:51:09 PM | 
+01/29 01:51:13 PM | 
+01/29 01:51:13 PM | Parameters:
+01/29 01:51:13 PM | BATCH_SIZE=64
+01/29 01:51:13 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:51:13 PM | DATASET=iemocap_kfold
+01/29 01:51:13 PM | EPOCHS=50
+01/29 01:51:13 PM | FEATURES=tonnetz
+01/29 01:51:13 PM | FOLD=1
+01/29 01:51:13 PM | GPUS=[0]
+01/29 01:51:13 PM | LEARNING_RATE=0.001
+01/29 01:51:13 PM | MODEL=cnnlstm
+01/29 01:51:13 PM | NAME=new
+01/29 01:51:13 PM | PATH=train\new
+01/29 01:51:13 PM | PLOT_PATH=train\new\plots
+01/29 01:51:13 PM | PRINT_FREQ=50
+01/29 01:51:13 PM | SEED=2
+01/29 01:51:13 PM | WORKERS=2
+01/29 01:51:13 PM | 
+01/29 01:51:13 PM | Valid: [34/50] Step 000/001 Loss 0.240 Acc 32.81%
+01/29 01:51:13 PM | Valid: [34/50] Step 001/001 Loss 0.239 Acc 41.41%
+01/29 01:51:14 PM | Valid: [34/50] Final Acc 41.4062% Final W. Acc 42.8016%
+01/29 01:51:18 PM | 
+01/29 01:51:18 PM | Parameters:
+01/29 01:51:18 PM | BATCH_SIZE=64
+01/29 01:51:18 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:51:18 PM | DATASET=iemocap_kfold
+01/29 01:51:18 PM | EPOCHS=50
+01/29 01:51:18 PM | FEATURES=tonnetz
+01/29 01:51:18 PM | FOLD=1
+01/29 01:51:18 PM | GPUS=[0]
+01/29 01:51:18 PM | LEARNING_RATE=0.001
+01/29 01:51:18 PM | MODEL=cnnlstm
+01/29 01:51:18 PM | NAME=new
+01/29 01:51:18 PM | PATH=train\new
+01/29 01:51:18 PM | PLOT_PATH=train\new\plots
+01/29 01:51:18 PM | PRINT_FREQ=50
+01/29 01:51:18 PM | SEED=2
+01/29 01:51:18 PM | WORKERS=2
+01/29 01:51:18 PM | 
+01/29 01:51:22 PM | 
+01/29 01:51:22 PM | Parameters:
+01/29 01:51:22 PM | BATCH_SIZE=64
+01/29 01:51:22 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:51:22 PM | DATASET=iemocap_kfold
+01/29 01:51:22 PM | EPOCHS=50
+01/29 01:51:22 PM | FEATURES=tonnetz
+01/29 01:51:22 PM | FOLD=1
+01/29 01:51:22 PM | GPUS=[0]
+01/29 01:51:22 PM | LEARNING_RATE=0.001
+01/29 01:51:22 PM | MODEL=cnnlstm
+01/29 01:51:22 PM | NAME=new
+01/29 01:51:22 PM | PATH=train\new
+01/29 01:51:22 PM | PLOT_PATH=train\new\plots
+01/29 01:51:22 PM | PRINT_FREQ=50
+01/29 01:51:22 PM | SEED=2
+01/29 01:51:22 PM | WORKERS=2
+01/29 01:51:22 PM | 
+01/29 01:51:22 PM | Train: [35/50] Step 000/013 Loss 0.234 Acc 50.00%
+01/29 01:51:22 PM | Train: [35/50] Step 013/013 Loss 0.235 Acc 49.00%
+01/29 01:51:22 PM | Train: [35/50] Final Acc 48.9955% Train WA 45.9608%
+01/29 01:51:26 PM | 
+01/29 01:51:26 PM | Parameters:
+01/29 01:51:26 PM | BATCH_SIZE=64
+01/29 01:51:26 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:51:26 PM | DATASET=iemocap_kfold
+01/29 01:51:26 PM | EPOCHS=50
+01/29 01:51:26 PM | FEATURES=tonnetz
+01/29 01:51:26 PM | FOLD=1
+01/29 01:51:26 PM | GPUS=[0]
+01/29 01:51:26 PM | LEARNING_RATE=0.001
+01/29 01:51:26 PM | MODEL=cnnlstm
+01/29 01:51:26 PM | NAME=new
+01/29 01:51:26 PM | PATH=train\new
+01/29 01:51:26 PM | PLOT_PATH=train\new\plots
+01/29 01:51:26 PM | PRINT_FREQ=50
+01/29 01:51:26 PM | SEED=2
+01/29 01:51:26 PM | WORKERS=2
+01/29 01:51:26 PM | 
+01/29 01:51:30 PM | 
+01/29 01:51:30 PM | Parameters:
+01/29 01:51:30 PM | BATCH_SIZE=64
+01/29 01:51:30 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:51:30 PM | DATASET=iemocap_kfold
+01/29 01:51:30 PM | EPOCHS=50
+01/29 01:51:30 PM | FEATURES=tonnetz
+01/29 01:51:30 PM | FOLD=1
+01/29 01:51:30 PM | GPUS=[0]
+01/29 01:51:30 PM | LEARNING_RATE=0.001
+01/29 01:51:30 PM | MODEL=cnnlstm
+01/29 01:51:30 PM | NAME=new
+01/29 01:51:30 PM | PATH=train\new
+01/29 01:51:30 PM | PLOT_PATH=train\new\plots
+01/29 01:51:30 PM | PRINT_FREQ=50
+01/29 01:51:30 PM | SEED=2
+01/29 01:51:30 PM | WORKERS=2
+01/29 01:51:30 PM | 
+01/29 01:51:30 PM | Valid: [35/50] Step 000/001 Loss 0.241 Acc 42.19%
+01/29 01:51:30 PM | Valid: [35/50] Step 001/001 Loss 0.240 Acc 49.22%
+01/29 01:51:31 PM | Valid: [35/50] Final Acc 49.2188% Final W. Acc 47.9008%
+01/29 01:51:35 PM | 
+01/29 01:51:35 PM | Parameters:
+01/29 01:51:35 PM | BATCH_SIZE=64
+01/29 01:51:35 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:51:35 PM | DATASET=iemocap_kfold
+01/29 01:51:35 PM | EPOCHS=50
+01/29 01:51:35 PM | FEATURES=tonnetz
+01/29 01:51:35 PM | FOLD=1
+01/29 01:51:35 PM | GPUS=[0]
+01/29 01:51:35 PM | LEARNING_RATE=0.001
+01/29 01:51:35 PM | MODEL=cnnlstm
+01/29 01:51:35 PM | NAME=new
+01/29 01:51:35 PM | PATH=train\new
+01/29 01:51:35 PM | PLOT_PATH=train\new\plots
+01/29 01:51:35 PM | PRINT_FREQ=50
+01/29 01:51:35 PM | SEED=2
+01/29 01:51:35 PM | WORKERS=2
+01/29 01:51:35 PM | 
+01/29 01:51:39 PM | 
+01/29 01:51:39 PM | Parameters:
+01/29 01:51:39 PM | BATCH_SIZE=64
+01/29 01:51:39 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:51:39 PM | DATASET=iemocap_kfold
+01/29 01:51:39 PM | EPOCHS=50
+01/29 01:51:39 PM | FEATURES=tonnetz
+01/29 01:51:39 PM | FOLD=1
+01/29 01:51:39 PM | GPUS=[0]
+01/29 01:51:39 PM | LEARNING_RATE=0.001
+01/29 01:51:39 PM | MODEL=cnnlstm
+01/29 01:51:39 PM | NAME=new
+01/29 01:51:39 PM | PATH=train\new
+01/29 01:51:39 PM | PLOT_PATH=train\new\plots
+01/29 01:51:39 PM | PRINT_FREQ=50
+01/29 01:51:39 PM | SEED=2
+01/29 01:51:39 PM | WORKERS=2
+01/29 01:51:39 PM | 
+01/29 01:51:39 PM | Train: [36/50] Step 000/013 Loss 0.232 Acc 45.31%
+01/29 01:51:39 PM | Train: [36/50] Step 013/013 Loss 0.234 Acc 47.54%
+01/29 01:51:40 PM | Train: [36/50] Final Acc 47.5446% Train WA 46.0693%
+01/29 01:51:44 PM | 
+01/29 01:51:44 PM | Parameters:
+01/29 01:51:44 PM | BATCH_SIZE=64
+01/29 01:51:44 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:51:44 PM | DATASET=iemocap_kfold
+01/29 01:51:44 PM | EPOCHS=50
+01/29 01:51:44 PM | FEATURES=tonnetz
+01/29 01:51:44 PM | FOLD=1
+01/29 01:51:44 PM | GPUS=[0]
+01/29 01:51:44 PM | LEARNING_RATE=0.001
+01/29 01:51:44 PM | MODEL=cnnlstm
+01/29 01:51:44 PM | NAME=new
+01/29 01:51:44 PM | PATH=train\new
+01/29 01:51:44 PM | PLOT_PATH=train\new\plots
+01/29 01:51:44 PM | PRINT_FREQ=50
+01/29 01:51:44 PM | SEED=2
+01/29 01:51:44 PM | WORKERS=2
+01/29 01:51:44 PM | 
+01/29 01:51:48 PM | 
+01/29 01:51:48 PM | Parameters:
+01/29 01:51:48 PM | BATCH_SIZE=64
+01/29 01:51:48 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:51:48 PM | DATASET=iemocap_kfold
+01/29 01:51:48 PM | EPOCHS=50
+01/29 01:51:48 PM | FEATURES=tonnetz
+01/29 01:51:48 PM | FOLD=1
+01/29 01:51:48 PM | GPUS=[0]
+01/29 01:51:48 PM | LEARNING_RATE=0.001
+01/29 01:51:48 PM | MODEL=cnnlstm
+01/29 01:51:48 PM | NAME=new
+01/29 01:51:48 PM | PATH=train\new
+01/29 01:51:48 PM | PLOT_PATH=train\new\plots
+01/29 01:51:48 PM | PRINT_FREQ=50
+01/29 01:51:48 PM | SEED=2
+01/29 01:51:48 PM | WORKERS=2
+01/29 01:51:48 PM | 
+01/29 01:51:48 PM | Valid: [36/50] Step 000/001 Loss 0.239 Acc 39.06%
+01/29 01:51:48 PM | Valid: [36/50] Step 001/001 Loss 0.239 Acc 44.53%
+01/29 01:51:49 PM | Valid: [36/50] Final Acc 44.5312% Final W. Acc 44.6223%
+01/29 01:51:53 PM | 
+01/29 01:51:53 PM | Parameters:
+01/29 01:51:53 PM | BATCH_SIZE=64
+01/29 01:51:53 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:51:53 PM | DATASET=iemocap_kfold
+01/29 01:51:53 PM | EPOCHS=50
+01/29 01:51:53 PM | FEATURES=tonnetz
+01/29 01:51:53 PM | FOLD=1
+01/29 01:51:53 PM | GPUS=[0]
+01/29 01:51:53 PM | LEARNING_RATE=0.001
+01/29 01:51:53 PM | MODEL=cnnlstm
+01/29 01:51:53 PM | NAME=new
+01/29 01:51:53 PM | PATH=train\new
+01/29 01:51:53 PM | PLOT_PATH=train\new\plots
+01/29 01:51:53 PM | PRINT_FREQ=50
+01/29 01:51:53 PM | SEED=2
+01/29 01:51:53 PM | WORKERS=2
+01/29 01:51:53 PM | 
+01/29 01:51:57 PM | 
+01/29 01:51:57 PM | Parameters:
+01/29 01:51:57 PM | BATCH_SIZE=64
+01/29 01:51:57 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:51:57 PM | DATASET=iemocap_kfold
+01/29 01:51:57 PM | EPOCHS=50
+01/29 01:51:57 PM | FEATURES=tonnetz
+01/29 01:51:57 PM | FOLD=1
+01/29 01:51:57 PM | GPUS=[0]
+01/29 01:51:57 PM | LEARNING_RATE=0.001
+01/29 01:51:57 PM | MODEL=cnnlstm
+01/29 01:51:57 PM | NAME=new
+01/29 01:51:57 PM | PATH=train\new
+01/29 01:51:57 PM | PLOT_PATH=train\new\plots
+01/29 01:51:57 PM | PRINT_FREQ=50
+01/29 01:51:57 PM | SEED=2
+01/29 01:51:57 PM | WORKERS=2
+01/29 01:51:57 PM | 
+01/29 01:51:57 PM | Train: [37/50] Step 000/013 Loss 0.232 Acc 54.69%
+01/29 01:51:57 PM | Train: [37/50] Step 013/013 Loss 0.233 Acc 50.22%
+01/29 01:51:57 PM | Train: [37/50] Final Acc 50.2232% Train WA 47.2692%
+01/29 01:52:01 PM | 
+01/29 01:52:01 PM | Parameters:
+01/29 01:52:01 PM | BATCH_SIZE=64
+01/29 01:52:01 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:52:01 PM | DATASET=iemocap_kfold
+01/29 01:52:01 PM | EPOCHS=50
+01/29 01:52:01 PM | FEATURES=tonnetz
+01/29 01:52:01 PM | FOLD=1
+01/29 01:52:01 PM | GPUS=[0]
+01/29 01:52:01 PM | LEARNING_RATE=0.001
+01/29 01:52:01 PM | MODEL=cnnlstm
+01/29 01:52:01 PM | NAME=new
+01/29 01:52:01 PM | PATH=train\new
+01/29 01:52:01 PM | PLOT_PATH=train\new\plots
+01/29 01:52:01 PM | PRINT_FREQ=50
+01/29 01:52:01 PM | SEED=2
+01/29 01:52:01 PM | WORKERS=2
+01/29 01:52:01 PM | 
+01/29 01:52:06 PM | 
+01/29 01:52:06 PM | Parameters:
+01/29 01:52:06 PM | BATCH_SIZE=64
+01/29 01:52:06 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:52:06 PM | DATASET=iemocap_kfold
+01/29 01:52:06 PM | EPOCHS=50
+01/29 01:52:06 PM | FEATURES=tonnetz
+01/29 01:52:06 PM | FOLD=1
+01/29 01:52:06 PM | GPUS=[0]
+01/29 01:52:06 PM | LEARNING_RATE=0.001
+01/29 01:52:06 PM | MODEL=cnnlstm
+01/29 01:52:06 PM | NAME=new
+01/29 01:52:06 PM | PATH=train\new
+01/29 01:52:06 PM | PLOT_PATH=train\new\plots
+01/29 01:52:06 PM | PRINT_FREQ=50
+01/29 01:52:06 PM | SEED=2
+01/29 01:52:06 PM | WORKERS=2
+01/29 01:52:06 PM | 
+01/29 01:52:06 PM | Valid: [37/50] Step 000/001 Loss 0.238 Acc 42.19%
+01/29 01:52:06 PM | Valid: [37/50] Step 001/001 Loss 0.239 Acc 47.66%
+01/29 01:52:06 PM | Valid: [37/50] Final Acc 47.6562% Final W. Acc 42.7055%
+01/29 01:52:10 PM | 
+01/29 01:52:10 PM | Parameters:
+01/29 01:52:10 PM | BATCH_SIZE=64
+01/29 01:52:10 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:52:10 PM | DATASET=iemocap_kfold
+01/29 01:52:10 PM | EPOCHS=50
+01/29 01:52:10 PM | FEATURES=tonnetz
+01/29 01:52:10 PM | FOLD=1
+01/29 01:52:10 PM | GPUS=[0]
+01/29 01:52:10 PM | LEARNING_RATE=0.001
+01/29 01:52:10 PM | MODEL=cnnlstm
+01/29 01:52:10 PM | NAME=new
+01/29 01:52:10 PM | PATH=train\new
+01/29 01:52:10 PM | PLOT_PATH=train\new\plots
+01/29 01:52:10 PM | PRINT_FREQ=50
+01/29 01:52:10 PM | SEED=2
+01/29 01:52:10 PM | WORKERS=2
+01/29 01:52:10 PM | 
+01/29 01:52:14 PM | 
+01/29 01:52:14 PM | Parameters:
+01/29 01:52:14 PM | BATCH_SIZE=64
+01/29 01:52:14 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:52:14 PM | DATASET=iemocap_kfold
+01/29 01:52:14 PM | EPOCHS=50
+01/29 01:52:14 PM | FEATURES=tonnetz
+01/29 01:52:14 PM | FOLD=1
+01/29 01:52:14 PM | GPUS=[0]
+01/29 01:52:14 PM | LEARNING_RATE=0.001
+01/29 01:52:14 PM | MODEL=cnnlstm
+01/29 01:52:14 PM | NAME=new
+01/29 01:52:14 PM | PATH=train\new
+01/29 01:52:14 PM | PLOT_PATH=train\new\plots
+01/29 01:52:14 PM | PRINT_FREQ=50
+01/29 01:52:14 PM | SEED=2
+01/29 01:52:14 PM | WORKERS=2
+01/29 01:52:14 PM | 
+01/29 01:52:14 PM | Train: [38/50] Step 000/013 Loss 0.232 Acc 46.88%
+01/29 01:52:14 PM | Train: [38/50] Step 013/013 Loss 0.234 Acc 52.90%
+01/29 01:52:15 PM | Train: [38/50] Final Acc 52.9018% Train WA 46.9964%
+01/29 01:52:19 PM | 
+01/29 01:52:19 PM | Parameters:
+01/29 01:52:19 PM | BATCH_SIZE=64
+01/29 01:52:19 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:52:19 PM | DATASET=iemocap_kfold
+01/29 01:52:19 PM | EPOCHS=50
+01/29 01:52:19 PM | FEATURES=tonnetz
+01/29 01:52:19 PM | FOLD=1
+01/29 01:52:19 PM | GPUS=[0]
+01/29 01:52:19 PM | LEARNING_RATE=0.001
+01/29 01:52:19 PM | MODEL=cnnlstm
+01/29 01:52:19 PM | NAME=new
+01/29 01:52:19 PM | PATH=train\new
+01/29 01:52:19 PM | PLOT_PATH=train\new\plots
+01/29 01:52:19 PM | PRINT_FREQ=50
+01/29 01:52:19 PM | SEED=2
+01/29 01:52:19 PM | WORKERS=2
+01/29 01:52:19 PM | 
+01/29 01:52:23 PM | 
+01/29 01:52:23 PM | Parameters:
+01/29 01:52:23 PM | BATCH_SIZE=64
+01/29 01:52:23 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:52:23 PM | DATASET=iemocap_kfold
+01/29 01:52:23 PM | EPOCHS=50
+01/29 01:52:23 PM | FEATURES=tonnetz
+01/29 01:52:23 PM | FOLD=1
+01/29 01:52:23 PM | GPUS=[0]
+01/29 01:52:23 PM | LEARNING_RATE=0.001
+01/29 01:52:23 PM | MODEL=cnnlstm
+01/29 01:52:23 PM | NAME=new
+01/29 01:52:23 PM | PATH=train\new
+01/29 01:52:23 PM | PLOT_PATH=train\new\plots
+01/29 01:52:23 PM | PRINT_FREQ=50
+01/29 01:52:23 PM | SEED=2
+01/29 01:52:23 PM | WORKERS=2
+01/29 01:52:23 PM | 
+01/29 01:52:23 PM | Valid: [38/50] Step 000/001 Loss 0.242 Acc 42.19%
+01/29 01:52:23 PM | Valid: [38/50] Step 001/001 Loss 0.241 Acc 47.66%
+01/29 01:52:24 PM | Valid: [38/50] Final Acc 47.6562% Final W. Acc 39.6283%
+01/29 01:52:28 PM | 
+01/29 01:52:28 PM | Parameters:
+01/29 01:52:28 PM | BATCH_SIZE=64
+01/29 01:52:28 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:52:28 PM | DATASET=iemocap_kfold
+01/29 01:52:28 PM | EPOCHS=50
+01/29 01:52:28 PM | FEATURES=tonnetz
+01/29 01:52:28 PM | FOLD=1
+01/29 01:52:28 PM | GPUS=[0]
+01/29 01:52:28 PM | LEARNING_RATE=0.001
+01/29 01:52:28 PM | MODEL=cnnlstm
+01/29 01:52:28 PM | NAME=new
+01/29 01:52:28 PM | PATH=train\new
+01/29 01:52:28 PM | PLOT_PATH=train\new\plots
+01/29 01:52:28 PM | PRINT_FREQ=50
+01/29 01:52:28 PM | SEED=2
+01/29 01:52:28 PM | WORKERS=2
+01/29 01:52:28 PM | 
+01/29 01:52:32 PM | 
+01/29 01:52:32 PM | Parameters:
+01/29 01:52:32 PM | BATCH_SIZE=64
+01/29 01:52:32 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:52:32 PM | DATASET=iemocap_kfold
+01/29 01:52:32 PM | EPOCHS=50
+01/29 01:52:32 PM | FEATURES=tonnetz
+01/29 01:52:32 PM | FOLD=1
+01/29 01:52:32 PM | GPUS=[0]
+01/29 01:52:32 PM | LEARNING_RATE=0.001
+01/29 01:52:32 PM | MODEL=cnnlstm
+01/29 01:52:32 PM | NAME=new
+01/29 01:52:32 PM | PATH=train\new
+01/29 01:52:32 PM | PLOT_PATH=train\new\plots
+01/29 01:52:32 PM | PRINT_FREQ=50
+01/29 01:52:32 PM | SEED=2
+01/29 01:52:32 PM | WORKERS=2
+01/29 01:52:32 PM | 
+01/29 01:52:32 PM | Train: [39/50] Step 000/013 Loss 0.229 Acc 50.00%
+01/29 01:52:32 PM | Train: [39/50] Step 013/013 Loss 0.233 Acc 51.79%
+01/29 01:52:33 PM | Train: [39/50] Final Acc 51.7857% Train WA 46.0899%
+01/29 01:52:37 PM | 
+01/29 01:52:37 PM | Parameters:
+01/29 01:52:37 PM | BATCH_SIZE=64
+01/29 01:52:37 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:52:37 PM | DATASET=iemocap_kfold
+01/29 01:52:37 PM | EPOCHS=50
+01/29 01:52:37 PM | FEATURES=tonnetz
+01/29 01:52:37 PM | FOLD=1
+01/29 01:52:37 PM | GPUS=[0]
+01/29 01:52:37 PM | LEARNING_RATE=0.001
+01/29 01:52:37 PM | MODEL=cnnlstm
+01/29 01:52:37 PM | NAME=new
+01/29 01:52:37 PM | PATH=train\new
+01/29 01:52:37 PM | PLOT_PATH=train\new\plots
+01/29 01:52:37 PM | PRINT_FREQ=50
+01/29 01:52:37 PM | SEED=2
+01/29 01:52:37 PM | WORKERS=2
+01/29 01:52:37 PM | 
+01/29 01:52:41 PM | 
+01/29 01:52:41 PM | Parameters:
+01/29 01:52:41 PM | BATCH_SIZE=64
+01/29 01:52:41 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:52:41 PM | DATASET=iemocap_kfold
+01/29 01:52:41 PM | EPOCHS=50
+01/29 01:52:41 PM | FEATURES=tonnetz
+01/29 01:52:41 PM | FOLD=1
+01/29 01:52:41 PM | GPUS=[0]
+01/29 01:52:41 PM | LEARNING_RATE=0.001
+01/29 01:52:41 PM | MODEL=cnnlstm
+01/29 01:52:41 PM | NAME=new
+01/29 01:52:41 PM | PATH=train\new
+01/29 01:52:41 PM | PLOT_PATH=train\new\plots
+01/29 01:52:41 PM | PRINT_FREQ=50
+01/29 01:52:41 PM | SEED=2
+01/29 01:52:41 PM | WORKERS=2
+01/29 01:52:41 PM | 
+01/29 01:52:41 PM | Valid: [39/50] Step 000/001 Loss 0.244 Acc 45.31%
+01/29 01:52:41 PM | Valid: [39/50] Step 001/001 Loss 0.242 Acc 49.22%
+01/29 01:52:41 PM | Valid: [39/50] Final Acc 49.2188% Final W. Acc 41.4460%
+01/29 01:52:45 PM | 
+01/29 01:52:45 PM | Parameters:
+01/29 01:52:45 PM | BATCH_SIZE=64
+01/29 01:52:45 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:52:45 PM | DATASET=iemocap_kfold
+01/29 01:52:45 PM | EPOCHS=50
+01/29 01:52:45 PM | FEATURES=tonnetz
+01/29 01:52:45 PM | FOLD=1
+01/29 01:52:45 PM | GPUS=[0]
+01/29 01:52:45 PM | LEARNING_RATE=0.001
+01/29 01:52:45 PM | MODEL=cnnlstm
+01/29 01:52:45 PM | NAME=new
+01/29 01:52:45 PM | PATH=train\new
+01/29 01:52:45 PM | PLOT_PATH=train\new\plots
+01/29 01:52:45 PM | PRINT_FREQ=50
+01/29 01:52:45 PM | SEED=2
+01/29 01:52:45 PM | WORKERS=2
+01/29 01:52:45 PM | 
+01/29 01:52:49 PM | 
+01/29 01:52:49 PM | Parameters:
+01/29 01:52:49 PM | BATCH_SIZE=64
+01/29 01:52:49 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:52:49 PM | DATASET=iemocap_kfold
+01/29 01:52:49 PM | EPOCHS=50
+01/29 01:52:49 PM | FEATURES=tonnetz
+01/29 01:52:49 PM | FOLD=1
+01/29 01:52:49 PM | GPUS=[0]
+01/29 01:52:49 PM | LEARNING_RATE=0.001
+01/29 01:52:49 PM | MODEL=cnnlstm
+01/29 01:52:49 PM | NAME=new
+01/29 01:52:49 PM | PATH=train\new
+01/29 01:52:49 PM | PLOT_PATH=train\new\plots
+01/29 01:52:49 PM | PRINT_FREQ=50
+01/29 01:52:49 PM | SEED=2
+01/29 01:52:49 PM | WORKERS=2
+01/29 01:52:49 PM | 
+01/29 01:52:49 PM | Train: [40/50] Step 000/013 Loss 0.233 Acc 51.56%
+01/29 01:52:50 PM | Train: [40/50] Step 013/013 Loss 0.234 Acc 52.90%
+01/29 01:52:50 PM | Train: [40/50] Final Acc 52.9018% Train WA 45.7943%
+01/29 01:52:54 PM | 
+01/29 01:52:54 PM | Parameters:
+01/29 01:52:54 PM | BATCH_SIZE=64
+01/29 01:52:54 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:52:54 PM | DATASET=iemocap_kfold
+01/29 01:52:54 PM | EPOCHS=50
+01/29 01:52:54 PM | FEATURES=tonnetz
+01/29 01:52:54 PM | FOLD=1
+01/29 01:52:54 PM | GPUS=[0]
+01/29 01:52:54 PM | LEARNING_RATE=0.001
+01/29 01:52:54 PM | MODEL=cnnlstm
+01/29 01:52:54 PM | NAME=new
+01/29 01:52:54 PM | PATH=train\new
+01/29 01:52:54 PM | PLOT_PATH=train\new\plots
+01/29 01:52:54 PM | PRINT_FREQ=50
+01/29 01:52:54 PM | SEED=2
+01/29 01:52:54 PM | WORKERS=2
+01/29 01:52:54 PM | 
+01/29 01:52:58 PM | 
+01/29 01:52:58 PM | Parameters:
+01/29 01:52:58 PM | BATCH_SIZE=64
+01/29 01:52:58 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:52:58 PM | DATASET=iemocap_kfold
+01/29 01:52:58 PM | EPOCHS=50
+01/29 01:52:58 PM | FEATURES=tonnetz
+01/29 01:52:58 PM | FOLD=1
+01/29 01:52:58 PM | GPUS=[0]
+01/29 01:52:58 PM | LEARNING_RATE=0.001
+01/29 01:52:58 PM | MODEL=cnnlstm
+01/29 01:52:58 PM | NAME=new
+01/29 01:52:58 PM | PATH=train\new
+01/29 01:52:58 PM | PLOT_PATH=train\new\plots
+01/29 01:52:58 PM | PRINT_FREQ=50
+01/29 01:52:58 PM | SEED=2
+01/29 01:52:58 PM | WORKERS=2
+01/29 01:52:58 PM | 
+01/29 01:52:58 PM | Valid: [40/50] Step 000/001 Loss 0.242 Acc 48.44%
+01/29 01:52:58 PM | Valid: [40/50] Step 001/001 Loss 0.240 Acc 51.56%
+01/29 01:52:59 PM | Valid: [40/50] Final Acc 51.5625% Final W. Acc 42.5598%
+01/29 01:53:03 PM | 
+01/29 01:53:03 PM | Parameters:
+01/29 01:53:03 PM | BATCH_SIZE=64
+01/29 01:53:03 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:53:03 PM | DATASET=iemocap_kfold
+01/29 01:53:03 PM | EPOCHS=50
+01/29 01:53:03 PM | FEATURES=tonnetz
+01/29 01:53:03 PM | FOLD=1
+01/29 01:53:03 PM | GPUS=[0]
+01/29 01:53:03 PM | LEARNING_RATE=0.001
+01/29 01:53:03 PM | MODEL=cnnlstm
+01/29 01:53:03 PM | NAME=new
+01/29 01:53:03 PM | PATH=train\new
+01/29 01:53:03 PM | PLOT_PATH=train\new\plots
+01/29 01:53:03 PM | PRINT_FREQ=50
+01/29 01:53:03 PM | SEED=2
+01/29 01:53:03 PM | WORKERS=2
+01/29 01:53:03 PM | 
+01/29 01:53:07 PM | 
+01/29 01:53:07 PM | Parameters:
+01/29 01:53:07 PM | BATCH_SIZE=64
+01/29 01:53:07 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:53:07 PM | DATASET=iemocap_kfold
+01/29 01:53:07 PM | EPOCHS=50
+01/29 01:53:07 PM | FEATURES=tonnetz
+01/29 01:53:07 PM | FOLD=1
+01/29 01:53:07 PM | GPUS=[0]
+01/29 01:53:07 PM | LEARNING_RATE=0.001
+01/29 01:53:07 PM | MODEL=cnnlstm
+01/29 01:53:07 PM | NAME=new
+01/29 01:53:07 PM | PATH=train\new
+01/29 01:53:07 PM | PLOT_PATH=train\new\plots
+01/29 01:53:07 PM | PRINT_FREQ=50
+01/29 01:53:07 PM | SEED=2
+01/29 01:53:07 PM | WORKERS=2
+01/29 01:53:07 PM | 
+01/29 01:53:07 PM | Train: [41/50] Step 000/013 Loss 0.232 Acc 51.56%
+01/29 01:53:07 PM | Train: [41/50] Step 013/013 Loss 0.233 Acc 53.12%
+01/29 01:53:08 PM | Train: [41/50] Final Acc 53.1250% Train WA 46.4060%
+01/29 01:53:12 PM | 
+01/29 01:53:12 PM | Parameters:
+01/29 01:53:12 PM | BATCH_SIZE=64
+01/29 01:53:12 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:53:12 PM | DATASET=iemocap_kfold
+01/29 01:53:12 PM | EPOCHS=50
+01/29 01:53:12 PM | FEATURES=tonnetz
+01/29 01:53:12 PM | FOLD=1
+01/29 01:53:12 PM | GPUS=[0]
+01/29 01:53:12 PM | LEARNING_RATE=0.001
+01/29 01:53:12 PM | MODEL=cnnlstm
+01/29 01:53:12 PM | NAME=new
+01/29 01:53:12 PM | PATH=train\new
+01/29 01:53:12 PM | PLOT_PATH=train\new\plots
+01/29 01:53:12 PM | PRINT_FREQ=50
+01/29 01:53:12 PM | SEED=2
+01/29 01:53:12 PM | WORKERS=2
+01/29 01:53:12 PM | 
+01/29 01:53:16 PM | 
+01/29 01:53:16 PM | Parameters:
+01/29 01:53:16 PM | BATCH_SIZE=64
+01/29 01:53:16 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:53:16 PM | DATASET=iemocap_kfold
+01/29 01:53:16 PM | EPOCHS=50
+01/29 01:53:16 PM | FEATURES=tonnetz
+01/29 01:53:16 PM | FOLD=1
+01/29 01:53:16 PM | GPUS=[0]
+01/29 01:53:16 PM | LEARNING_RATE=0.001
+01/29 01:53:16 PM | MODEL=cnnlstm
+01/29 01:53:16 PM | NAME=new
+01/29 01:53:16 PM | PATH=train\new
+01/29 01:53:16 PM | PLOT_PATH=train\new\plots
+01/29 01:53:16 PM | PRINT_FREQ=50
+01/29 01:53:16 PM | SEED=2
+01/29 01:53:16 PM | WORKERS=2
+01/29 01:53:16 PM | 
+01/29 01:53:16 PM | Valid: [41/50] Step 000/001 Loss 0.243 Acc 40.62%
+01/29 01:53:16 PM | Valid: [41/50] Step 001/001 Loss 0.241 Acc 47.66%
+01/29 01:53:16 PM | Valid: [41/50] Final Acc 47.6562% Final W. Acc 39.6025%
+01/29 01:53:21 PM | 
+01/29 01:53:21 PM | Parameters:
+01/29 01:53:21 PM | BATCH_SIZE=64
+01/29 01:53:21 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:53:21 PM | DATASET=iemocap_kfold
+01/29 01:53:21 PM | EPOCHS=50
+01/29 01:53:21 PM | FEATURES=tonnetz
+01/29 01:53:21 PM | FOLD=1
+01/29 01:53:21 PM | GPUS=[0]
+01/29 01:53:21 PM | LEARNING_RATE=0.001
+01/29 01:53:21 PM | MODEL=cnnlstm
+01/29 01:53:21 PM | NAME=new
+01/29 01:53:21 PM | PATH=train\new
+01/29 01:53:21 PM | PLOT_PATH=train\new\plots
+01/29 01:53:21 PM | PRINT_FREQ=50
+01/29 01:53:21 PM | SEED=2
+01/29 01:53:21 PM | WORKERS=2
+01/29 01:53:21 PM | 
+01/29 01:53:24 PM | 
+01/29 01:53:24 PM | Parameters:
+01/29 01:53:24 PM | BATCH_SIZE=64
+01/29 01:53:24 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:53:24 PM | DATASET=iemocap_kfold
+01/29 01:53:24 PM | EPOCHS=50
+01/29 01:53:24 PM | FEATURES=tonnetz
+01/29 01:53:24 PM | FOLD=1
+01/29 01:53:24 PM | GPUS=[0]
+01/29 01:53:24 PM | LEARNING_RATE=0.001
+01/29 01:53:24 PM | MODEL=cnnlstm
+01/29 01:53:24 PM | NAME=new
+01/29 01:53:24 PM | PATH=train\new
+01/29 01:53:24 PM | PLOT_PATH=train\new\plots
+01/29 01:53:24 PM | PRINT_FREQ=50
+01/29 01:53:24 PM | SEED=2
+01/29 01:53:24 PM | WORKERS=2
+01/29 01:53:24 PM | 
+01/29 01:53:25 PM | Train: [42/50] Step 000/013 Loss 0.231 Acc 43.75%
+01/29 01:53:25 PM | Train: [42/50] Step 013/013 Loss 0.232 Acc 52.68%
+01/29 01:53:25 PM | Train: [42/50] Final Acc 52.6786% Train WA 46.5757%
+01/29 01:53:29 PM | 
+01/29 01:53:29 PM | Parameters:
+01/29 01:53:29 PM | BATCH_SIZE=64
+01/29 01:53:29 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:53:29 PM | DATASET=iemocap_kfold
+01/29 01:53:29 PM | EPOCHS=50
+01/29 01:53:29 PM | FEATURES=tonnetz
+01/29 01:53:29 PM | FOLD=1
+01/29 01:53:29 PM | GPUS=[0]
+01/29 01:53:29 PM | LEARNING_RATE=0.001
+01/29 01:53:29 PM | MODEL=cnnlstm
+01/29 01:53:29 PM | NAME=new
+01/29 01:53:29 PM | PATH=train\new
+01/29 01:53:29 PM | PLOT_PATH=train\new\plots
+01/29 01:53:29 PM | PRINT_FREQ=50
+01/29 01:53:29 PM | SEED=2
+01/29 01:53:29 PM | WORKERS=2
+01/29 01:53:29 PM | 
+01/29 01:53:33 PM | 
+01/29 01:53:33 PM | Parameters:
+01/29 01:53:33 PM | BATCH_SIZE=64
+01/29 01:53:33 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:53:33 PM | DATASET=iemocap_kfold
+01/29 01:53:33 PM | EPOCHS=50
+01/29 01:53:33 PM | FEATURES=tonnetz
+01/29 01:53:33 PM | FOLD=1
+01/29 01:53:33 PM | GPUS=[0]
+01/29 01:53:33 PM | LEARNING_RATE=0.001
+01/29 01:53:33 PM | MODEL=cnnlstm
+01/29 01:53:33 PM | NAME=new
+01/29 01:53:33 PM | PATH=train\new
+01/29 01:53:33 PM | PLOT_PATH=train\new\plots
+01/29 01:53:33 PM | PRINT_FREQ=50
+01/29 01:53:33 PM | SEED=2
+01/29 01:53:33 PM | WORKERS=2
+01/29 01:53:33 PM | 
+01/29 01:53:33 PM | Valid: [42/50] Step 000/001 Loss 0.245 Acc 45.31%
+01/29 01:53:33 PM | Valid: [42/50] Step 001/001 Loss 0.241 Acc 48.44%
+01/29 01:53:34 PM | Valid: [42/50] Final Acc 48.4375% Final W. Acc 39.4291%
+01/29 01:53:38 PM | 
+01/29 01:53:38 PM | Parameters:
+01/29 01:53:38 PM | BATCH_SIZE=64
+01/29 01:53:38 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:53:38 PM | DATASET=iemocap_kfold
+01/29 01:53:38 PM | EPOCHS=50
+01/29 01:53:38 PM | FEATURES=tonnetz
+01/29 01:53:38 PM | FOLD=1
+01/29 01:53:38 PM | GPUS=[0]
+01/29 01:53:38 PM | LEARNING_RATE=0.001
+01/29 01:53:38 PM | MODEL=cnnlstm
+01/29 01:53:38 PM | NAME=new
+01/29 01:53:38 PM | PATH=train\new
+01/29 01:53:38 PM | PLOT_PATH=train\new\plots
+01/29 01:53:38 PM | PRINT_FREQ=50
+01/29 01:53:38 PM | SEED=2
+01/29 01:53:38 PM | WORKERS=2
+01/29 01:53:38 PM | 
+01/29 01:53:42 PM | 
+01/29 01:53:42 PM | Parameters:
+01/29 01:53:42 PM | BATCH_SIZE=64
+01/29 01:53:42 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:53:42 PM | DATASET=iemocap_kfold
+01/29 01:53:42 PM | EPOCHS=50
+01/29 01:53:42 PM | FEATURES=tonnetz
+01/29 01:53:42 PM | FOLD=1
+01/29 01:53:42 PM | GPUS=[0]
+01/29 01:53:42 PM | LEARNING_RATE=0.001
+01/29 01:53:42 PM | MODEL=cnnlstm
+01/29 01:53:42 PM | NAME=new
+01/29 01:53:42 PM | PATH=train\new
+01/29 01:53:42 PM | PLOT_PATH=train\new\plots
+01/29 01:53:42 PM | PRINT_FREQ=50
+01/29 01:53:42 PM | SEED=2
+01/29 01:53:42 PM | WORKERS=2
+01/29 01:53:42 PM | 
+01/29 01:53:42 PM | Train: [43/50] Step 000/013 Loss 0.228 Acc 50.00%
+01/29 01:53:42 PM | Train: [43/50] Step 013/013 Loss 0.232 Acc 52.23%
+01/29 01:53:43 PM | Train: [43/50] Final Acc 52.2321% Train WA 46.8228%
+01/29 01:53:47 PM | 
+01/29 01:53:47 PM | Parameters:
+01/29 01:53:47 PM | BATCH_SIZE=64
+01/29 01:53:47 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:53:47 PM | DATASET=iemocap_kfold
+01/29 01:53:47 PM | EPOCHS=50
+01/29 01:53:47 PM | FEATURES=tonnetz
+01/29 01:53:47 PM | FOLD=1
+01/29 01:53:47 PM | GPUS=[0]
+01/29 01:53:47 PM | LEARNING_RATE=0.001
+01/29 01:53:47 PM | MODEL=cnnlstm
+01/29 01:53:47 PM | NAME=new
+01/29 01:53:47 PM | PATH=train\new
+01/29 01:53:47 PM | PLOT_PATH=train\new\plots
+01/29 01:53:47 PM | PRINT_FREQ=50
+01/29 01:53:47 PM | SEED=2
+01/29 01:53:47 PM | WORKERS=2
+01/29 01:53:47 PM | 
+01/29 01:53:51 PM | 
+01/29 01:53:51 PM | Parameters:
+01/29 01:53:51 PM | BATCH_SIZE=64
+01/29 01:53:51 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:53:51 PM | DATASET=iemocap_kfold
+01/29 01:53:51 PM | EPOCHS=50
+01/29 01:53:51 PM | FEATURES=tonnetz
+01/29 01:53:51 PM | FOLD=1
+01/29 01:53:51 PM | GPUS=[0]
+01/29 01:53:51 PM | LEARNING_RATE=0.001
+01/29 01:53:51 PM | MODEL=cnnlstm
+01/29 01:53:51 PM | NAME=new
+01/29 01:53:51 PM | PATH=train\new
+01/29 01:53:51 PM | PLOT_PATH=train\new\plots
+01/29 01:53:51 PM | PRINT_FREQ=50
+01/29 01:53:51 PM | SEED=2
+01/29 01:53:51 PM | WORKERS=2
+01/29 01:53:51 PM | 
+01/29 01:53:51 PM | Valid: [43/50] Step 000/001 Loss 0.243 Acc 42.19%
+01/29 01:53:51 PM | Valid: [43/50] Step 001/001 Loss 0.240 Acc 50.00%
+01/29 01:53:51 PM | Valid: [43/50] Final Acc 50.0000% Final W. Acc 41.1937%
+01/29 01:53:55 PM | 
+01/29 01:53:55 PM | Parameters:
+01/29 01:53:55 PM | BATCH_SIZE=64
+01/29 01:53:55 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:53:55 PM | DATASET=iemocap_kfold
+01/29 01:53:55 PM | EPOCHS=50
+01/29 01:53:55 PM | FEATURES=tonnetz
+01/29 01:53:55 PM | FOLD=1
+01/29 01:53:55 PM | GPUS=[0]
+01/29 01:53:55 PM | LEARNING_RATE=0.001
+01/29 01:53:55 PM | MODEL=cnnlstm
+01/29 01:53:55 PM | NAME=new
+01/29 01:53:55 PM | PATH=train\new
+01/29 01:53:55 PM | PLOT_PATH=train\new\plots
+01/29 01:53:55 PM | PRINT_FREQ=50
+01/29 01:53:55 PM | SEED=2
+01/29 01:53:55 PM | WORKERS=2
+01/29 01:53:55 PM | 
+01/29 01:53:59 PM | 
+01/29 01:53:59 PM | Parameters:
+01/29 01:53:59 PM | BATCH_SIZE=64
+01/29 01:53:59 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:53:59 PM | DATASET=iemocap_kfold
+01/29 01:53:59 PM | EPOCHS=50
+01/29 01:53:59 PM | FEATURES=tonnetz
+01/29 01:53:59 PM | FOLD=1
+01/29 01:53:59 PM | GPUS=[0]
+01/29 01:53:59 PM | LEARNING_RATE=0.001
+01/29 01:53:59 PM | MODEL=cnnlstm
+01/29 01:53:59 PM | NAME=new
+01/29 01:53:59 PM | PATH=train\new
+01/29 01:53:59 PM | PLOT_PATH=train\new\plots
+01/29 01:53:59 PM | PRINT_FREQ=50
+01/29 01:53:59 PM | SEED=2
+01/29 01:53:59 PM | WORKERS=2
+01/29 01:53:59 PM | 
+01/29 01:53:59 PM | Train: [44/50] Step 000/013 Loss 0.230 Acc 48.44%
+01/29 01:54:00 PM | Train: [44/50] Step 013/013 Loss 0.232 Acc 53.46%
+01/29 01:54:00 PM | Train: [44/50] Final Acc 53.4598% Train WA 46.1444%
+01/29 01:54:04 PM | 
+01/29 01:54:04 PM | Parameters:
+01/29 01:54:04 PM | BATCH_SIZE=64
+01/29 01:54:04 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:54:04 PM | DATASET=iemocap_kfold
+01/29 01:54:04 PM | EPOCHS=50
+01/29 01:54:04 PM | FEATURES=tonnetz
+01/29 01:54:04 PM | FOLD=1
+01/29 01:54:04 PM | GPUS=[0]
+01/29 01:54:04 PM | LEARNING_RATE=0.001
+01/29 01:54:04 PM | MODEL=cnnlstm
+01/29 01:54:04 PM | NAME=new
+01/29 01:54:04 PM | PATH=train\new
+01/29 01:54:04 PM | PLOT_PATH=train\new\plots
+01/29 01:54:04 PM | PRINT_FREQ=50
+01/29 01:54:04 PM | SEED=2
+01/29 01:54:04 PM | WORKERS=2
+01/29 01:54:04 PM | 
+01/29 01:54:08 PM | 
+01/29 01:54:08 PM | Parameters:
+01/29 01:54:08 PM | BATCH_SIZE=64
+01/29 01:54:08 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:54:08 PM | DATASET=iemocap_kfold
+01/29 01:54:08 PM | EPOCHS=50
+01/29 01:54:08 PM | FEATURES=tonnetz
+01/29 01:54:08 PM | FOLD=1
+01/29 01:54:08 PM | GPUS=[0]
+01/29 01:54:08 PM | LEARNING_RATE=0.001
+01/29 01:54:08 PM | MODEL=cnnlstm
+01/29 01:54:08 PM | NAME=new
+01/29 01:54:08 PM | PATH=train\new
+01/29 01:54:08 PM | PLOT_PATH=train\new\plots
+01/29 01:54:08 PM | PRINT_FREQ=50
+01/29 01:54:08 PM | SEED=2
+01/29 01:54:08 PM | WORKERS=2
+01/29 01:54:08 PM | 
+01/29 01:54:08 PM | Valid: [44/50] Step 000/001 Loss 0.245 Acc 42.19%
+01/29 01:54:08 PM | Valid: [44/50] Step 001/001 Loss 0.244 Acc 46.88%
+01/29 01:54:09 PM | Valid: [44/50] Final Acc 46.8750% Final W. Acc 37.4575%
+01/29 01:54:13 PM | 
+01/29 01:54:13 PM | Parameters:
+01/29 01:54:13 PM | BATCH_SIZE=64
+01/29 01:54:13 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:54:13 PM | DATASET=iemocap_kfold
+01/29 01:54:13 PM | EPOCHS=50
+01/29 01:54:13 PM | FEATURES=tonnetz
+01/29 01:54:13 PM | FOLD=1
+01/29 01:54:13 PM | GPUS=[0]
+01/29 01:54:13 PM | LEARNING_RATE=0.001
+01/29 01:54:13 PM | MODEL=cnnlstm
+01/29 01:54:13 PM | NAME=new
+01/29 01:54:13 PM | PATH=train\new
+01/29 01:54:13 PM | PLOT_PATH=train\new\plots
+01/29 01:54:13 PM | PRINT_FREQ=50
+01/29 01:54:13 PM | SEED=2
+01/29 01:54:13 PM | WORKERS=2
+01/29 01:54:13 PM | 
+01/29 01:54:17 PM | 
+01/29 01:54:17 PM | Parameters:
+01/29 01:54:17 PM | BATCH_SIZE=64
+01/29 01:54:17 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:54:17 PM | DATASET=iemocap_kfold
+01/29 01:54:17 PM | EPOCHS=50
+01/29 01:54:17 PM | FEATURES=tonnetz
+01/29 01:54:17 PM | FOLD=1
+01/29 01:54:17 PM | GPUS=[0]
+01/29 01:54:17 PM | LEARNING_RATE=0.001
+01/29 01:54:17 PM | MODEL=cnnlstm
+01/29 01:54:17 PM | NAME=new
+01/29 01:54:17 PM | PATH=train\new
+01/29 01:54:17 PM | PLOT_PATH=train\new\plots
+01/29 01:54:17 PM | PRINT_FREQ=50
+01/29 01:54:17 PM | SEED=2
+01/29 01:54:17 PM | WORKERS=2
+01/29 01:54:17 PM | 
+01/29 01:54:17 PM | Train: [45/50] Step 000/013 Loss 0.232 Acc 50.00%
+01/29 01:54:17 PM | Train: [45/50] Step 013/013 Loss 0.233 Acc 53.35%
+01/29 01:54:18 PM | Train: [45/50] Final Acc 53.3482% Train WA 46.3263%
+01/29 01:54:22 PM | 
+01/29 01:54:22 PM | Parameters:
+01/29 01:54:22 PM | BATCH_SIZE=64
+01/29 01:54:22 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:54:22 PM | DATASET=iemocap_kfold
+01/29 01:54:22 PM | EPOCHS=50
+01/29 01:54:22 PM | FEATURES=tonnetz
+01/29 01:54:22 PM | FOLD=1
+01/29 01:54:22 PM | GPUS=[0]
+01/29 01:54:22 PM | LEARNING_RATE=0.001
+01/29 01:54:22 PM | MODEL=cnnlstm
+01/29 01:54:22 PM | NAME=new
+01/29 01:54:22 PM | PATH=train\new
+01/29 01:54:22 PM | PLOT_PATH=train\new\plots
+01/29 01:54:22 PM | PRINT_FREQ=50
+01/29 01:54:22 PM | SEED=2
+01/29 01:54:22 PM | WORKERS=2
+01/29 01:54:22 PM | 
+01/29 01:54:26 PM | 
+01/29 01:54:26 PM | Parameters:
+01/29 01:54:26 PM | BATCH_SIZE=64
+01/29 01:54:26 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:54:26 PM | DATASET=iemocap_kfold
+01/29 01:54:26 PM | EPOCHS=50
+01/29 01:54:26 PM | FEATURES=tonnetz
+01/29 01:54:26 PM | FOLD=1
+01/29 01:54:26 PM | GPUS=[0]
+01/29 01:54:26 PM | LEARNING_RATE=0.001
+01/29 01:54:26 PM | MODEL=cnnlstm
+01/29 01:54:26 PM | NAME=new
+01/29 01:54:26 PM | PATH=train\new
+01/29 01:54:26 PM | PLOT_PATH=train\new\plots
+01/29 01:54:26 PM | PRINT_FREQ=50
+01/29 01:54:26 PM | SEED=2
+01/29 01:54:26 PM | WORKERS=2
+01/29 01:54:26 PM | 
+01/29 01:54:26 PM | Valid: [45/50] Step 000/001 Loss 0.243 Acc 46.88%
+01/29 01:54:26 PM | Valid: [45/50] Step 001/001 Loss 0.243 Acc 50.00%
+01/29 01:54:26 PM | Valid: [45/50] Final Acc 50.0000% Final W. Acc 40.0087%
+01/29 01:54:30 PM | 
+01/29 01:54:30 PM | Parameters:
+01/29 01:54:30 PM | BATCH_SIZE=64
+01/29 01:54:30 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:54:30 PM | DATASET=iemocap_kfold
+01/29 01:54:30 PM | EPOCHS=50
+01/29 01:54:30 PM | FEATURES=tonnetz
+01/29 01:54:30 PM | FOLD=1
+01/29 01:54:30 PM | GPUS=[0]
+01/29 01:54:30 PM | LEARNING_RATE=0.001
+01/29 01:54:30 PM | MODEL=cnnlstm
+01/29 01:54:30 PM | NAME=new
+01/29 01:54:30 PM | PATH=train\new
+01/29 01:54:30 PM | PLOT_PATH=train\new\plots
+01/29 01:54:30 PM | PRINT_FREQ=50
+01/29 01:54:30 PM | SEED=2
+01/29 01:54:30 PM | WORKERS=2
+01/29 01:54:30 PM | 
+01/29 01:54:34 PM | 
+01/29 01:54:34 PM | Parameters:
+01/29 01:54:34 PM | BATCH_SIZE=64
+01/29 01:54:34 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:54:34 PM | DATASET=iemocap_kfold
+01/29 01:54:34 PM | EPOCHS=50
+01/29 01:54:34 PM | FEATURES=tonnetz
+01/29 01:54:34 PM | FOLD=1
+01/29 01:54:34 PM | GPUS=[0]
+01/29 01:54:34 PM | LEARNING_RATE=0.001
+01/29 01:54:34 PM | MODEL=cnnlstm
+01/29 01:54:34 PM | NAME=new
+01/29 01:54:34 PM | PATH=train\new
+01/29 01:54:34 PM | PLOT_PATH=train\new\plots
+01/29 01:54:34 PM | PRINT_FREQ=50
+01/29 01:54:34 PM | SEED=2
+01/29 01:54:34 PM | WORKERS=2
+01/29 01:54:34 PM | 
+01/29 01:54:34 PM | Train: [46/50] Step 000/013 Loss 0.230 Acc 50.00%
+01/29 01:54:35 PM | Train: [46/50] Step 013/013 Loss 0.232 Acc 52.12%
+01/29 01:54:35 PM | Train: [46/50] Final Acc 52.1205% Train WA 45.4936%
+01/29 01:54:39 PM | 
+01/29 01:54:39 PM | Parameters:
+01/29 01:54:39 PM | BATCH_SIZE=64
+01/29 01:54:39 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:54:39 PM | DATASET=iemocap_kfold
+01/29 01:54:39 PM | EPOCHS=50
+01/29 01:54:39 PM | FEATURES=tonnetz
+01/29 01:54:39 PM | FOLD=1
+01/29 01:54:39 PM | GPUS=[0]
+01/29 01:54:39 PM | LEARNING_RATE=0.001
+01/29 01:54:39 PM | MODEL=cnnlstm
+01/29 01:54:39 PM | NAME=new
+01/29 01:54:39 PM | PATH=train\new
+01/29 01:54:39 PM | PLOT_PATH=train\new\plots
+01/29 01:54:39 PM | PRINT_FREQ=50
+01/29 01:54:39 PM | SEED=2
+01/29 01:54:39 PM | WORKERS=2
+01/29 01:54:39 PM | 
+01/29 01:54:43 PM | 
+01/29 01:54:43 PM | Parameters:
+01/29 01:54:43 PM | BATCH_SIZE=64
+01/29 01:54:43 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:54:43 PM | DATASET=iemocap_kfold
+01/29 01:54:43 PM | EPOCHS=50
+01/29 01:54:43 PM | FEATURES=tonnetz
+01/29 01:54:43 PM | FOLD=1
+01/29 01:54:43 PM | GPUS=[0]
+01/29 01:54:43 PM | LEARNING_RATE=0.001
+01/29 01:54:43 PM | MODEL=cnnlstm
+01/29 01:54:43 PM | NAME=new
+01/29 01:54:43 PM | PATH=train\new
+01/29 01:54:43 PM | PLOT_PATH=train\new\plots
+01/29 01:54:43 PM | PRINT_FREQ=50
+01/29 01:54:43 PM | SEED=2
+01/29 01:54:43 PM | WORKERS=2
+01/29 01:54:43 PM | 
+01/29 01:54:43 PM | Valid: [46/50] Step 000/001 Loss 0.243 Acc 43.75%
+01/29 01:54:43 PM | Valid: [46/50] Step 001/001 Loss 0.240 Acc 49.22%
+01/29 01:54:44 PM | Valid: [46/50] Final Acc 49.2188% Final W. Acc 40.9168%
+01/29 01:54:48 PM | 
+01/29 01:54:48 PM | Parameters:
+01/29 01:54:48 PM | BATCH_SIZE=64
+01/29 01:54:48 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:54:48 PM | DATASET=iemocap_kfold
+01/29 01:54:48 PM | EPOCHS=50
+01/29 01:54:48 PM | FEATURES=tonnetz
+01/29 01:54:48 PM | FOLD=1
+01/29 01:54:48 PM | GPUS=[0]
+01/29 01:54:48 PM | LEARNING_RATE=0.001
+01/29 01:54:48 PM | MODEL=cnnlstm
+01/29 01:54:48 PM | NAME=new
+01/29 01:54:48 PM | PATH=train\new
+01/29 01:54:48 PM | PLOT_PATH=train\new\plots
+01/29 01:54:48 PM | PRINT_FREQ=50
+01/29 01:54:48 PM | SEED=2
+01/29 01:54:48 PM | WORKERS=2
+01/29 01:54:48 PM | 
+01/29 01:54:52 PM | 
+01/29 01:54:52 PM | Parameters:
+01/29 01:54:52 PM | BATCH_SIZE=64
+01/29 01:54:52 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:54:52 PM | DATASET=iemocap_kfold
+01/29 01:54:52 PM | EPOCHS=50
+01/29 01:54:52 PM | FEATURES=tonnetz
+01/29 01:54:52 PM | FOLD=1
+01/29 01:54:52 PM | GPUS=[0]
+01/29 01:54:52 PM | LEARNING_RATE=0.001
+01/29 01:54:52 PM | MODEL=cnnlstm
+01/29 01:54:52 PM | NAME=new
+01/29 01:54:52 PM | PATH=train\new
+01/29 01:54:52 PM | PLOT_PATH=train\new\plots
+01/29 01:54:52 PM | PRINT_FREQ=50
+01/29 01:54:52 PM | SEED=2
+01/29 01:54:52 PM | WORKERS=2
+01/29 01:54:52 PM | 
+01/29 01:54:52 PM | Train: [47/50] Step 000/013 Loss 0.230 Acc 51.56%
+01/29 01:54:52 PM | Train: [47/50] Step 013/013 Loss 0.232 Acc 52.12%
+01/29 01:54:53 PM | Train: [47/50] Final Acc 52.1205% Train WA 46.7953%
+01/29 01:54:57 PM | 
+01/29 01:54:57 PM | Parameters:
+01/29 01:54:57 PM | BATCH_SIZE=64
+01/29 01:54:57 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:54:57 PM | DATASET=iemocap_kfold
+01/29 01:54:57 PM | EPOCHS=50
+01/29 01:54:57 PM | FEATURES=tonnetz
+01/29 01:54:57 PM | FOLD=1
+01/29 01:54:57 PM | GPUS=[0]
+01/29 01:54:57 PM | LEARNING_RATE=0.001
+01/29 01:54:57 PM | MODEL=cnnlstm
+01/29 01:54:57 PM | NAME=new
+01/29 01:54:57 PM | PATH=train\new
+01/29 01:54:57 PM | PLOT_PATH=train\new\plots
+01/29 01:54:57 PM | PRINT_FREQ=50
+01/29 01:54:57 PM | SEED=2
+01/29 01:54:57 PM | WORKERS=2
+01/29 01:54:57 PM | 
+01/29 01:55:01 PM | 
+01/29 01:55:01 PM | Parameters:
+01/29 01:55:01 PM | BATCH_SIZE=64
+01/29 01:55:01 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:55:01 PM | DATASET=iemocap_kfold
+01/29 01:55:01 PM | EPOCHS=50
+01/29 01:55:01 PM | FEATURES=tonnetz
+01/29 01:55:01 PM | FOLD=1
+01/29 01:55:01 PM | GPUS=[0]
+01/29 01:55:01 PM | LEARNING_RATE=0.001
+01/29 01:55:01 PM | MODEL=cnnlstm
+01/29 01:55:01 PM | NAME=new
+01/29 01:55:01 PM | PATH=train\new
+01/29 01:55:01 PM | PLOT_PATH=train\new\plots
+01/29 01:55:01 PM | PRINT_FREQ=50
+01/29 01:55:01 PM | SEED=2
+01/29 01:55:01 PM | WORKERS=2
+01/29 01:55:01 PM | 
+01/29 01:55:01 PM | Valid: [47/50] Step 000/001 Loss 0.243 Acc 37.50%
+01/29 01:55:01 PM | Valid: [47/50] Step 001/001 Loss 0.240 Acc 46.88%
+01/29 01:55:01 PM | Valid: [47/50] Final Acc 46.8750% Final W. Acc 39.2480%
+01/29 01:55:05 PM | 
+01/29 01:55:05 PM | Parameters:
+01/29 01:55:05 PM | BATCH_SIZE=64
+01/29 01:55:05 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:55:05 PM | DATASET=iemocap_kfold
+01/29 01:55:05 PM | EPOCHS=50
+01/29 01:55:05 PM | FEATURES=tonnetz
+01/29 01:55:05 PM | FOLD=1
+01/29 01:55:05 PM | GPUS=[0]
+01/29 01:55:05 PM | LEARNING_RATE=0.001
+01/29 01:55:05 PM | MODEL=cnnlstm
+01/29 01:55:05 PM | NAME=new
+01/29 01:55:05 PM | PATH=train\new
+01/29 01:55:05 PM | PLOT_PATH=train\new\plots
+01/29 01:55:05 PM | PRINT_FREQ=50
+01/29 01:55:05 PM | SEED=2
+01/29 01:55:05 PM | WORKERS=2
+01/29 01:55:05 PM | 
+01/29 01:55:09 PM | 
+01/29 01:55:09 PM | Parameters:
+01/29 01:55:09 PM | BATCH_SIZE=64
+01/29 01:55:09 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:55:09 PM | DATASET=iemocap_kfold
+01/29 01:55:09 PM | EPOCHS=50
+01/29 01:55:09 PM | FEATURES=tonnetz
+01/29 01:55:09 PM | FOLD=1
+01/29 01:55:09 PM | GPUS=[0]
+01/29 01:55:09 PM | LEARNING_RATE=0.001
+01/29 01:55:09 PM | MODEL=cnnlstm
+01/29 01:55:09 PM | NAME=new
+01/29 01:55:09 PM | PATH=train\new
+01/29 01:55:09 PM | PLOT_PATH=train\new\plots
+01/29 01:55:09 PM | PRINT_FREQ=50
+01/29 01:55:09 PM | SEED=2
+01/29 01:55:09 PM | WORKERS=2
+01/29 01:55:09 PM | 
+01/29 01:55:09 PM | Train: [48/50] Step 000/013 Loss 0.230 Acc 54.69%
+01/29 01:55:10 PM | Train: [48/50] Step 013/013 Loss 0.231 Acc 55.36%
+01/29 01:55:10 PM | Train: [48/50] Final Acc 55.3571% Train WA 48.7692%
+01/29 01:55:14 PM | 
+01/29 01:55:14 PM | Parameters:
+01/29 01:55:14 PM | BATCH_SIZE=64
+01/29 01:55:14 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:55:14 PM | DATASET=iemocap_kfold
+01/29 01:55:14 PM | EPOCHS=50
+01/29 01:55:14 PM | FEATURES=tonnetz
+01/29 01:55:14 PM | FOLD=1
+01/29 01:55:14 PM | GPUS=[0]
+01/29 01:55:14 PM | LEARNING_RATE=0.001
+01/29 01:55:14 PM | MODEL=cnnlstm
+01/29 01:55:14 PM | NAME=new
+01/29 01:55:14 PM | PATH=train\new
+01/29 01:55:14 PM | PLOT_PATH=train\new\plots
+01/29 01:55:14 PM | PRINT_FREQ=50
+01/29 01:55:14 PM | SEED=2
+01/29 01:55:14 PM | WORKERS=2
+01/29 01:55:14 PM | 
+01/29 01:55:18 PM | 
+01/29 01:55:18 PM | Parameters:
+01/29 01:55:18 PM | BATCH_SIZE=64
+01/29 01:55:18 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:55:18 PM | DATASET=iemocap_kfold
+01/29 01:55:18 PM | EPOCHS=50
+01/29 01:55:18 PM | FEATURES=tonnetz
+01/29 01:55:18 PM | FOLD=1
+01/29 01:55:18 PM | GPUS=[0]
+01/29 01:55:18 PM | LEARNING_RATE=0.001
+01/29 01:55:18 PM | MODEL=cnnlstm
+01/29 01:55:18 PM | NAME=new
+01/29 01:55:18 PM | PATH=train\new
+01/29 01:55:18 PM | PLOT_PATH=train\new\plots
+01/29 01:55:18 PM | PRINT_FREQ=50
+01/29 01:55:18 PM | SEED=2
+01/29 01:55:18 PM | WORKERS=2
+01/29 01:55:18 PM | 
+01/29 01:55:18 PM | Valid: [48/50] Step 000/001 Loss 0.245 Acc 42.19%
+01/29 01:55:18 PM | Valid: [48/50] Step 001/001 Loss 0.242 Acc 49.22%
+01/29 01:55:19 PM | Valid: [48/50] Final Acc 49.2188% Final W. Acc 40.2338%
+01/29 01:55:23 PM | 
+01/29 01:55:23 PM | Parameters:
+01/29 01:55:23 PM | BATCH_SIZE=64
+01/29 01:55:23 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:55:23 PM | DATASET=iemocap_kfold
+01/29 01:55:23 PM | EPOCHS=50
+01/29 01:55:23 PM | FEATURES=tonnetz
+01/29 01:55:23 PM | FOLD=1
+01/29 01:55:23 PM | GPUS=[0]
+01/29 01:55:23 PM | LEARNING_RATE=0.001
+01/29 01:55:23 PM | MODEL=cnnlstm
+01/29 01:55:23 PM | NAME=new
+01/29 01:55:23 PM | PATH=train\new
+01/29 01:55:23 PM | PLOT_PATH=train\new\plots
+01/29 01:55:23 PM | PRINT_FREQ=50
+01/29 01:55:23 PM | SEED=2
+01/29 01:55:23 PM | WORKERS=2
+01/29 01:55:23 PM | 
+01/29 01:55:27 PM | 
+01/29 01:55:27 PM | Parameters:
+01/29 01:55:27 PM | BATCH_SIZE=64
+01/29 01:55:27 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:55:27 PM | DATASET=iemocap_kfold
+01/29 01:55:27 PM | EPOCHS=50
+01/29 01:55:27 PM | FEATURES=tonnetz
+01/29 01:55:27 PM | FOLD=1
+01/29 01:55:27 PM | GPUS=[0]
+01/29 01:55:27 PM | LEARNING_RATE=0.001
+01/29 01:55:27 PM | MODEL=cnnlstm
+01/29 01:55:27 PM | NAME=new
+01/29 01:55:27 PM | PATH=train\new
+01/29 01:55:27 PM | PLOT_PATH=train\new\plots
+01/29 01:55:27 PM | PRINT_FREQ=50
+01/29 01:55:27 PM | SEED=2
+01/29 01:55:27 PM | WORKERS=2
+01/29 01:55:27 PM | 
+01/29 01:55:27 PM | Train: [49/50] Step 000/013 Loss 0.227 Acc 50.00%
+01/29 01:55:27 PM | Train: [49/50] Step 013/013 Loss 0.231 Acc 54.91%
+01/29 01:55:28 PM | Train: [49/50] Final Acc 54.9107% Train WA 47.9142%
+01/29 01:55:32 PM | 
+01/29 01:55:32 PM | Parameters:
+01/29 01:55:32 PM | BATCH_SIZE=64
+01/29 01:55:32 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:55:32 PM | DATASET=iemocap_kfold
+01/29 01:55:32 PM | EPOCHS=50
+01/29 01:55:32 PM | FEATURES=tonnetz
+01/29 01:55:32 PM | FOLD=1
+01/29 01:55:32 PM | GPUS=[0]
+01/29 01:55:32 PM | LEARNING_RATE=0.001
+01/29 01:55:32 PM | MODEL=cnnlstm
+01/29 01:55:32 PM | NAME=new
+01/29 01:55:32 PM | PATH=train\new
+01/29 01:55:32 PM | PLOT_PATH=train\new\plots
+01/29 01:55:32 PM | PRINT_FREQ=50
+01/29 01:55:32 PM | SEED=2
+01/29 01:55:32 PM | WORKERS=2
+01/29 01:55:32 PM | 
+01/29 01:55:36 PM | 
+01/29 01:55:36 PM | Parameters:
+01/29 01:55:36 PM | BATCH_SIZE=64
+01/29 01:55:36 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:55:36 PM | DATASET=iemocap_kfold
+01/29 01:55:36 PM | EPOCHS=50
+01/29 01:55:36 PM | FEATURES=tonnetz
+01/29 01:55:36 PM | FOLD=1
+01/29 01:55:36 PM | GPUS=[0]
+01/29 01:55:36 PM | LEARNING_RATE=0.001
+01/29 01:55:36 PM | MODEL=cnnlstm
+01/29 01:55:36 PM | NAME=new
+01/29 01:55:36 PM | PATH=train\new
+01/29 01:55:36 PM | PLOT_PATH=train\new\plots
+01/29 01:55:36 PM | PRINT_FREQ=50
+01/29 01:55:36 PM | SEED=2
+01/29 01:55:36 PM | WORKERS=2
+01/29 01:55:36 PM | 
+01/29 01:55:36 PM | Valid: [49/50] Step 000/001 Loss 0.244 Acc 51.56%
+01/29 01:55:36 PM | Valid: [49/50] Step 001/001 Loss 0.242 Acc 53.12%
+01/29 01:55:36 PM | Valid: [49/50] Final Acc 53.1250% Final W. Acc 41.9543%
+01/29 01:55:40 PM | 
+01/29 01:55:40 PM | Parameters:
+01/29 01:55:40 PM | BATCH_SIZE=64
+01/29 01:55:40 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:55:40 PM | DATASET=iemocap_kfold
+01/29 01:55:40 PM | EPOCHS=50
+01/29 01:55:40 PM | FEATURES=tonnetz
+01/29 01:55:40 PM | FOLD=1
+01/29 01:55:40 PM | GPUS=[0]
+01/29 01:55:40 PM | LEARNING_RATE=0.001
+01/29 01:55:40 PM | MODEL=cnnlstm
+01/29 01:55:40 PM | NAME=new
+01/29 01:55:40 PM | PATH=train\new
+01/29 01:55:40 PM | PLOT_PATH=train\new\plots
+01/29 01:55:40 PM | PRINT_FREQ=50
+01/29 01:55:40 PM | SEED=2
+01/29 01:55:40 PM | WORKERS=2
+01/29 01:55:40 PM | 
+01/29 01:55:44 PM | 
+01/29 01:55:44 PM | Parameters:
+01/29 01:55:44 PM | BATCH_SIZE=64
+01/29 01:55:44 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:55:44 PM | DATASET=iemocap_kfold
+01/29 01:55:44 PM | EPOCHS=50
+01/29 01:55:44 PM | FEATURES=tonnetz
+01/29 01:55:44 PM | FOLD=1
+01/29 01:55:44 PM | GPUS=[0]
+01/29 01:55:44 PM | LEARNING_RATE=0.001
+01/29 01:55:44 PM | MODEL=cnnlstm
+01/29 01:55:44 PM | NAME=new
+01/29 01:55:44 PM | PATH=train\new
+01/29 01:55:44 PM | PLOT_PATH=train\new\plots
+01/29 01:55:44 PM | PRINT_FREQ=50
+01/29 01:55:44 PM | SEED=2
+01/29 01:55:44 PM | WORKERS=2
+01/29 01:55:44 PM | 
+01/29 01:55:44 PM | Train: [50/50] Step 000/013 Loss 0.230 Acc 42.19%
+01/29 01:55:44 PM | Train: [50/50] Step 013/013 Loss 0.231 Acc 52.57%
+01/29 01:55:45 PM | Train: [50/50] Final Acc 52.5670% Train WA 46.5057%
+01/29 01:55:49 PM | 
+01/29 01:55:49 PM | Parameters:
+01/29 01:55:49 PM | BATCH_SIZE=64
+01/29 01:55:49 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:55:49 PM | DATASET=iemocap_kfold
+01/29 01:55:49 PM | EPOCHS=50
+01/29 01:55:49 PM | FEATURES=tonnetz
+01/29 01:55:49 PM | FOLD=1
+01/29 01:55:49 PM | GPUS=[0]
+01/29 01:55:49 PM | LEARNING_RATE=0.001
+01/29 01:55:49 PM | MODEL=cnnlstm
+01/29 01:55:49 PM | NAME=new
+01/29 01:55:49 PM | PATH=train\new
+01/29 01:55:49 PM | PLOT_PATH=train\new\plots
+01/29 01:55:49 PM | PRINT_FREQ=50
+01/29 01:55:49 PM | SEED=2
+01/29 01:55:49 PM | WORKERS=2
+01/29 01:55:49 PM | 
+01/29 01:55:53 PM | 
+01/29 01:55:53 PM | Parameters:
+01/29 01:55:53 PM | BATCH_SIZE=64
+01/29 01:55:53 PM | DATA_PATH=C:/Users/75001023/OneDrive - Murdoch University (1)/Desktop/tasks/experiments_obj1/emo/emoDARTS/prepare-dataset/processed_tonnetz_k_fold
+01/29 01:55:53 PM | DATASET=iemocap_kfold
+01/29 01:55:53 PM | EPOCHS=50
+01/29 01:55:53 PM | FEATURES=tonnetz
+01/29 01:55:53 PM | FOLD=1
+01/29 01:55:53 PM | GPUS=[0]
+01/29 01:55:53 PM | LEARNING_RATE=0.001
+01/29 01:55:53 PM | MODEL=cnnlstm
+01/29 01:55:53 PM | NAME=new
+01/29 01:55:53 PM | PATH=train\new
+01/29 01:55:53 PM | PLOT_PATH=train\new\plots
+01/29 01:55:53 PM | PRINT_FREQ=50
+01/29 01:55:53 PM | SEED=2
+01/29 01:55:53 PM | WORKERS=2
+01/29 01:55:53 PM | 
+01/29 01:55:53 PM | Valid: [50/50] Step 000/001 Loss 0.245 Acc 43.75%
+01/29 01:55:53 PM | Valid: [50/50] Step 001/001 Loss 0.243 Acc 47.66%
+01/29 01:55:54 PM | Valid: [50/50] Final Acc 47.6562% Final W. Acc 40.2597%
+01/29 01:55:54 PM | Final best Accuracy = 53.1250%
+01/29 01:55:54 PM | Final best Accuracy = 47.9008%
