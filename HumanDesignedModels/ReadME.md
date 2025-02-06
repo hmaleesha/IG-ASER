@@ -10,3 +10,6 @@ Implementation baseline code reference:
   pages={110492-110503},
   keywords={Computer architecture;Microprocessors;Convolutional neural networks;Emotion recognition;Speech recognition;Optimization;Long short term memory;Speech emotion recognition;neural architecture search;deep learning;DARTS},
   doi={10.1109/ACCESS.2024.3439604}}
+
+GitHub:
+https://github.com/iot-health/emoDARTS
