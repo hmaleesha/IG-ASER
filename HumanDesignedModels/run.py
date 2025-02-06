@@ -173,7 +173,7 @@ def get_model(model_type, features):
     model_type = model_type.lower()
     features = features.lower()
 
-    if features == 'mfchton':
+    if features == 'mfccpin':
         from mfcc_model import MFCC_CNNModel, MFCC_RNNModel, MFCC_LSTMModel, MFCC_CNNLSTMModel, MFCC_CNNLSTMAttModel
         if model_type == 'cnn':
             return MFCC_CNNModel()

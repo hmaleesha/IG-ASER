@@ -71,5 +71,9 @@ class TrainConfig(BaseConfig):
 
         self.data_path = ''
         self.path = os.path.join('train', self.name)
+        self.num_folds=5
         self.plot_path = os.path.join(self.path, 'plots')
+        self.features_path = os.path.join(self.path, 'features')
+        self.val_features_path = os.path.join(self.path, 'val_features')
+        #self.weight_decay = 1e-5
         self.gpus = parse_gpus(self.gpus)
